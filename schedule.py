@@ -22,7 +22,7 @@ class Course:
         courseNums[number] = self
         courseNames[name] = self
 
-""" prereqs are represnted in Disjunction Normal Form -- a list of 
+""" prereqs are represnted in Disjunctive Normal Form -- a list of 
 """
 # CS core
 Course("Fundamentals of Programming and Computer Science", 15112, 12, [], [])
@@ -84,21 +84,4 @@ Course("Introduction to Probability Theory", 36225, 9, [[21256],[21259]], [])
 
 
 
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-
- 
 
