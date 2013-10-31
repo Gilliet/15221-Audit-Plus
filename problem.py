@@ -13,9 +13,14 @@ def removeReqs(classes, reqs):
         A list of remaining requirements, in CNF
     """
     new_reqs = []
-    for r in reqs:
-        for c in classes:
-            if not c in r: new_reqs.append(r)
+    for disjunction in reqs:
+        satisfied = False
+        for c in disjunction:
+            if c in classes:
+                satisfied = True
+        if not satisfied:
+            new_reqs.append(disjunction)
+        
     return new_reqs
 
 def prereqsSatisfied(courseNum, schedule):
@@ -35,6 +40,31 @@ def prereqsSatisfied(courseNum, schedule):
             return false
     return true
 
+def possibleClasses(courses, degree_reqs):
+    """ Returns a list of course numbers that satisfy degree requirements 
+        and have all prerequisites met. 
+
+    Args:
+        couses: a list of courses (by number) taken to date
+        degree_reqs: a list of degree requirements, in CNF
+
+    Returns:
+        A list of courses that could be taken in the next semester
+    """
+    course_set = set(courses)
+    possible_classes = []
+    for disjunction in degree_reqs:  # reqs in CNF
+        for course in disjunction:
+            prereqs = (courseNums.get(course, nodata)).prereqs # prereqs in DNF
+            if not prereqs: possible_classes.append(course)
+            for conjunction  in prereqs:
+                if set(conjunction).issubset(course_set):
+                    possible_classes.append(course)
+
+    return possible_classes   # very simple. TODO: coreqs, antireqs, etc. 
+
+                
+
 
 
 
@@ -49,10 +79,16 @@ classes = []      # disjunctive normal form
 """
 class scheduleProblem(Problem):
     # actions are a list of classes to take in a semester
-    def actions(self, state):
-        pass
-        # get list X of possible semesters
-        # and return set of states, where each state = x :: state, forall x <- X
+    def actions(self, state):  # NOT CORRECT
+        (reqs, sems) = state
+        courses = sum(sems.values(), [])
+        possible_courses = possibleClasses(courses, reqs)
+
+        temp = set([frozenset((x,y)) for x in possible_courses for y in possible_courses if x !=y])
+        schedules = []
+        for a in temp:
+            schedules.append(list(a))
+        return schedules
 
     def result(self, state, course_list):
         (reqs, sems) = state
@@ -72,7 +108,8 @@ class scheduleProblem(Problem):
 
 
 sems = dict()
-sems[0] = []
+sems[0] = [15112]
 initialState = (CS, sems)
 a = scheduleProblem(initialState)
+print a.actions(initialState)
 

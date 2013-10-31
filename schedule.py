@@ -5,7 +5,7 @@ CS = [[15128], [15122], [15150], [15210], [15213], [15251], [15451], [15221],   
       [2450, 5391, 5431, 10601, 11411, 15313, 15322, 15323, 15381, 15415, 15462, 16384, 16385],
       [15312, 15317, 15414, 15424, 21300, 80311], # logics/languages
       [15410, 15411, 15418, 15440, 15441], # distributed systems
-      [21120, 21122, 21127], # mathematics
+      [21120], [21122], [21127], # mathematics
       [15359, 21325, 36217, 36225]]  # probability
         
 courseNums  = {}  # (keys = course numbers, values = course objects)
@@ -45,7 +45,7 @@ Course("Graph Theory", 21484, 9, [[21228,21241],[21228,21242],[15251,21241],[152
 # Applications
 Course("Automation of Biological Research", 2450, 9, [[15122]], [])
 Course("Designing Human Centered Software", 5391, 12, [], [])
-Course("Software Structures for User Interfaces", 05453, 6, [], [[05433]])
+Course("Software Structures for User Interfaces", 5431, 6, [], [[05433]])
 Course("Machine Learning", 10601, 12, [[15122,21127],[15122,15151]], [[21325],[15259],[36225],[36217]])
 Course("Natural Language Processing", 11411, 12, [[15122]], [])
 Course("Foundations of Software Engineering", 15313, 12, [[15214]], [])
@@ -80,6 +80,9 @@ Course("Probability and Computing", 15359, 12, [[15251, 21259, 21241]], [])
 Course("Probability", 21325, 9, [[21259],[21268],[21269]], [])
 Course("Probabliity Theory and Random Processes", 36217, 9, [[21122],[21112],[21259],[21256],[21123]],[])
 Course("Introduction to Probability Theory", 36225, 9, [[21256],[21259]], [])
+
+global nodata
+nodata = Course("NODATA", -1, -1, [[-1]], [-1]) # we won't suggest courses we don't have data for
 
 
 
