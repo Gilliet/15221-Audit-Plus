@@ -1,3 +1,6 @@
+import itertools
+import random
+
 from aima.search import *
 from schedule import *
 
@@ -95,11 +98,12 @@ class scheduleProblem(Problem):
         courses = sum(sems.values(), [])
         possible_courses = possibleClasses(sems, reqs)
 
-        temp = set([frozenset((x,y)) for x in possible_courses for y in possible_courses if x !=y])
+        temp = itertools.combinations(possible_courses, 2)
         schedules = []
-        for a in temp:
-            schedules.append(list(a))
+        for x in temp:
+            schedules.append(list(x))
         return schedules
+
 
     def result(self, state, course_list):
         (reqs, sems) = state
