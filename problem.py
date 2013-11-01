@@ -29,38 +29,42 @@ def prereqsSatisfied(courseNum, schedule):
 
     Args:
         courseNum: number of course to check (int)
-        schedule: dictionary of semeseters and classes
+        schedule: dictionary of semesters and classes
 
     Returns:
         true/false
     """
     classes = sum(schedule.values(), [])
-    for x in courseNums[courseNum].prereqs:
-        if x not in classes:
-            return false
-    return true
+    prereqs = courseNums.get(courseNum, nodata).prereqs
+    if not prereqs: return True
+    for conjunction in courseNums.get(courseNum, nodata).prereqs:
+        satisfied = True
+        for course in conjunction:
+            if course not in classes:
+                satisfied = False
+        if satisfied: return True
+    return False
 
-def possibleClasses(courses, degree_reqs):
+def possibleClasses(schedule, degree_reqs):
     """ Returns a list of course numbers that satisfy degree requirements 
         and have all prerequisites met. 
 
     Args:
-        couses: a list of courses (by number) taken to date
+        schedule: a dictionary of semesters and classes
         degree_reqs: a list of degree requirements, in CNF
 
     Returns:
         A list of courses that could be taken in the next semester
     """
+    courses = sum(schedule.values(), [])
     course_set = set(courses)
     possible_classes = []
     for disjunction in degree_reqs:  # reqs in CNF
         for course in disjunction:
-            prereqs = (courseNums.get(course, nodata)).prereqs # prereqs in DNF
-            if not prereqs: possible_classes.append(course)
-            for conjunction  in prereqs:
-                if set(conjunction).issubset(course_set):
-                    possible_classes.append(course)
+            if prereqsSatisfied(course, schedule):
+                possible_classes.append(course)
 
+    random.shuffle(possible_classes)
     return possible_classes   # very simple. TODO: coreqs, antireqs, etc. 
 
                 
@@ -78,11 +82,18 @@ classes = []      # disjunctive normal form
        where dict[0] = existing course credit
 """
 class scheduleProblem(Problem):
+    def __init__(self, initialState):
+        (reqs, sems) = initialState
+        classes = sum(sems.values(), [])
+        new_reqs = removeReqs(classes, reqs)
+        self.initial = (new_reqs, sems)
+
+
     # actions are a list of classes to take in a semester
     def actions(self, state):  # NOT CORRECT
         (reqs, sems) = state
         courses = sum(sems.values(), [])
-        possible_courses = possibleClasses(courses, reqs)
+        possible_courses = possibleClasses(sems, reqs)
 
         temp = set([frozenset((x,y)) for x in possible_courses for y in possible_courses if x !=y])
         schedules = []
@@ -94,8 +105,8 @@ class scheduleProblem(Problem):
         (reqs, sems) = state
         new_reqs = removeReqs(course_list, reqs)
         next_sem = max(sems.keys()) +1
-
         new_sems = sems.copy()
+
         new_sems[next_sem] = course_list
         return(new_reqs, new_sems)
 
@@ -108,8 +119,8 @@ class scheduleProblem(Problem):
 
 
 sems = dict()
-sems[0] = [15112]
+sems[0] = [15112, 15151, 21241, 76101, 15122]
 initialState = (CS, sems)
 a = scheduleProblem(initialState)
-print a.actions(initialState)
+(reqs, sems) = initialState
 
