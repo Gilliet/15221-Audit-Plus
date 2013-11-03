@@ -124,7 +124,7 @@ class scheduleProblem(Problem):
 
 
 sems = dict()
-sems[0] = [15112, 15151, 21241, 76101, 15122]
+sems[0] = [15112, 15151, 21241, 76101, 15122, 15128]
 initialState = (CS, sems)
 a = scheduleProblem(initialState)
 
