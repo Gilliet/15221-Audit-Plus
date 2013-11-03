@@ -11,6 +11,7 @@ if len(sys.argv) < 2:
     exit(1)
 
 a = scheduleProblem(initialState)
+print initialState
 
 schedules = []
 for i in range(int(sys.argv[1])):
