@@ -28,6 +28,8 @@ Breadth-first search is unreasonably slow. Way too slow.
 *    problem.py  -- a first attempt at a problem definition for schedule building
                  this contains the relevant logic
 
+*    gen_sample_schedules.py -- prints out schedules as csv
+
 *    aima/*      -- code from Artificial Intellgience: A Modern Approach
                  (for search algorithms)
                  

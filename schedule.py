@@ -25,6 +25,7 @@ class Course:
 """ prereqs are represnted in Disjunctive Normal Form -- a list of 
 """
 # CS core
+Course("Mathematical Foundations for Computer Science", 15151, 12, [], [])
 Course("Fundamentals of Programming and Computer Science", 15112, 12, [], [])
 Course("Great Theoretical Ideas", 15251, 12, [[15151, 15112]], [])
 Course("Freshman Immigration Course", 15128, 1, [], [])
@@ -35,6 +36,7 @@ Course("Introduction to Computer Systems", 15213, 12, [[15122]], [])
 Course("Great Theoretical Ideas in Computer Science", 15251, 12, [[15112, 15151]], [])
 Course("Algorithm Design and Analysis", 15451, 12, [[15251, 15210, 21241]], [])
 Course("Technical Communication for Computer Scientists", 15221, 9, [[76101]], [])
+Course("Interpretation and Argument", 76101, 9, [], [])
 # Algorithms/Complexity
 Course("Computational Discrete Mathematics", 15354, 12, [[15251]], [])
 Course("Modern Computer Algebra", 15355, 9, [[15251]], [])

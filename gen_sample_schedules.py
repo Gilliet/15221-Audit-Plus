@@ -20,4 +20,17 @@ for i in range(int(sys.argv[1])):
             temp = str(course) + ", "
             sys.stdout.write(temp)
     sys.stdout.write("\n")
+
+print "\n\n\n\n"
+for i in range(int(sys.argv[1])):
+    x = depth_first_tree_search(a).state[1]
+
+    for courseList in x.values():
+        for course in courseList:
+            temp = str(course) + ": " + courseNums[course].name + ", "
+            sys.stdout.write(temp)
+    sys.stdout.write("\n")
+
+        
+
         

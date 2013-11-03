@@ -1,5 +1,6 @@
 import itertools
 import random
+import sys
 
 from aima.search import *
 from schedule import *
@@ -126,5 +127,5 @@ sems = dict()
 sems[0] = [15112, 15151, 21241, 76101, 15122]
 initialState = (CS, sems)
 a = scheduleProblem(initialState)
-(reqs, sems) = initialState
+
 
