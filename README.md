@@ -25,7 +25,9 @@ To get prerequisite information for courses, open up `scraping\read_catalog.py`:
 
     $ cd scraping
     $ python -i read_catalog.py
-    >>> getCourseInfo(15251)
+    >>> getCourseInfo(15122)
+    Prereqs:  15-122
+    Coreqs:  21-127
 
 Course numbers should not have leading zeros. This functions downloads prerequisite 
 information from Carnegie Mellon's undergraduate course catalog.
