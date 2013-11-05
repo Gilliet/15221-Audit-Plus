@@ -1,23 +1,34 @@
-tech-comm-project
+Audit+: an automagical schedule planner  
 =================
 
-A place for us to keep all our junk for tech comm! 
+This is a scheduling program built for the project in 15-221 at Carnegie Mellon University.
 
 A really basic scheduling program! Right now, this uses includes only Computer
-Science classes that meet degree requirements. The CS degree requirements are 
-hard-coded in `schedule.py`. We are working on automagically getting more
-scheduling data. Generated schedules have 2 classes per semester, and meet
-prerequisite requirements (but not corequisites!). 
+Science classes that meet degree requirements. The CS degree requirements are
+hard-coded in `scheduling-algoschedule.py`. We are working on automagically
+getting more scheduling data. Current efforts on this front are in `scraping/`
+Generated schedules have 2 classes per semester, and meet prerequisite
+requirements (but not corequisites!). 
 
 ## Usage
-To get a feel for the way schedules are generated, open up `problem.py`:
+To get a feel for the way schedules are generated, open up `scheduling-algo/problem.py`:
 Note that `a` is the temporary name of the scheduling problem instance.
 
+    $ cd scheduling-algo
     $ python -i problem.py
     >>> depth_first_tree_search(a)
 
 Depth-first search is reasonably fast, but does not return optimal schedules.
 Breadth-first search is unreasonably slow. Way too slow.
+
+To get prerequisite information for coureses, open up `scraping\read_catalog.py`:
+
+    $ cd scraping
+    $ python -i read_catalog.py
+    >>> getCourseInfo(15251)
+
+Course numbers should not have leading zeros. This functions downloads prerequisite 
+information from Carnegie Mellon's undergraduate course catalog.
 
 
 ## Files
