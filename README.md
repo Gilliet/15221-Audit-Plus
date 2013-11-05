@@ -1,7 +1,7 @@
 Audit+: an automagical schedule 
 =================
 
-This is a scheduling program built for 5-221 at Carnegie Mellon University.
+This is a scheduling program built for 15-221 at Carnegie Mellon University.
 
 A really basic scheduling program! Right now, this uses includes only Computer
 Science classes that meet degree requirements. The CS degree requirements are
