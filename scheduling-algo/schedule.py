@@ -6,7 +6,12 @@ CS = [[15128], [15122], [15150], [15210], [15213], [15251], [15451], [15221],   
       [15312, 15317, 15414, 15424, 21300, 80311], # logics/languages
       [15410, 15411, 15418, 15440, 15441], # distributed systems
       [21120], [21122], [21127], # mathematics
-      [15359, 21325, 36217, 36225]]  # probability
+      [15359, 21325, 36217, 36225],  # probability
+      [15001], [15002], [15003], [15004],  # science reqs
+      [76101], [15005], [15006], [15007]]  # humanities reqs
+
+
+        
         
 courseNums  = {}  # (keys = course numbers, values = course objects)
 courseNames = {}  # (keys = course names,   values = course objects)
@@ -36,7 +41,6 @@ Course("Introduction to Computer Systems", 15213, 12, [[15122]], [])
 Course("Great Theoretical Ideas in Computer Science", 15251, 12, [[15112, 15151]], [])
 Course("Algorithm Design and Analysis", 15451, 12, [[15251, 15210, 21241]], [])
 Course("Technical Communication for Computer Scientists", 15221, 9, [[76101]], [])
-Course("Interpretation and Argument", 76101, 9, [], [])
 # Algorithms/Complexity
 Course("Computational Discrete Mathematics", 15354, 12, [[15251]], [])
 Course("Modern Computer Algebra", 15355, 9, [[15251]], [])
@@ -82,6 +86,21 @@ Course("Probability and Computing", 15359, 12, [[15251, 21259, 21241]], [])
 Course("Probability", 21325, 9, [[21259],[21268],[21269]], [])
 Course("Probabliity Theory and Random Processes", 36217, 9, [[21122],[21112],[21259],[21256],[21123]],[])
 Course("Introduction to Probability Theory", 36225, 9, [[21256],[21259]], [])
+
+# Science
+Course("Laboratory Science Requirement", 15001, 9, [], [])
+Course("Engineering or Science 1", 15002, 9, [], [])
+Course("Engineering or Science 2", 15003, 9, [], [])
+Course("Engineering or Science 3", 15004, 9, [], [])
+
+
+# Humanities
+Course("Interpretation and Argument", 76101, 9, [], [])
+Course("Category 1 Humanity", 15005, 9, [], [])
+Course("Category 2 Humanity", 15006, 9, [], [])
+Course("Category 3 Humanity", 15007, 9, [], [])
+
+
 
 global nodata
 nodata = Course("NODATA", -1, -1, [[-1]], [-1]) # we won't suggest courses we don't have data for
