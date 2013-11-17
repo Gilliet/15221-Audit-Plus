@@ -64,14 +64,22 @@ def possibleClasses(schedule, degree_reqs):
     course_set = set(courses)
     possible_classes = []
     for disjunction in degree_reqs:  # reqs in CNF
+        random.shuffle(disjunction)
         for course in disjunction:
             if prereqsSatisfied(course, schedule):
                 possible_classes.append(course)
+                break
+
+
 
     random.shuffle(possible_classes)
     return possible_classes   # very simple. TODO: coreqs, antireqs, etc. 
 
                 
+
+def powerset(iterable):
+    s = list(iterable)
+    return itertools.chain.from_iterable(itertools.combinations(s,r) for r in range(len(s) +1))
 
 
 
@@ -96,13 +104,15 @@ class scheduleProblem(Problem):
     # actions are a list of classes to take in a semester
     def actions(self, state):  # NOT CORRECT
         (reqs, sems) = state
+        print state, "\n"
         courses = sum(sems.values(), [])
         possible_courses = possibleClasses(sems, reqs)
 
-        temp = itertools.combinations(possible_courses, 2)
+        temp = powerset(possible_courses)
         schedules = []
         for x in temp:
             schedules.append(list(x))
+        schedules = filter(lambda x: len(x) <= 3, schedules)
         return schedules
 
 
