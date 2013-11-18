@@ -75,14 +75,39 @@ def coreqsSatisfied(semester, courses_taken):
         if not satisfied: return False
     return True
 
+def nextSeason(season):
+    if (season == "fall"):
+        return "spring"
+    if (season == "spring"):
+        return "fall"
 
-def possibleClasses(schedule, degree_reqs):
+def courseOffered(courseNum, season):
+    """ Returns true if the course if offered in a given season.
+        eg, 15-453 is only offered in the spring, so:
+            courseOffered(15453, "fall") == false
+
+        courseNum: course number in question (int)
+        season: string specifying season 
+
+        Returns: True/False
+    """
+    course = courseNums[courseNum]
+
+    if season == "fall" and course.fall:
+        return True
+    if season == "spring" and course.spring:
+        return True
+    return False
+
+
+def possibleClasses(schedule, degree_reqs, season):
     """ Returns a list of course numbers that satisfy degree requirements 
-        and have all prerequisites met. 
+        and have all prerequisites met, and will offered in the coming season. 
 
     Args:
         schedule: a dictionary of semesters and classes
         degree_reqs: a list of degree requirements, in CNF
+        season: the coming season, "spring" or "fall"
 
     Returns:
         A list of courses that could be taken in the next semester
@@ -98,6 +123,7 @@ def possibleClasses(schedule, degree_reqs):
                 break
 
 
+    possible_classes = filter(lambda x: courseOffered(x,season), possible_classes)
 
     random.shuffle(possible_classes)
     return possible_classes   # very simple. TODO: coreqs, antireqs, etc. 
@@ -109,27 +135,31 @@ def powerset(iterable):
     return itertools.chain.from_iterable(itertools.combinations(s,r) for r in range(len(s) +1))
 
 
+
 degree_reqs = CS  # conjunctive normal form
 classes = []      # disjunctive normal form
 
-""" state is 2-tuple:
+""" state is 3-tuple:
     0) remaining degree requirements
     1) (key=int, value=int list) dictionary of semesters and classes 
        where dict[0] = existing course credit
+    2) string containing "fall" or "spring"
 """
 class scheduleProblem(Problem):
     def __init__(self, initialState):
-        (reqs, sems) = initialState
+        print initialState
+        (reqs, sems, season) = initialState
         classes = sum(sems.values(), [])
         new_reqs = removeReqs(classes, reqs)
-        self.initial = (new_reqs, sems)
+        self.initial = (new_reqs, sems, nextSeason(season))
 
 
     # actions are a list of classes to take in a semester
     def actions(self, state):  # NOT CORRECT
-        (reqs, sems) = state
+        (reqs, sems, season) = state
         courses = sum(sems.values(), [])
-        possible_courses = possibleClasses(sems, reqs)
+        possible_courses = possibleClasses(sems, reqs, nextSeason(season))
+        # if we don't specify nextSeason now, we'll be one season ahead later
 
         temp = powerset(possible_courses)
         schedules = []
@@ -146,25 +176,25 @@ class scheduleProblem(Problem):
 
 
     def result(self, state, course_list):
-        (reqs, sems) = state
+        (reqs, sems, season) = state
         new_reqs = removeReqs(course_list, reqs)
         next_sem = max(sems.keys()) +1
         new_sems = sems.copy()
 
         new_sems[next_sem] = course_list
-        return(new_reqs, new_sems)
+        return(new_reqs, new_sems, nextSeason(season))
 
 
     # return True if the state is a goal
     # state is goal if all requirements for degree are met
     def goal_test(self, state):
-        (reqs, sems) = state
+        (reqs, sems, season) = state
         return not reqs
 
 
 sems = dict()
 sems[0] = [15112, 21241, 76101, 15128]
-init = (CS, sems)
+init = (CS, sems, "fall")
 a = scheduleProblem(init)
 global initialState
 initialState = a.initial
