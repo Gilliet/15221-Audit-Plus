@@ -5,7 +5,8 @@ CS = [[15128], [15122], [15150], [15210], [15213], [15251], [15451], [15221],   
       [2450, 5391, 5431, 10601, 11411, 15313, 15322, 15323, 15381, 15415, 15462, 16384, 16385],
       [15312, 15317, 15414, 15424, 21300, 80311], # logics/languages
       [15410, 15411, 15418, 15440, 15441], # distributed systems
-      [21120], [21122], [21127], # mathematics
+      [21120], [21122],  # mathematics
+      [21127, 15151],  # concepts
       [15359, 21325, 36217, 36225],  # probability
       [15001], [15002], [15003], [15004],  # science reqs
       [76101], [15005], [15006], [15007]]  # humanities reqs
@@ -32,13 +33,13 @@ class Course:
 # CS core
 Course("Mathematical Foundations for Computer Science", 15151, 12, [], [])
 Course("Fundamentals of Programming and Computer Science", 15112, 12, [], [])
-Course("Great Theoretical Ideas", 15251, 12, [[15151, 15112]], [])
+Course("Great Theoretical Ideas", 15251, 12, [[15151, 15112], [21127,15112]], [])
 Course("Freshman Immigration Course", 15128, 1, [], [])
 Course("Principles of Imperative Computation", 15122, 10, [[15112]], [[21127], [15151]])
-Course("Principles of Functional Programming", 15150, 10, [[15151, 15112]], [])
+Course("Principles of Functional Programming", 15150, 10, [[15151, 15112],[21127, 15112]], [])
 Course("Parallel and Sequential Data Structures and Algorithms", 15210, 12, [[15150, 15122]], [])
 Course("Introduction to Computer Systems", 15213, 12, [[15122]], [])
-Course("Great Theoretical Ideas in Computer Science", 15251, 12, [[15112, 15151]], [])
+Course("Great Theoretical Ideas in Computer Science", 15251, 12, [[15112, 15151], [15112, 21127]], [])
 Course("Algorithm Design and Analysis", 15451, 12, [[15251, 15210, 21241]], [])
 Course("Technical Communication for Computer Scientists", 15221, 9, [[76101]], [])
 # Algorithms/Complexity

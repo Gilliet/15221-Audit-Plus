@@ -128,7 +128,6 @@ class scheduleProblem(Problem):
     # actions are a list of classes to take in a semester
     def actions(self, state):  # NOT CORRECT
         (reqs, sems) = state
-        print state, "\n"
         courses = sum(sems.values(), [])
         possible_courses = possibleClasses(sems, reqs)
 
@@ -138,7 +137,7 @@ class scheduleProblem(Problem):
             schedules.append(list(x))
         
         # impose maximum length on schedules
-        schedules = filter(lambda x: len(x) <= 3, schedules) 
+        schedules = filter(lambda x: len(x) <= 4, schedules) 
 
         # schedules must have prereqs satisfied
         classes_taken = sum(state[1].values(), [])
@@ -164,7 +163,7 @@ class scheduleProblem(Problem):
 
 
 sems = dict()
-sems[0] = [15112, 15151, 21241, 76101, 15122, 15128]
+sems[0] = [15112, 21241, 76101, 15128]
 init = (CS, sems)
 a = scheduleProblem(init)
 global initialState
