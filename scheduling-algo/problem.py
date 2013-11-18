@@ -41,13 +41,40 @@ def prereqsSatisfied(courseNum, schedule):
     classes = sum(schedule.values(), [])
     prereqs = courseNums.get(courseNum, nodata).prereqs
     if not prereqs: return True
-    for conjunction in courseNums.get(courseNum, nodata).prereqs:
+    for conjunction in prereqs:
         satisfied = True
         for course in conjunction:
             if course not in classes:
                 satisfied = False
         if satisfied: return True
     return False
+
+def coreqsSatisfied(semester, courses_taken):
+    """ Return true if the coreqs for each course in the semester are satisfied.
+        Coreqs are satisfied if each coreq is also in the schedule, or if the 
+        coreq has previously been taken.
+
+    Args:
+        semester: a list of classes to take in a semester (int list)
+        courses_taken: a list of classes previously taken (int list)
+
+    Returns:
+        true/false
+    """
+
+    for courseNum in semester:
+        coreqs = courseNums.get(courseNum, nodata).coreqs# in disjunctive normal form
+        if not coreqs: continue
+
+
+        satisfied = False
+        for conjunction in coreqs:
+            for course in conjunction:
+                if (course in semester) or (course in courses_taken):
+                    satisfied = True
+        if not satisfied: return False
+    return True
+
 
 def possibleClasses(schedule, degree_reqs):
     """ Returns a list of course numbers that satisfy degree requirements 
@@ -82,9 +109,6 @@ def powerset(iterable):
     return itertools.chain.from_iterable(itertools.combinations(s,r) for r in range(len(s) +1))
 
 
-
-
-
 degree_reqs = CS  # conjunctive normal form
 classes = []      # disjunctive normal form
 
@@ -112,7 +136,13 @@ class scheduleProblem(Problem):
         schedules = []
         for x in temp:
             schedules.append(list(x))
-        schedules = filter(lambda x: len(x) <= 3, schedules)
+        
+        # impose maximum length on schedules
+        schedules = filter(lambda x: len(x) <= 3, schedules) 
+
+        # schedules must have prereqs satisfied
+        classes_taken = sum(state[1].values(), [])
+        schedules = filter(lambda x: coreqsSatisfied(x, classes_taken), schedules)
         return schedules
 
 
