@@ -120,13 +120,30 @@ def possibleClasses(schedule, degree_reqs, season):
         for course in disjunction:
             if prereqsSatisfied(course, schedule):
                 possible_classes.append(course)
-                break
 
 
     possible_classes = filter(lambda x: courseOffered(x,season), possible_classes)
 
     random.shuffle(possible_classes)
     return possible_classes   # very simple. TODO: coreqs, antireqs, etc. 
+
+def noMultipleReqs(semester, degree_reqs):
+    """ Returns false if a single disjunctive requirement is satisfied multiple
+        ways in a semester. Eg, false if "compilers" and "OS" at the same time.
+
+    Args: 
+        semester: list of courses to take in a semester
+        degree_regs: a list of degree requirement, in CNF
+
+    Returns: true/false
+    """
+    
+    semester_s  = set(semester)
+    for disjunction in degree_reqs:  # reqs in CNF
+        disjunction_s = set(disjunction)
+        if len(semester_s.intersection(disjunction_s)) > 1:
+            return False
+    return True
 
                 
 
@@ -172,6 +189,14 @@ class scheduleProblem(Problem):
         # schedules must have prereqs satisfied
         classes_taken = sum(state[1].values(), [])
         schedules = filter(lambda x: coreqsSatisfied(x, classes_taken), schedules)
+
+        # schedules should not satisfy the same requirement twice
+        schedules = filter(lambda x: noMultipleReqs(x, reqs), schedules)
+
+        # idea: always suggest max length schedules
+        if len(schedules) > 0:
+            max_length = max([len(x) for x in schedules])
+            schedules = filter(lambda x: len(x) == max_length, schedules)
         return schedules
 
 
@@ -193,7 +218,7 @@ class scheduleProblem(Problem):
 
 
 sems = dict()
-sems[0] = [15112, 21241, 76101, 15128]
+sems[0] = [15112, 15128]
 init = (CS, sems, "fall")
 a = scheduleProblem(init)
 global initialState

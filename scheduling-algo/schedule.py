@@ -5,11 +5,12 @@ CS = [[15128], [15122], [15150], [15210], [15213], [15251], [15451], [15221],   
       [2450, 5391, 5431, 10601, 11411, 15313, 15322, 15323, 15381, 15415, 15462, 16384, 16385],
       [15312, 15317, 15414, 15424, 21300, 80311], # logics/languages
       [15410, 15411, 15418, 15440, 15441], # distributed systems
-      [21120], [21122],  # mathematics
+      [21120], [21122], [21241],  # mathematics
       [21127, 15151],  # concepts
       [15359, 21325, 36217, 36225],  # probability
-      [15001], [15002], [15003], [15004],  # science reqs
-      [76101], [15005], [15006], [15007]]  # humanities reqs
+      [-15001], [-15002], [-15003], [-15004],  # science reqs
+      [76101], [-15005], [-15006], [-15007],  # humanities categories
+      [-15008], [-15009], [-15010]]        # humanit
 
 
         
@@ -91,17 +92,21 @@ Course("Probabliity Theory and Random Processes", 36217, 9, [[21122],[21112],[21
 Course("Introduction to Probability Theory", 36225, 9, [[21256],[21259]], [],1,0)
 
 # Science
-Course("Laboratory Science Requirement", 15001, 9, [], [],1,1)
-Course("Engineering or Science 1", 15002, 9, [], [],1,1)
-Course("Engineering or Science 2", 15003, 9, [], [],1,1)
-Course("Engineering or Science 3", 15004, 9, [], [],1,1)
+Course("Laboratory Science Requirement", -15001, 9, [], [],1,1)
+Course("Engineering or Science 1", -15002, 9, [], [],1,1)
+Course("Engineering or Science 2", -15003, 9, [], [],1,1)
+Course("Engineering or Science 3", -15004, 9, [], [],1,1)
 
 
 # Humanities
 Course("Interpretation and Argument", 76101, 9, [], [],1,1)
-Course("Category 1 Humanity", 15005, 9, [], [],1,1)
-Course("Category 2 Humanity", 15006, 9, [], [],1,1)
-Course("Category 3 Humanity", 15007, 9, [], [],1,1)
+Course("Category 1 Humanity", -15005, 9, [], [],1,1)
+Course("Category 2 Humanity", -15006, 9, [], [],1,1)
+Course("Category 3 Humanity", -15007, 9, [], [],1,1)
+
+Course("Humanity Elective 1", -15008, 9, [], [],1,1)
+Course("Humanity Elective 2", -15009, 9, [], [],1,1)
+Course("Humanity Elective 3", -15010, 9, [], [],1,1)
 
 
 
