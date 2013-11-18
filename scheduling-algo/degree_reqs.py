@@ -43,3 +43,10 @@ IS = [[21111,21112],[21120,21256],[21120,21122],[36201],
       #quantitative analysis
       ]
 
+#degree requirements for BS in ECE
+ECE = [[21120],[21122],[33106], #general CIT reqs
+       [18100,18200,18220,18290,18240], #specific ece reqs
+       [15112],[15122],[36217,36225], #"other" ece reqs
+       [18001],[18002], #math/science elecs
+       #you also need to take 57(or 60) units of free electives
+      ]
