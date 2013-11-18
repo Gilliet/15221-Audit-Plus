@@ -1,0 +1,4531 @@
+How to Analyze Your Own Genome,2223,9,1,0
+Introduction to Computational Biology,2250,12,0,1
+Introduction to Computational Molecular Biology,2251,6,0,1
+Introduction to Computational Cell Biology,2252,6,0,1
+Quantitative Cell and Molecular Biology Laboratory,2261,9,1,0
+Algorithms in Nature,2317,9,1,0
+Algorithms for Computational Structural Biology,2421,12,0,1
+Automation of Biological Research:,2450,9,1,0
+Undergraduate Research in Computational Biology,2500,6,1,1
+Computational Genomics,2510,12,0,1
+Computational Methods for Biological Modeling and Simulation,2512,9,1,0
+Algorithms and Data Structures for Scientists,2513,12,0,1
+String Algorithms:,2514,12,1,0
+Cell and Systems Modeling,2530,12,1,0
+M.S. Research,2600,6,1,1
+New Technologies and Future Markets,2651,12,1,0
+Fundamentals of Biotechnology,2652,12,1,0
+Biotechnology Enterprise Development,2654,12,1,0
+M.S. Research,2700,1,1,0
+Current Topics in Computational Biology,2701,3,1,1
+Graduate Seminar,2702,3,1,1
+Computational Genomics,2710,12,0,1
+Computational Molecular Biology and Genomics,2711,12,1,0
+Computational Methods for biological Modeling and Simulation,2712,12,1,0
+Algorithms and Data Structures for Scientists,2713,12,0,1
+String Algorithms,2714,12,1,0
+Algorithms in Nature,2717,12,1,0
+Algorithms for Computational Structural Biology,2721,12,0,1
+Cell and Systems Modeling,2730,12,1,0
+Bioimage Informatics,2740,12,0,1
+Automation of Biological Research:,2750,12,1,0
+Laboratory Methods for Computational Biologists,2760,6,0,1
+Computational Biology Internship,2801,3,0,1
+Ph.D. Thesis Research,2900,1,1,1
+Study Abroad,3050,0,1,0
+Study Abroad,3051,0,0,1
+Biological Sciences First Year Seminars,3101,3,1,1
+Phage Genomics Research,3115,6,1,0
+Phage Genomics Research,3116,6,1,1
+Modern Biology,3121,9,1,1
+Modern Biology Laboratory,3124,9,1,1
+How Biological Experiments Work - A Project Course,3127,9,0,1
+Genes Drugs & Diseases,3131,9,1,0
+Basic Science to Modern Medicine,3132,9,0,1
+Undergraduate Colloquium for Sophomores,3201,1,1,0
+Undergraduate Colloquium for Sophomores,3202,1,0,1
+Biomedical Engineering Laboratory,3206,9,1,1
+Independent Study,3210,1,1,1
+Intro to Mammalian Physiology,3230,9,0,1
+Biochemistry I,3231,9,1,0
+Biochemistry I,3232,9,1,1
+Cell Biology,3240,9,0,1
+Introduction Computational Biology,3250,12,0,1
+Introduction to Computational Molecular Biology,3251,6,0,1
+Introduction to Computational Cell Biology,3252,6,0,1
+Neurobiology of Disease,3260,9,0,1
+Undergraduate Colloquium for Juniors,3301,1,1,0
+Undergraduate Colloquium for Juniors,3302,1,0,1
+Phylogenetics,3327,9,1,0
+Genetics,3330,9,1,0
+Introduction to Biological Laboratory Practices,3342,1,1,0
+Experimental Techniques in Molecular Biology,3343,12,1,0
+Experimental Biochemistry,3344,12,0,1
+Developmental Biology,3350,9,0,1
+Systems Neuroscience,3363,9,1,0
+Developmental Neuroscience,3364,9,1,0
+Principles of Biotechnology,3370,9,0,1
+Molecular and Cellular Immunology,3390,9,1,1
+Microbiology,3391,9,0,1
+Microbiology Laboratory,3392,6,0,1
+Undergraduate Colloquium for Seniors,3401,1,1,0
+Undergraduate Colloquium for Seniors,3402,1,0,1
+Special Topics in Biology:,3410,4.5,0,0
+Topics in Research,3411,1,1,0
+Topics in Research,3412,1,0,1
+Introduction to Biophysics,3439,9,1,0
+Molecular Biology,3442,9,1,1
+Undergraduate Research,3445,1,1,1
+Computational Molecular Biology and Genomics,3511,9,1,0
+Computational Methods for Biological Modeling and Simulation,3512,9,1,0
+Biological Imaging and Fluorescence Spectroscopy,3534,9,0,1
+Honors Research,3545,1,0,1
+Computational Biology Internship,3601,3,1,1
+Techniques in Electron Microscopy,3620,9,0,1
+MS Thesis Research,3700,6,1,1
+Applied Cell and Molecular Biology,3709,12,1,0
+Computational Molecular Biology and Genomics,3711,12,1,0
+Computational Methods for Biological Modeling and Simulation,3712,12,1,0
+Bioinformatics Data Integration Practicum,3713,6,0,1
+Phylogenetics,3727,12,1,0
+Advanced Genetics,3730,12,0,1
+Advanced Cell Biology,3741,12,0,1
+Molecular Biology,3742,12,1,0
+Membrane Trafficking,3744,9,0,1
+Core Course in Biochemistry,3745,6,1,0
+Core Course in Cell Biology,3746,6,1,0
+Proposal Preparation and Peer Review,3747,4,0,1
+Graduate Seminar,3750,1,1,1
+Graduate Research Seminar,3755,3,1,1
+Advanced Cellular Neuroscience,3762,12,0,1
+Advanced Systems Neuroscience,3763,12,1,0
+Principles of Biotechnology,3770,12,0,1
+Advanced Microbiology,3791,12,0,1
+Structural Biophysics,3871,12,1,0
+Doctoral Thesis Research,3900,5,1,1
+MSIT First Year Seminar,4601,3,1,0
+MSIT First-Year Seminar,4602,3,0,1
+MSIT Second-Year Seminar,4605,6,1,0
+Strategic Use of Digital Information in Enterprise,4611,12,1,0
+Innovation Managenment and Business Strategy,4612,12,0,1
+Computer Science Principles for Practicing Engineers,4630,12,1,0
+Introduction to Information Security,4635,12,0,1
+Fundamentals of Telecommunications and Computer Networks,4641,12,1,0
+Wireless Network,4644,12,0,1
+Special Topics in ICT:,4800,12,0,0
+Special Topics in ICT Mini:,4801,6,1,0
+MSIT Practicum,4900,24,1,0
+MSIT Research Project,4980,3,1,1
+Social Web,5320,12,1,0
+Designing Human Centered Software,5391,12,0,1
+Interaction Design Overview,5392,9,0,1
+Applications of Cognitive Science,5395,9,0,1
+User-Centered Research and Evaluation,5410,12,1,0
+Human Factors,5413,9,1,0
+Design Educational Games,5418,12,0,1
+Programming Usable Interfaces,5430,6,1,0
+Software Structures for User Interfaces,5431,6,1,0
+Personalized Online Learning,5432,12,1,0
+User Interface Lab:,5433,9,1,0
+Applied Machine Learning,5434,12,1,1
+Usable Privacy and Security,5436,9,0,1
+Ubiquitous Computing,5437,12,0,1
+The Role of Technology in Learning in the 21st Century,5438,12,0,1
+Special Topic's in HCI:,5499,9,0,0
+Rapid Prototyping of Computer Systems,5540,12,0,1
+Undergraduate Project in HCI,5571,12,0,1
+Independent Study in HCI-UG,5589,3,1,1
+HCI Pro Seminar,5600,6,1,0
+User-Centered Research and Evaluation,5610,12,1,0
+Programming Usable Interfaces,5630,6,1,1
+Software Structures for User Interfaces,5631,6,1,1
+User Interface Lab:,5633,9,1,0
+Interaction Design Studio,5650,12,0,1
+Interaction Design Fundamentals,5651,12,1,0
+HCI Project,5671,15,0,1
+HCI Project II,5672,48,1,0
+METALS Project 1,5681,12,0,1
+Small Group Study in HCI,5688,0,1,1
+Independent Study in HCI - Grad,5689,0,1,1
+HCI Process and Theory,5771,9,1,0
+Cognitive Perspectives in HCII,5775,6,0,1
+Applications of Cognitive Science,5795,12,0,1
+Human Factors,5813,9,1,0
+Perception,5814,9,1,0
+Design Educational Games,5818,12,0,1
+Social Web,5820,12,1,0
+Applied Research Methods: Qualitative,5821,6,1,0
+Applied Research Methods: Quantitative,5822,6,1,0
+Personalized Online Learning,5832,12,1,0
+"Gadgets, Sensors and Activity Recognition in HCI",5833,12,0,1
+Applied Machine Learning,5834,12,1,1
+Usuable Privacy and Security,5836,12,0,1
+Ubiquitous Computing,5837,12,0,1
+The Role of Technology in Learning in the 21st Century,5838,12,0,1
+The Big Data Pipeline: Collecting and Using Big Data for Interactive Systems,5839,12,0,1
+Introduction to Human Computer Interaction for Technology Executives,5863,6,1,0
+Rapid Prototyping of Computer Systems,5872,12,0,1
+Practicum in HCI,5888,3,1,1
+Designing Human Centered Software,5891,12,0,1
+Special Topics:,5898,9,1,0
+Special Topics in HCI:,5899,12,1,0
+Independent Teaching Experience,5982,9,1,1
+Reading and Research in HCI,5997,24,1,1
+Study Abroad,6050,45,1,0
+Study Abroad,6051,0,0,1
+Introduction to Chemical Engineering,6100,12,1,1
+Sophomore Research Project,6200,3,1,1
+Thermodynamics,6221,9,1,0
+Sophomore Chemical Engineering Seminar,6222,1,1,0
+Practical Internship for Senior Chemical Engineering,6250,0,1,1
+Fluid Mechanics,6261,9,0,1
+Mathematical Methods of Chemical Engineering,6262,12,0,1
+Junior Research Project,6300,3,1,1
+Chemical Engineering Thermodynamics,6321,9,1,0
+Junior Chemical Engineering Seminar,6322,2,1,0
+Heat and Mass Transfer,6323,9,1,0
+Unit Operations of Chemical Engineering,6361,9,0,1
+Transport Process Laboratory,6363,6,0,1
+Chemical Reaction Engineering,6364,9,0,1
+Water Technology Innovation and Policy,6365,9,0,1
+Senior Research Project,6400,3,1,1
+Chemical Process Systems Design,6421,12,1,0
+Unit Operations Laboratory,6423,9,1,0
+Experimental Colloid Surface Science,6426,9,1,0
+Optimization Modeling and Algorithms,6462,6,0,1
+Chemical Product Design,6463,6,0,1
+Chemical Engineering Process Control,6464,9,0,1
+Experimental Polymer Science,6466,9,0,1
+Special Topics:,6500,9,1,0
+Masters Chemical Engineering Project,6600,1,1,1
+Computational Methods for Large Scale Process Design & Analysis,6606,9,1,0
+Physical Chemistry of Colloids and Surfaces,6607,9,0,1
+Safety Issues in Science and Engineering Practice,6608,3,1,0
+Physical Chemistry of Macromolecules,6609,9,1,0
+Rheology and Structure of Complex Fluids,6610,9,1,0
+Microfluidics,6615,12,0,1
+Global Atmospheric Chemistry: Fundamentals and Data Analysis Methods,6620,9,0,1
+Mathmatical Modeling of Chemical Engineering Processes,6623,12,1,0
+Chemical and Reactive Systems,6625,12,1,0
+Principles and Applications of Molecular Simulation,6640,9,0,1
+Molecular Biomechanics,6646,9,0,1
+Analysis and Modeling of Transport Phenomena,6663,12,0,1
+Process Systems Modeling,6665,12,0,1
+M.S. Research,6700,1,1,1
+Advanced Reaction Kinetics,6702,12,0,1
+Advanced Fluid Dynamics,6703,12,1,0
+Advanced Heat and Mass Transfer,6704,12,0,1
+Advanced Chemical Engineering Thermodynamics,6705,12,1,0
+Special Topics in Colloids and Dispersions,6712,12,1,0
+Mathematical Techniques in Chemical Engineering,6713,12,1,0
+Electrochemical Engineering,6716,9,1,0
+Advanced Process Systems Engineering,6720,12,0,1
+"Colloids, Polymers and Surfaces (CPS) Lab III: Adv. Characterization Methods",6777,3,0,1
+Problems in Chemical Engineering,6799,1,1,1
+Chemical Engineering Graduate Seminar,6800,1,1,1
+"Colloids, Polymers & Surfaces Laboratory I",6801,9,1,0
+"Colloids, Polymers and Surfaces Laboratory II",6802,3,0,1
+CPS Seminar,6810,1,1,1
+PSE Seminar,6820,1,1,1
+Ph.D. Thesis Research,6900,1,1,1
+Practicum in Chemical Engineering,6995,1,1,1
+Ethics and Policy Issues in Computing,8200,9,0,1
+Green Computing,8340,9,0,1
+Law of Computer Technology,8532,9,1,0
+"Privacy, Policy, Law and Technology",8533,9,1,0
+Usable Privacy Security,8534,9,0,1
+Green Computing:,8540,9,0,1
+Java and J2EE Programming,8600,12,1,0
+Current Topics In Privacy Seminar,8602,3,1,1
+Foundations of Privacy,8604,12,1,0
+Engineering Privacy in Software,8605,12,0,1
+Foundation of Software Engineering,8613,12,1,0
+Computational Modeling of Complex Socio-Technical Systems,8621,12,0,1
+Influence and Persuasion Online,8624,6,1,0
+Law of Computer Technology,8632,6,1,0
+Ubiquitous Computing,8700,6,1,0
+Requirements Elicitation and Analysis,8701,8,1,0
+Contextual Design,8702,6,1,0
+User Interface Design and Testing,8703,6,1,0
+Software Design,8704,8,1,0
+"Network Infrastructure and Wireless, PONs",8705,6,1,0
+Web Services,8706,8,1,1
+Web Application Development,8707,8,0,1
+ERP Supply Chain,8708,6,1,1
+Privacy Technology,8709,6,1,0
+"Search Engines, Portals",8710,6,1,1
+"Data Mining, CRM",8711,6,1,1
+Information Security,8712,6,1,0
+Mobile Commerce,8713,8,0,1
+Negotiation,8714,8,1,1
+Data Structures for Application Programmers,8722,6,0,1
+Mobile Application Development for iOS and Andriod,8723,6,0,1
+Client-Side Web Technologies,8724,6,0,1
+Independent Study,8730,6,1,1
+Information Security & Privacy,8731,12,1,0
+Law of Computer Technology,8732,12,1,0
+"Privacy, Policy, Law and Technology",8733,12,1,0
+Usable Privacy and Security,8734,12,0,1
+Seminar in Data Science,8741,3,1,1
+VLIS-Capstone Independent Study Process,8742,24,1,0
+Intelligent Information Systems Project,8743,12,0,1
+VLIS Capstone Independent Study Outcomes,8744,24,1,0
+VLIS Independent Study,8745,3,1,1
+Data Science Systems:,8749,42,1,0
+Information Security and Privacy,8761,6,1,0
+Introduction to Human Computer Interaction for Technology Executives,8763,6,1,0
+Innovation Ecosystems,8765,6,1,0
+Mobile and Pervasive Computing Services,8766,6,0,1
+Mobile Pervasive Computing Project,8767,9,0,1
+Mobile Pervasive Computing Project,8769,1,0,1
+Mobile and Pervasive Computing Services,8781,9,0,1
+Computational Modeling of Complex Socio-Technical Systems,8810,12,0,1
+Green Computing:,8840,12,0,1
+COS Internship,8995,1,1,0
+COS Independent Study,8996,1,1,1
+COS Graduate Reading and Research,8997,1,1,1
+COS Practicum - The Practice of Science,8998,6,0,1
+COS Practicm-Methodology,8999,6,1,0
+Study Abroad,9050,0,1,1
+Introduction to Experimental Chemistry,9101,3,0,1
+"Atoms, Molecules and Chemical Change",9103,9,1,0
+Introduction to Modern Chemistry I,9105,10,1,1
+Modern Chemistry II,9106,10,1,1
+Honors Chemistry: Fundamentals Concepts and Applications,9107,10,1,0
+Kitchen Chemistry Sessions,9109,3,1,0
+Molecular Tools for Biological and Chemical Studies,9122,6,0,1
+Undergraduate Seminar I,9201,1,1,0
+Undergraduate Seminar II: Safety and Environmental Issues for Chemists,9202,1,0,1
+Professional Communication Skills in Chemistry,9204,3,0,1
+Kitchen Chemistry Sessions,9209,3,1,0
+Physical Chemistry,9214,9,0,1
+Organic Chemistry I,9217,9,1,0
+Organic Chemistry II,9218,9,0,1
+Modern Organic Chemistry,9219,10,1,0
+Modern Organic Chemistry II,9220,10,0,1
+Laboratory I:  Introduction to Chemical Analysis,9221,12,1,1
+Laboratory II: Organic Synthesis and Analysis,9222,12,1,1
+Mathematical Methods for Chemists,9231,9,1,0
+Undergraduate Seminar III,9301,1,1,0
+Undergraduate Seminar IV,9302,1,0,1
+Laboratory III: Molecular Design and Synthesis,9321,12,1,0
+Laboratory IV: Molecular Spectroscopy and Dynamics,9322,12,0,1
+Modern Analytical Instrumentation,9331,9,1,0
+Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry,9344,9,1,0
+Physical Chemistry (Thermo): Macroscopic Principles of Physical Chemistry,9345,9,0,1
+Advanced Physical Chemistry,9347,12,1,0
+Inorganic Chemistry,9348,10,0,1
+Undergraduate Seminar V,9401,1,1,0
+Undergraduate Seminar VI,9402,3,1,1
+Independent Study Chemistry,9435,1,1,1
+Undergraduate Research,9445,3,1,1
+Honors Thesis,9455,6,1,1
+Nanoparticles,9507,9,1,0
+Physical Chemistry of Macromolecules,9509,9,1,0
+Introduction to Green Chemistry,9510,9,0,1
+"Bioorganic Chemistry: Peptides, Proteins and Combinatorial Chemistry",9519,9,1,0
+Oxidation and Inorganic Chemistry,9522,9,1,0
+Environmental Chemistry,9524,9,0,1
+Applied topics in Macromolecular and Biophysical Techniques,9535,9,0,1
+Computational Chemistry,9560,12,0,1
+Mathematical Analysis for Chemistry,9603,6,1,0
+Introduction to Chemical Kinetics,9604,6,0,1
+Chemical Thermodynamics,9611,6,0,1
+Introduction to Research,9700,3,1,0
+Quantum Chemistry I,9701,12,1,0
+Nanoparticles,9707,12,1,0
+Introduction to Green Chemistry,9710,12,0,1
+Physical Organic Chemistry,9711,12,1,0
+Advanced Organic Chemistry,9714,12,0,1
+Physical Chemistry of Macromolecules,9715,12,1,0
+Bioactive Natural Products,9716,6,0,1
+"Bioorganic Chemistry: Peptides, Proteins and Combinatorial Chemistry",9719,12,1,0
+Oxidation and Inorganic Chemistry,9722,12,1,0
+Proximal Probe Techniques: New Tools for Nanoscience & Nanotechnology,9723,12,1,0
+Environmental Chemistry,9724,12,0,1
+Spectroscopy,9726,6,0,1
+"Applications of Spectroscopy to Chemistry, Biology and Materials Science",9728,6,0,1
+Chemistry and Light,9733,12,1,0
+Applied Topics in Macromolecular and Biophysical Techniques,9735,12,0,1
+Medicinal Chemistry and Drug Development,9737,6,1,0
+Chemistry of Gene Expression,9803,12,0,1
+Special Topics in Organic Chemistry:,9812,12,0,0
+Special Topics in Polymer Synthesis,9835,12,0,0
+Independent Study,9851,6,1,1
+Chemical Research,9861,0,1,1
+Doctoral Dissertation,9871,5,1,1
+Graduate Seminar,9911,1,1,1
+Current Research in Chemistry,9912,1,1,1
+Graduate Teaching I,9931,12,1,0
+Graduate Teaching II,9932,12,0,1
+Internship,9990,0,1,1
+Senior Research Project,10500,12,1,0
+Machine Learning:,10601,12,1,1
+Machine Learning with Large Datasets,10605,12,0,1
+Independent Study: Research,10620,6,0,1
+Machine Learning,10701,12,1,1
+Statistical Machine Learning,10702,12,0,1
+Intermediate Statistics,10705,12,1,0
+Probabilistic Graphical Models,10708,12,0,1
+Structured Prediction for Language and Other Discrete Data,10710,12,1,0
+Convex Optimization,10725,9,1,0
+Randomized Algorithms and Advanced Optimization,10801,12,0,1
+Special Topics: Deep Learning,10805,6,1,0
+Algorithms in Nature,10811,9,1,0
+Research Seminar in Machine Learning and Policy,10830,6,0,1
+Special Topics in Machine Learning and Policy,10831,6,0,0
+Directed Research,10910,12,1,1
+MLD Journal Club,10915,6,1,1
+Graduate Reading and Research,10920,12,1,1
+Dissertation Research,10930,5,1,1
+Practicum,10935,3,1,1
+Independent Study,10940,1,1,0
+Machine Learning in Practice,11344,12,1,1
+Undergrad Independent Study,11345,3,0,1
+LTI Minor Project - Juniors,11390,12,1,1
+Natural Language Processing,11411,12,0,1
+Search Engines and Web Mining,11441,12,1,0
+Scalable Analytics,11443,12,0,1
+Special Topics: Digital Signal Processing,11465,12,0,0
+LTI Minor Project - Seniors,11490,12,1,1
+LTI Minor Project - Advanced,11590,12,1,1
+Natural Language Processing,11611,12,0,1
+Search Engines and Web Mining,11641,12,1,0
+Scalable Analytics,11643,12,0,1
+Language and Statistics,11661,12,0,1
+Applied Machine Learning,11663,12,1,1
+Big Data Systems for Biotechnology,11675,12,1,1
+Biotechnology Outsourcing Growth,11683,6,0,1
+IIS Directed Study,11690,9,1,1
+Software Planning & Management,11691,6,0,1
+Software Method for Biotechnology,11693,12,1,0
+Competitive Engineering,11695,12,0,1
+MIIS Capstone Planning Seminar,11696,6,0,1
+LTI Colloquium,11700,3,1,1
+Algorithms for NLP,11711,12,1,0
+Lab in NLP,11712,6,0,1
+Advanced NLP Seminar,11713,6,1,0
+Tools for NLP,11714,6,1,0
+Graduate Seminar on Dialog Processing,11716,6,1,0
+Computational Models of Discourse Analysis,11719,12,0,1
+Grammars and Lexicons,11721,12,1,0
+Linguistics Lab,11723,6,0,1
+Meaning in Language Lab (Self Paced),11726,6,1,1
+Machine Translation,11731,12,0,1
+Self-Paced Lab: MT,11732,6,1,0
+Multilingual Speech-to-Speech Translation Lab,11733,6,1,0
+Advanced Machine Translation Seminar,11734,6,0,1
+Graduate Seminar on Endangered Languages,11736,6,1,0
+Information Retrieval,11741,12,0,1
+Self-paced Lab: IR,11742,6,1,1
+Experimental Information Retrieval,11744,12,0,1
+Speech Recognition and Understanding,11751,12,1,0
+"Speech II: Phonetics, Prosody, Perception and Synthesis",11752,12,0,1
+Advanced Laboratory in Speech Recognition,11753,6,0,1
+Project Course: Dialogue Systems,11754,6,1,1
+Machine Learning for Signal Processing,11755,12,1,0
+Design and Implementation of Speech Recognition Systems,11756,12,0,1
+Advanced Topics: Statistical Modeling for Spoken Dialog Systems,11757,12,1,0
+Language and Statistics,11761,12,0,1
+Structured Prediction for Language and other Discrete Data,11763,12,1,0
+Self-Paced Lab for Computational Biology,11782,6,1,1
+Self-Paced Lab: Rich Interaction in Virtual World,11783,6,0,1
+Lab Course on Deep Learning,11785,12,1,0
+Seminar Course on Deep Learning,11786,6,1,0
+Design & Engineering of Intelligent Information Systems,11791,12,1,0
+Intelligent Information Systems Project,11792,12,0,1
+Question Answering,11796,6,0,1
+Advanced Linguistics Seminar,11821,6,0,1
+Directed Research,11910,1,1,1
+Independent Study: Breadth,11920,1,1,1
+Independent Study: Area,11925,1,1,1
+Masters Thesis I,11928,5,1,0
+Masters Thesis II,11929,5,1,1
+Dissertation Research,11930,1,1,1
+LTI Practicum,11935,1,1,1
+Study Abroad,12050,0,1,0
+Study Aboad,12051,0,0,1
+Introduction to Civil and Environmental Engineering,12100,12,1,1
+Geology,12201,9,0,1
+Statics,12212,9,1,0
+Introduction to Professional Writing in CEE,12215,3,0,1
+Solid Mechanics,12231,9,0,1
+Solid Mechanics Lab,12232,3,0,1
+Introduction to Computer Application in Civil & Environmental Engineering,12271,9,0,1
+Civil Environmental Engineering Projects,12301,9,1,0
+Soil Mechanics,12335,9,1,0
+Soil Mechanics Laboratory,12336,3,1,0
+Environmental Engineering,12351,9,0,1
+Environmental Engineering Lab,12352,3,0,1
+Fluid Mechanics,12355,9,1,0
+Fluid Mechanics Lab,12356,3,1,0
+Materials Lab,12358,3,0,1
+Civil & Environmental Engineering Design,12401,15,1,0
+Project Management for Construction,12411,9,1,0
+Engineering Economics,12421,6,1,0
+AutoCAD,12600,3,1,0
+Transportation Engineering,12604,9,0,1
+Special Topic: Intl Collaborative Construction Mgmt:,12610,9,0,0
+Special Topics: CEE Honors Writing,12616,9,0,0
+Molecular Simulation of Materials,12623,12,0,1
+Environmental Microbiology for Engineers,12629,9,0,1
+Structural Design,12631,12,0,1
+Structural Analysis,12635,9,1,0
+Geotechnical Engineering,12636,9,1,0
+Civil Engineering Project,12648,3,1,1
+Air Quality Engineering,12651,9,1,0
+Hydraulic Structures,12658,9,0,1
+Independent Study,12690,3,1,1
+Mathematical Techiques in Engineering,12701,12,1,0
+Fundamentals of Water Quality Engineering,12702,12,1,0
+Numerical Methods in Engineering,12703,12,1,1
+Probability and Estimation Methods for Engineering Systems,12704,12,1,0
+Civil Systems Investment Planning and Pricing,12706,12,1,0
+Special Topics:,12711,12,0,0
+Introduction to Sustainable Engineering,12712,12,1,0
+Environmental Life Cycle Assessment,12714,12,0,1
+Sustainable Engineering Project,12718,12,0,1
+Water Resources Chemistry,12720,12,1,0
+Biological Wastewater Treatment,12724,12,0,1
+"Fate, Transport & Physicochemical Processes of Orgnc Contaminants in Aqua Systms",12725,12,1,0
+Mathematical Modeling of Environmental Quality Systems,12726,12,0,1
+Special Topics: Remediation Engineering,12728,12,0,0
+Environmental Microbiology for Engineers,12729,12,0,1
+Special Topics: Environmental Nanotechnology,12730,12,0,0
+Special Topics: Databases & Data Systems for Environmental Modeling,12733,12,0,0
+Special Topics: Structural Health Monitoring,12734,6,0,0
+Special Topics: Urban Systems Modeling,12735,12,0,0
+Data Acquisition,12740,6,1,0
+Data Management,12741,6,1,0
+Data Mining in Infrastructure,12742,6,0,1
+Computer-based Approaches for Search & Decision Support in Civil Infrastructure,12743,6,0,1
+AIS Systems Project Preparation Course,12744,6,1,0
+AIS Systems Project Course,12745,12,0,1
+Special Topics:,12746,6,1,0
+Special Topics: Sustainable Buildings,12747,6,1,0
+Special Topics: Mechanical and Electrical System Design for Buildings,12748,6,1,0
+Infrastructure Management,12750,12,0,1
+Air Quality Engineering,12751,12,1,0
+Finite Elements in Mechanics I,12755,12,1,0
+Vibrations,12757,12,0,1
+Inelasticity,12772,12,1,0
+Dislocation Mechanics,12773,12,0,1
+Introduction to Solid Mechanics I,12775,12,1,0
+Introduction to Solids II,12776,12,0,1
+Special Topics:Advanced Multiscale Modeling & Computation Engineering Materials,12784,12,1,0
+Teaching Workshop,12790,0,1,0
+Graduate Project,12791,0,1,1
+Advanced Independent Study,12792,0,1,1
+Graduate Teaching Assignment,12793,0,1,1
+Graduate Seminar,12794,0,1,1
+Special Topics: Professional Communication for CEE Grad Students,12798,3,1,0
+Ph.D. Thesis,12799,0,1,1
+Practicum in Civil and Environmental Engineering,12995,1,1,1
+Silicon Valley Residency,14699,0,1,1
+INI Project/Thesis Research,14700,0,1,1
+INI MSIT Graduate Seminar,14703,6,1,0
+MSIN/MSISTM Seminar,14704,0,1,0
+MSIN/MSISTM Seminar,14705,0,0,1
+Information Networking Project,14706,0,1,1
+Information Networking Thesis,14707,6,1,1
+INI Independent Study,14708,0,1,1
+INI Project-Japan,14709,36,1,1
+Information Networking Industry Practicum,14727,36,1,1
+Secure Software Engineering,14735,12,1,0
+Fundamentals of Telecommunications Networks,14740,12,1,1
+Introduction to Information Security,14741,12,1,0
+Applied Information Assurance,14761,12,1,1
+Managerial Economics,14774,6,1,1
+Business Management,14775,6,1,1
+Information Security Risk Analysis,14786,6,0,1
+Information Security Policy and Management,14788,6,0,1
+Internship,14797,0,1,0
+INI MSIT Project Practicum,14798,24,1,0
+Wireless Network Security,14814,12,0,1
+Special Topics: Entrepreneurship and Innovation in Technology,14815,12,1,0
+Special Topics: Network Security and Management,14817,12,0,0
+Special Topics: Introduction to Software Reverse-Engineering,14819,12,0,0
+Host Based Forensics,14822,12,0,1
+Network Forensics,14823,12,1,0
+Mobile Security,14829,12,1,0
+Cyber Forensics Capstone,14832,12,0,1
+Study Abroad,15050,0,1,1
+Computer Science Co-Op,15075,0,1,1
+Computer Science Practicum,15090,3,1,1
+Principles of Computing,15110,10,1,1
+Fundamentals of Programming and Computer Science,15112,12,1,1
+Introduction to Data Structures,15121,10,1,1
+Principles of Imperative Computation,15122,10,1,1
+Freshman Immigration Course,15128,1,1,0
+Freshman Immigration Course II,15129,3,1,0
+Great Practical Ideas for Computer Scientists,15131,2,1,0
+Principles of Functional Programming,15150,10,1,1
+Mathematical Foundations for Computer Science,15151,10,1,0
+Mathematical Foundations Practicum,15152,0,1,0
+Special Topics: Discovering Logic,15199,3,0,0
+Parallel and Sequential Data Structures and Algorithms,15210,12,1,1
+Introduction to Computer Systems,15213,12,1,1
+"Principles of Software Construction: Objects, Design, and Concurrency",15214,12,1,1
+Technical Communication for Computer Scientists,15221,9,1,1
+Special Topic: Software Development for Social Good,15239,9,0,0
+Great Theoretical Ideas in Computer Science,15251,12,1,1
+Special Topic: Applied Computational Intelligence Lab,15291,9,1,0
+Special Topic: History of Computing,15292,6,0,0
+Competition Programming and Problem Solving,15295,6,1,1
+Special Topic: Images of Computing,15296,6,0,0
+Special Topic: Innovating for Underserved Communities: Field Research Basics,15302,6,0,0
+Special Topic: Seminar on Innovating for Underserved Communities,15303,6,0,0
+Foundations of Programming Languages,15312,12,0,1
+Foundations of Software Engineering,15313,12,1,0
+Constructive Logic,15317,9,1,1
+Cloud Computing,15319,9,1,1
+Research Methods for Experimental Computer Science,15321,9,1,0
+Computer Music Systems and Information Processing,15323,9,0,1
+Embedded Systems,15348,9,0,1
+Computational Discrete Mathematics,15354,12,1,0
+Modern Computer Algebra,15355,9,0,1
+Probability and Computing,15359,12,1,0
+Special Topics: Perceptual Computing,15369,6,1,0
+Artificial Intelligence: Representation and Problem Solving,15381,9,1,1
+Introduction to Text Processing,15383,6,1,0
+Introduction to Computer Vision,15385,6,0,1
+Neural Computation,15386,9,0,1
+Computational Perception,15387,9,1,0
+Entrepreneurship for Computer Science,15390,9,1,0
+Special Topic: Science of the Web,15396,9,1,0
+Operating System Design and Implementation,15410,12,1,1
+Compiler Design,15411,12,1,0
+Operating System Practicum,15412,9,1,0
+Software Engineering Practicum,15413,12,0,1
+Bug Catching: Automated Program Verification and Testing,15414,9,0,1
+Database Applications,15415,12,0,1
+HOT Compilation,15417,12,0,1
+Parallel Computer Architecture and Programming,15418,12,0,1
+Information Security and Privacy,15421,12,1,0
+Special Topic: Digital Signal Processing for Computer Science,15423,12,0,0
+Special Topic: Foundations of Cyber-Physical Systems,15424,12,1,0
+Web Application Development,15437,12,1,1
+Distributed Systems,15440,12,1,1
+Computer Networks,15441,12,1,1
+Engineering Distributed Systems,15449,9,0,1
+Algorithm Design and Analysis,15451,12,1,1
+"Formal Languages, Automata, and Computability",15453,9,1,1
+Undergraduate Complexity Theory,15455,9,1,0
+Computer Graphics,15462,12,1,1
+Computational Photography,15463,12,1,0
+Animation Art and Technology,15465,12,0,1
+Computer Game Programming,15466,12,1,0
+Special Topic: Computational Methods for the Smart Grid,15484,9,1,0
+Special Topic: Speech Processing,15492,12,1,0
+Special Topic: Cognitive Robotics,15494,12,0,0
+Special Topic: Computational Molecular Biology and Genomics,15495,9,1,0
+Special Topic: Forensic Computer Science,15498,12,1,0
+Independent Study in Computer Science,15591,3,1,1
+Independent Study in Computer Science,15592,3,1,1
+Independent Study in Computer Science,15593,3,1,1
+Independent Study in Computer Science,15594,3,1,1
+Undergraduate Thesis Research,15599,3,1,1
+Special Topic :Innovating for Underserved Communities: Field Research Basics,15602,6,0,0
+Special Topics: Seminar on Innovating for Underserved Communities,15603,6,0,0
+Immigration Course,15604,3,1,0
+Operating System Design and Implementaion,15605,12,1,1
+Engineering Distributed Systems,15610,12,0,1
+Compiler Design,15611,12,1,0
+Operating System Practicum,15612,9,1,0
+Bug Catching,15614,9,0,1
+Database Applications,15615,12,0,1
+Hot Compilation,15617,12,0,1
+Parallel Computer Architecture and Programming,15618,12,0,1
+Cloud Computing,15619,12,1,1
+Special Topics: Foundations of Cyber-Physical Systems,15624,12,1,0
+Web Application Development,15637,12,1,1
+Distributed Systems,15640,12,1,1
+Computer Networks,15641,12,1,0
+Studio in Big Data Systems,15648,12,0,1
+Seminar Data Systems,15649,3,1,1
+Algorithm Design and Analysis,15651,12,1,1
+Foundation Programming Languages:,15652,12,0,1
+Constructive Logic,15657,9,1,0
+Probability and Computing,15659,12,1,0
+Computer Graphics,15662,12,1,1
+Computational Photography,15663,12,1,0
+Computer Game Programming,15666,12,1,0
+Masters Research,15669,9,0,1
+Neural Computation,15686,12,0,1
+Independent Study in the Computer Sciences,15689,9,0,1
+Special Topic: Cognitive Robotics,15694,12,0,0
+Graduate Reading and Research,15697,1,1,1
+Advanced Operating Systems and Distributed Systems,15712,12,1,0
+Advanced Cloud Computing,15719,12,1,0
+Computer Architecture,15740,12,1,0
+Computer Networks,15744,12,0,1
+Optimizing Compilers for Modern Architectures,15745,12,0,1
+Advanced Storage Systems,15746,12,0,1
+Engineering Distributed Systems,15749,12,0,1
+Graduate Algorithms,15750,12,0,1
+Machine-based Complexity Theory:,15754,12,0,1
+Graduate Artificial Intelligence,15780,12,0,1
+Machine Learning,15781,12,1,1
+Special Topics in Software Systems:,15799,12,1,0
+CS PhD Alternative Elective,15801,12,0,1
+CSD PhD Elective,15802,12,1,1
+CSD PhD Elective,15803,12,1,0
+CSD PhD Elective,15804,12,1,0
+Programming Language Semantics,15812,12,0,1
+HOT Compilation,15813,12,0,1
+Type Systems for Programming Languages,15814,12,1,0
+Advanced Topics in Programming Languages::,15819,12,1,1
+Mobile and Pervasive Computing,15821,12,1,0
+Multimedia Databases and Datamining,15826,12,1,0
+Special Topics in Software Systems:,15829,12,1,0
+Current Research Issues in Computer Systems,15845,2,1,1
+Algorithms in the Real World,15853,12,0,1
+An Introduction to Computational Complexity Theory,15855,12,1,0
+Computational Molecular Biology and Genomics,15856,12,1,0
+Special Topics in Theory: Machine Learning Theory,15859,12,1,0
+Computational Photography,15862,12,1,0
+Special Topics in Graphics: Physically Based Character Animation,15869,12,1,0
+Computational Models of Neural Systems,15883,12,1,0
+Special Topic: Computational Methods for the Smart Grid,15884,12,1,0
+V-Unit in Computer Science,15891,1,1,1
+Foundations of Electronic Marketplaces,15892,12,1,0
+Computer Science Colloquium,15990,0,1,1
+Immigration Course in Computer Science,15996,6,1,0
+Graduate Reading and Research,15997,1,1,1
+Practicum in Computer Science,15998,1,1,1
+Humanoids,16264,12,0,1
+Introduction to Feedback Control Systems,16299,12,0,1
+Introduction to Robotics,16311,12,0,1
+Mobile Robot Programming Laboratory,16362,12,1,0
+Robot Kinematics and Dynamics,16384,12,1,0
+Computer Vision,16385,9,0,1
+Human Robot Interaction,16467,12,0,1
+Undergraduate Reading and Research,16597,0,1,1
+MS-RT Year One Program Fundamentals of Robotics I,16610,12,1,0
+MS-RT Year One Program fundamentals of Robotics II,16611,12,1,0
+MS-RT Year One Program Fundamentals of Robotics III,16612,12,0,1
+MS-RT Year 1 Program Fundamentals of Robotics IV,16613,12,0,1
+MS-RT Extended Project Course Sequence,16614,0,1,1
+MS-RT Supervised Studies in Robotics,16615,1,1,1
+"Manipulation, Mobility, and Control",16642,12,1,0
+Systems Engineering,16650,12,1,0
+Robot Autonomy,16662,12,0,1
+MRSD Project 1,16681,12,1,0
+MRSD Project II,16682,12,0,1
+MRSD Business Seminar 1,16697,9,1,0
+MRSD Business Seminar,16698,9,0,1
+"Kinematics, Dynamic Systems and Control",16711,12,0,1
+Computer Vision:,16720,12,1,1
+Sensing and Sensors,16722,12,0,1
+Methods in Medical Image Analysis,16725,12,0,1
+Mechanics of Manipulation,16741,12,1,0
+Dynamic Optimization,16745,12,0,1
+Ethnography: Analyzing How Context Affects Technology Use:,16764,12,0,1
+Mechatronic Design,16778,12,0,1
+Mathematical Fundamentals for Robotics,16811,12,1,0
+Learning-Based Methods in Vision,16824,12,1,0
+Manipulation Algorithms,16843,12,1,0
+Systems Engineering,16850,12,0,1
+Mobile Robot Design,16861,12,1,0
+Advanced Mobile Robot Development,16865,12,0,1
+Biomechanics & Motor Control,16868,12,1,0
+Seminar on Robotics,16897,0,1,1
+Special Topics:,16899,12,1,0
+Practicum,16990,1,1,1
+Practicum,16991,3,1,0
+Independent Study,16995,0,1,1
+Reading and Research in Robotics,16997,0,1,1
+Software Engineering Reflection,17413,6,1,0
+Introduction to Personal Software Process,17602,6,1,1
+Intro to Team Software Process,17603,6,0,1
+Risk Management for Software Intensive Projects,17610,6,1,1
+Software Process Definition,17615,9,0,1
+Introduction to Real-Time Software and Systems,17619,12,0,1
+Estimating Software Development and Maintenance Projects,17622,6,1,0
+The Modern CIO,17628,6,1,0
+Architecting Enterprise Systems,17629,12,1,0
+Computer Science for Practicing Engineers,17630,12,1,0
+Software Measurement,17635,9,1,0
+Systems Architecture for Managers,17638,6,0,1
+Mangement of Software Development for Technology Executives,17639,6,0,1
+Hardware for Software Engineers,17643,12,1,0
+Models of Software Systems,17651,12,1,0
+Methods: Deciding What to Design,17652,12,1,0
+Managing Software Development,17653,12,1,0
+Analysis of Software Artifacts,17654,12,0,1
+Architectures for Software Systems,17655,12,1,1
+Communication for Software Engineers I,17656,3,1,0
+Communication for Software Engineers II,17657,3,0,1
+MITS Seminar I,17658,3,1,0
+Software Development Studio I,17671,3,1,0
+Software Development Studio II,17672,12,0,1
+Software Development Studio IV,17674,6,1,0
+Practicum for Software Engineering I,17677,0,1,1
+Practicum for Software Engineering II,17678,12,1,1
+Software Development Tools,17691,6,0,1
+Directed Study,17697,6,1,0
+Independent Study,17699,3,1,1
+Influence and Persuasion Online,17704,6,1,0
+ISR Ph.D Alternative Elective,17705,12,1,1
+ISR Ph.D Elective,17706,12,1,1
+Models of Software Systems,17751,12,1,0
+Methods: Deciding What to Design,17752,12,1,0
+Analysis of Software Artifacts,17754,12,0,1
+Architectures for Software Systems,17755,12,0,1
+Independent Study,17777,24,0,1
+Software Engineering Seminar,17791,3,1,1
+Software Engineering Independent Study,17806,1,1,1
+Software Engineering Research,17808,12,1,0
+Graduate Reading and Research,17997,1,1,1
+Study Abroad,18050,0,1,0
+Study Abroad,18051,0,0,1
+Introduction to Electrical and Computer Engineering,18100,12,1,1
+Emerging Trends in Electrical and Computer Engineering,18200,1,1,0
+Mathematical Foundations of Electrical Engineering,18202,12,1,1
+Introduction to Computer Systems,18213,12,1,1
+Electronic Devices and Analog Circuits,18220,12,1,1
+Sophomore Projects,18231,1,1,0
+Sophomore Projects,18232,3,0,1
+Structure and Design of Digital Systems,18240,12,1,1
+Signals and Systems,18290,12,1,1
+Fundamentals of Electromagnetics,18300,12,1,0
+Fundamentals of Semiconductor Devices,18310,12,0,1
+Microelectronic Circuits,18320,12,1,0
+Junior Projects,18331,0,1,0
+Junior Projects,18332,3,0,1
+Digital Computation,18340,12,0,1
+"Logic Design Using Simulation, Synthesis, and Verification Techniques",18341,12,1,0
+Fundamentals of Embedded Systems,18342,12,1,0
+Introduction to Telecommunication Networks,18345,12,0,1
+Embedded Systems Engineering,18348,12,0,1
+Embedded Real-Time Systems,18349,12,1,0
+Fundamentals of Control,18370,12,1,0
+Fundamental Electrical Power Systems,18372,12,1,0
+ECE CO-OP,18390,0,1,1
+Electromechanics,18401,12,1,0
+Applied Electrodynamics,18402,12,0,1
+Computational Techniques in Engineering,18411,12,0,1
+Electric Energy Processing: Fundamentals and Applications,18418,12,0,1
+Semiconductor Device Applications - Optoelectronics and Nanoelectronics,18419,12,1,0
+Analog Integrated Circuits I,18421,12,0,1
+Digital Integrated Circuits 1,18422,12,0,1
+Undergraduate Projects - Senior,18431,1,1,0
+Senior Projects,18432,1,0,1
+Introduction to Computer Architecture,18447,12,0,1
+Special Topic: Computational Method for the Smart Grid,18473,9,1,0
+Embedded Control Systems,18474,12,0,1
+"Telecommunications, Technology Policy & Management",18482,12,0,1
+Introduction to Computer & Network Security & Applied Cryptography,18487,12,1,0
+Fundamentals of Signal Processing,18491,12,0,1
+Special Topics: Speech Processing:,18492,12,1,0
+Introduction to Biomedical Imaging and Image Analysis,18496,12,1,0
+Internship,18499,0,1,0
+Sensor Systems Design,18510,12,0,1
+RF Circuits and Antennas for Wireless Systems,18513,12,1,0
+Integrated Circuit Design Project,18525,12,1,0
+Rapid Prototyping of Computer Systems,18540,12,0,1
+Advanced Digital Design Project,18545,12,1,0
+Digital Communication and Signal Processing Systems Design,18551,12,0,1
+Mechatronic Design,18578,12,0,1
+"Electrical Energy Conversion, Control and Management",18587,12,1,0
+Entrepreneurship and Innovation in Technology,18601,12,1,1
+Leadership for Engineers,18603,12,1,1
+Fundamentals of Modern CMOS Devices,18610,12,0,1
+Microelectromechanical Systems,18614,12,1,0
+Micro and Nano Systems Fabrication,18615,12,0,1
+Smart Grids and Future Electric Energy Systems,18618,12,1,0
+Advanced Digital IC Design,18622,12,1,0
+Analog Integrated Circuit Design,18623,12,1,0
+System on Chip Design,18625,12,0,1
+Special Topics in Circuits::,18629,12,1,0
+Introduction to Information Security,18631,12,1,0
+Wireless Network Security,18637,12,0,1
+Mobile Security,18638,12,1,0
+Java Smart Phone Development,18641,12,1,1
+Introduction to Software Engineering,18642,12,1,0
+Special Topics in Computer Systems::,18644,12,1,0
+How to Write Fast Code:,18645,12,0,1
+Low-Power System-on-Chip Architecture,18646,12,1,0
+Embedded Real-Time Systems,18648,12,1,0
+Distributed Embedded Systems,18649,12,1,0
+Policies of Wireless Systems and the Internet,18650,12,1,0
+Numerical Methods for Engineering Design and Optimization,18660,12,1,0
+Design of Integrated Embedded Systems,18667,12,1,0
+Statistical Discovery and Learning,18697,12,1,0
+Neural Signal Processing,18698,12,0,1
+Managing and Leading Research and Development,18703,12,1,0
+Elements of Photonics for Communication Systems,18712,12,1,0
+Advanced Analog Integrated Circuits Design,18721,12,0,1
+RFIC Design and Implementation,18723,12,1,0
+Introduction to Computer Security,18730,12,1,0
+Network Security,18731,12,0,1
+Secure Software Systems,18732,12,0,1
+Applied Cryptography,18733,12,0,1
+Foundation of Privacy,18734,12,1,0
+Computer Architecture,18740,12,1,0
+Energy Aware Computing,18743,12,1,0
+Rapid Prototyping of Computer Systems,18745,12,0,1
+Advanced Storage Systems,18746,12,0,1
+Wireless Sensor Networks,18748,12,0,1
+Applied Stochastic Processes,18751,12,1,0
+"Estimation, Detection and Identification",18752,12,0,1
+Information Theory,18753,12,0,1
+Error Control Coding:  Theory and Applications,18754,12,1,0
+Packet Switching and Computer Networks,18756,12,1,0
+Wireless Communications,18758,12,1,0
+Wireless Networks,18759,12,0,1
+VLSI CAD: Logic to Layout,18760,12,0,1
+In Between IC Design and Manufacturing,18764,12,0,1
+Digital System Testing and Testable Design,18765,12,1,0
+Design for Manufacturability in Nanometer Era,18769,12,1,0
+Linear Systems,18771,12,1,0
+Non Linear Control,18776,12,1,0
+Speech Recognition and Understanding,18781,12,1,0
+Machine Learning,18782,12,1,0
+Wavelets and Multiresolution Techniques,18790,12,1,0
+Methods in Medical Image Analysis,18791,12,0,1
+Advanced Digital Signal Processing,18792,12,1,0
+Pattern Recognition Theory,18794,12,1,0
+Bioimage Informatics,18795,12,0,1
+Machine Learning for Signal Processing,18797,12,1,0
+"Image, Video, and Multimedia",18798,12,1,0
+Special Topics in Signal Processing:,18799,12,1,0
+Special Topics in Applied Physics:,18819,12,1,0
+Distributed Systems:,18842,12,0,1
+Mobile and Pervasive Computing,18843,12,1,1
+Internet Services,18845,12,0,1
+Special Topics in Computer Systems::,18847,12,1,0
+Special Topics in Embedded Systems:,18848,12,1,0
+Special Topics in Communications,18859,12,1,0
+Special Topics in CAD:,18869,12,0,0
+Engineering and Economics of Electric Energy Systems,18875,12,0,1
+Special Topics in Systems and Controls:,18879,12,1,0
+A Special Topics in Energy Systems:,18882,12,1,0
+Graduate Seminar,18901,0,1,0
+Graduate Seminar,18902,0,0,1
+M.S. Graduate Project,18980,0,1,1
+M.S. Teaching Assistantship,18983,0,1,0
+M.S. Teaching Assistantship,18984,0,0,1
+Reading and Research,18990,0,1,1
+ECE Graduate Teaching Internship,18991,1,1,0
+ECE Graduate Teaching Internship,18992,12,0,1
+Internship,18994,5,0,1
+Practicum in Electrical and Computer Engineering,18995,0,1,1
+Study Abroad,19051,0,1,1
+Introduction to Engineering and Public Policy,19101,12,0,1
+EPP Sophomore Seminar,19201,3,1,0
+Ethics and Policy Issues in Computing,19211,9,0,1
+Technology and Policy Writing for Lay Audiences,19325,9,0,1
+SP TP: Research Methods & Statistics for Engineering & Public Policy Analysis,19350,9,1,0
+Water Technology Innovation and Policy,19365,9,0,1
+"Telecommunications Technology, Policy & Management",19402,12,0,1
+Policies of Wireless Systems and the Internet,19403,12,1,0
+"Global Competitiveness: Firms, Nations and Technological Change",19411,9,1,0
+Energy and the Environment,19424,9,1,0
+Combustion and Air Pollution Control,19440,9,0,1
+Special Topics in EPP:,19443,9,0,0
+EPP Projects,19451,12,0,1
+EPP Projects,19452,12,1,0
+Special Topics: Invention & Innovation Materials Intensive Technologies Part 1,19461,4.5,1,0
+Special Topics: Invention Innovation for Materials Intensive Technologies Part 2,19462,4.5,1,0
+Special Topics: Fundamentals Of Electric Power Systems,19472,12,1,0
+Directed Study in EPP: Undergraduate,19500,0,1,1
+Undergraduate Research,19550,0,1,1
+Undergraduate Research - Sophomore,19600,0,1,0
+Current Topics In Privacy Seminar,19602,3,0,1
+"Privacy, Policy,  Law and Technology",19608,12,1,0
+Undergraduate Research - Junior,19610,0,1,0
+Infrastructure Management,19617,12,0,1
+Undergraduate Research - Senior,19620,0,1,0
+Climate Science and Policy,19626,12,0,1
+Smart Grids and Future Electric Energy Systems,19638,12,1,0
+Special Topics in Chemical Process Technology and Industry Structure,19645,9,1,0
+Special Topics Climate Change Mitigation,19653,12,0,0
+Special Topics in EPP:,19655,9,1,0
+Special Topics: Current Issues in EPP:,19656,6,0,0
+Energy Policy and Economics,19666,6,0,1
+E&TIM Seminar on Innovation Management in Practice,19680,6,0,1
+Managerial and Engineering Economics,19681,12,0,1
+The Strategy and Management of Technological Innovation,19682,12,0,1
+Engineering and Technology Innovation Management in Practice,19684,3,1,0
+Special Topics: New Technology Commercialization: Public Policy Strategies,19686,12,0,0
+Principles and Practices of R&D Management,19687,6,1,0
+Finance for Innovation Management,19689,6,1,1
+M.S. Project,19690,3,1,1
+Special Topics: Finance for Innovation Management II,19691,6,1,0
+Special Topics: Marketing for Innovation,19692,6,0,0
+Managing and Leading Research and Development,19693,12,1,0
+Special Topics: Sustainability and Innovation,19696,9,1,0
+Directed Study in EPP: Graduate,19700,0,1,1
+Quantitative Methods for Policy Analysis,19702,12,0,1
+Applied Data Analysis,19704,6,0,1
+Workshop Applied Policy Analysis,19705,6,1,0
+Special Topics: Environmental Regulation and Manmade Nanomaterials,19710,6,1,0
+"Global Competitiveness: Firms, Nations, and Technological Change",19711,12,1,0
+Policies of Wireless Systems and the Internet,19713,12,1,0
+Environmental Life Cycle Assessment,19714,12,0,1
+"Special Topics Science and Technology Policy, Analysis and Processes",19716,6,0,0
+Introduction to Sustainable Engineering,19717,12,1,0
+"Telecommunications, Technology Policy & Management",19722,12,0,1
+Special Topics: Materials for Energy Storage,19724,6,0,0
+Mathematical Modeling of Environmental Quality Systems,19726,12,0,1
+Engineering and Economics of Electric Energy Systems,19739,12,0,1
+Combustion and Air Pollution Control,19740,12,0,1
+Project Research,19750,0,1,1
+Air Quality Engineering,19751,12,1,0
+EPP Project Management,19752,12,1,1
+EPP Teaching Practicum,19753,0,1,1
+EPP Internship in University Teaching,19760,3,1,1
+Research Practicum in EPP,19770,0,1,1
+Engineering Optimization,19785,12,1,0
+EPP Ph.D. Thesis Research,19799,0,1,1
+Seminar in Electricity Market Restructuring,19881,6,1,0
+Special Topics: Seminar in Low-Carbon Electric Power,19882,6,0,0
+Special Topics: Seminar in Climate & Energy Decision Making Under Uncertainty,19883,3,1,0
+Special Topics: Telecom Management Policy Research,19885,3,1,0
+Study Abroad,21050,0,1,0
+Study Abroad,21051,0,0,1
+Freshman Mathematics Seminar:,21101,3,1,0
+Problem Solving in Recreational Mathematics,21110,9,0,1
+Calculus I,21111,10,1,1
+Calculus II,21112,10,1,1
+Differential and Integral Calculus,21120,10,1,1
+Integration and Approximation,21122,10,1,1
+Calculus II for Biologists and Chemists,21124,10,0,1
+Introduction to Mathematical Software,21126,3,1,1
+Concepts of Mathematics,21127,10,1,1
+Undergraduate Seminar,21200,6,0,1
+Undergraduate Colloquium,21201,1,1,1
+Discrete Mathematics,21228,9,1,1
+Mathematical Studies Analysis I,21235,10,1,0
+Mathematical Studies Analysis II,21236,10,0,1
+Mathematical Studies Algebra I,21237,10,1,0
+Mathematical Studies Algebra II,21238,10,0,1
+Matrix Algebra with Applications,21240,10,1,1
+Matrices and Linear Transformations,21241,10,1,1
+Matrix Theory,21242,10,1,1
+Multivariate Analysis,21256,9,1,1
+Models and Methods for Optimization,21257,9,1,1
+Calculus in Three Dimensions,21259,9,1,1
+Differential Equations,21260,9,1,1
+Introduction to Ordinary Differential Equations,21261,10,0,1
+Multidimensional Calculus,21268,10,0,1
+Vector Analysis,21269,10,0,1
+Introduction to Mathematical Finance,21270,9,0,1
+Operations Research I,21292,9,0,1
+Putnam Seminar,21295,3,1,0
+Basic Logic,21300,9,1,0
+Combinatorics,21301,9,1,1
+Symbolic Programming Methods,21320,9,0,1
+Probability,21325,9,1,1
+Set Theory,21329,9,0,1
+Linear Algebra,21341,9,1,1
+History of Mathematics,21350,9,1,0
+Principles of Real Analysis I,21355,9,1,1
+Principles of Real Analysis II,21356,9,0,1
+Topics in Applied Mathematics:,21366,9,1,1
+Numerical Methods,21369,9,1,1
+Discrete Time Finance,21370,9,1,0
+Functions of a Complex Variable,21371,9,1,0
+Partial Differential Equations and Fourier Analysis,21372,9,0,1
+Algebraic Structures,21373,9,1,1
+Field Theory,21374,9,0,1
+Operations Research II,21393,9,1,0
+Intermediate Logic,21400,9,0,1
+Continuous-Time Finance,21420,9,0,1
+Number Theory,21441,9,1,1
+Topology,21465,9,1,0
+Selected Topics in Analysis:,21470,9,0,1
+Introduction to Dynamical Systems,21476,9,1,0
+Graph Theory,21484,9,0,1
+Undergraduate Seminar,21490,3,1,0
+Undergraduate Research  Topic:,21499,9,1,1
+Practicum,21590,3,0,1
+Undergraduate Reading and Research,21599,0,1,1
+Introduction to Set Theory I,21602,12,1,0
+Model Theory I,21603,12,1,0
+Introduction to Recursion Theory,21604,12,0,1
+Teaching Mathematics,21605,2,1,0
+Mathematics Course Design,21606,1,0,1
+Real Analysis,21620,6,1,0
+Introduction to Lebesgue Integration,21621,6,1,0
+Complex Analysis,21623,12,0,1
+Ordinary Differential Equations,21630,12,0,1
+Introduction to Functional Analysis,21640,12,0,1
+General Topology,21651,12,1,0
+Introduction to Numerical Analysis I,21660,12,1,0
+Methods of Optimization,21690,12,1,0
+Discrete Mathematics,21701,12,1,0
+Set Theory II,21702,12,0,1
+Commutative Algebra,21715,12,1,0
+Measure and Integration,21720,12,1,0
+Probability,21721,12,0,1
+Partial Differential Equations I,21732,12,1,0
+Extremal Combinatorics,21738,12,0,1
+Introduction to Functional Analysis II,21740,12,1,0
+Differential Geometry,21759,12,1,0
+Finite Element Methods,21762,12,0,1
+Introduction to Parallel Computing and Scientific Computation,21765,9,0,1
+Practicum in Mathematical Sciences,21785,0,1,1
+Advanced Topics in Discrete Mathematics:,21801,12,0,1
+Model Theory III,21803,12,0,1
+Topics in Applied Mathematics:,21820,12,1,1
+Partial Differential Equations II,21832,12,0,1
+Stochastic Calculus,21880,12,1,0
+Reading and Research,21900,0,1,1
+Masters Degree Research,21901,0,1,1
+Doctoral Thesis Research,21902,0,1,1
+Mathematics Colloquium,21997,0,1,1
+Study Abroad,24050,0,1,0
+Study Abroad,24051,0,0,1
+Fundamentals of Mechanical Engineering,24101,12,1,1
+Machine Shop Practice,24200,1,1,1
+Engineering Graphics,24201,9,0,1
+Introduction to Computer Aided Design,24202,1,1,1
+Thermodynamics I,24221,10,1,0
+Fluid Mechanics,24231,10,0,1
+Statics,24261,10,1,0
+Stress Analysis,24262,12,0,1
+Special Topics in Renewable Energy Engineering,24292,9,0,0
+Mechanical Engineering Seminar I,24302,2,1,1
+Numerical Methods,24311,12,1,0
+Thermal-Fluids Experimentation,24321,12,0,1
+Heat Transfer,24322,10,1,0
+Manufacturing Sciences,24341,9,0,1
+Dynamics,24351,10,1,0
+Dynamic Systems and Controls,24352,12,0,1
+Special Topics in Material Selection for Mechanical Engineers,24357,9,0,0
+Special Topics in Culinary Mechanics,24358,9,0,0
+Special Topics: Applied Finite Element Analysis,24365,9,0,0
+Engineering Design I: Methods and Skills,24370,12,0,1
+Mechanical Engineering Co-op,24390,0,1,1
+Mechanical Engineering Project,24391,3,1,1
+Mechancial Engineering Project,24392,3,1,1
+Internal Combustion Engines,24421,12,1,0
+Energy and the Environment,24424,9,1,0
+Combustion and Air Pollution Control,24425,9,0,1
+Engineering Design II: Conceptualization and Realization,24441,12,1,1
+Feedback Control Systems,24451,12,1,0
+Mechanical Systems Experimentation,24452,9,1,0
+Special Topics in Engineering Vibrations,24456,9,0,0
+Department Research Honors,24491,3,1,1
+Department Research Honors,24492,3,1,1
+Microelectromechanical Systems,24614,12,1,0
+Microfluidics,24615,12,0,1
+Special Topics in Mechanics of Complex Fluids,24617,12,1,0
+Special Topics in Biological Fluid Mechanics,24619,6,1,0
+Special Topics: Aerosol Measurement Technology,24620,12,1,0
+Molecular Simulation of Materials,24623,12,0,1
+Special Topics in Air Quality Engineering,24626,12,1,0
+Energy Transport and Conversion at the Nanoscale,24628,12,0,1
+Special Topics: Direct Solar and Themal Energy Conversion,24629,12,1,0
+Special Topics in Climate Change Mitigation,24640,12,0,0
+Fuel Cell Systems,24642,12,1,0
+Special Topics in Advanced Power Plant Design,24644,12,0,0
+Special Topics in Applied Finite Element Analysis,24650,12,0,0
+Special Topics in Material Selection for Mechanical Engineers,24651,12,0,0
+Cellular Biomechanics,24655,9,1,0
+Molecular Biomechanics,24657,9,0,1
+Computational Bio-Modeling and Visualization,24658,12,0,1
+Special Topics: Introduction to Continuum Biomechanics,24659,12,0,0
+Special Topics - Practical Control and Automation,24671,12,0,0
+"Special Topics: Soft Robots: Mechanics, Design and Modeling",24673,12,0,0
+Design of Biomechatronic Systems for Humans,24674,12,1,0
+Micro/Nano Robotics,24675,12,0,1
+Bio-Inspired Robotics,24676,12,1,0
+Computer-Aided Design,24681,12,0,1
+Design for Manufacture and the Environment,24683,12,1,0
+Integrated Product Development,24684,12,0,1
+Engineering Design Fundamentals,24685,6,1,0
+Introduction to CAD and CAE Tools,24688,12,1,0
+Mathematical Techniques in Engineering,24701,12,1,0
+Numerical Methods in Engineering,24703,12,1,1
+Probability and Estimation Methods for Engineering Systems,24704,12,1,0
+Computational Fluid Dynamics,24718,12,0,1
+Advanced Fluid Mechanics,24719,12,1,0
+Advanced Thermodynamics,24721,12,1,0
+Energy System Modeling,24722,12,1,0
+Advanced Heat Transfer,24730,12,1,0
+Conductive Heat Transfer,24731,6,1,0
+Heat Transfer in Biology and Medicine,24735,6,1,0
+Combustion and Air Pollution Control,24740,12,0,1
+Introduction to Solid Mechanics I,24751,12,1,0
+Introduction to Solid Mechanics II,24752,12,0,1
+Finite Element Method in Mechanics I,24755,12,1,0
+Special Topics:Advanced Multiscale Modeling & Computation Engineering Materials,24756,12,1,0
+Linear Systems,24771,12,1,0
+Non Linear Control,24776,12,1,0
+Mechatronic Design,24778,12,0,1
+Engineering Computation,24780,12,1,0
+Engineering Computation Project,24781,0,1,0
+Computational Engineering Project II,24782,0,0,1
+Engineering Optimization,24785,12,1,0
+Artificial Intelligence and Machine Learning for Engineering Design,24787,12,1,1
+Graduate Seminar I,24791,0,1,0
+Graduate Seminar II,24792,0,0,1
+Supervised Reading,24793,0,1,1
+Master of Science Project,24794,0,1,1
+PhD Internship in Teaching Counterpoint,24795,0,1,1
+Thesis Research,24797,0,1,1
+Practicum in Mechancal Engineering,24799,0,1,1
+Career Planning for Integrated Innovators,24881,6,1,0
+Special Topics in Bipedal Locomotion Seminar,24892,0,1,0
+Study Abroad,27050,0,1,0
+Study Abroad,27051,0,0,1
+Engineering the Materials of the Future,27100,12,1,1
+Academic Variant,27111,1,1,1
+Structure of Materials,27201,9,1,0
+Defects in Materials:,27202,9,0,1
+Introduction to Materials Characterization,27205,3,0,1
+Structure of Materials (Minor Option),27211,6,1,0
+Thermodynamics of Materials,27215,12,1,0
+Transport in Materials,27216,9,0,1
+Phase Relations and Diagrams,27217,12,0,1
+Phase Relations and Diagrams (Minor Option),27227,9,0,1
+Professional Development I,27299,1,1,0
+Microstructure and Properties I,27301,9,1,0
+Powder Processing of Materials,27323,9,0,1
+Introduction to Polymer Science and Engineering,27324,9,1,0
+Introduction to Materials Selection,27357,6,0,1
+Selection and Performance of Materials,27367,6,0,1
+Internship,27390,0,1,1
+Professional Development II,27399,1,1,0
+MSE Capstone Course I,27401,12,1,0
+MSE Capstone Course II,27402,12,1,1
+Computational Techniques in Engineering,27410,9,0,1
+Introduction to Molecular Biomaterials,27411,9,1,0
+"Electronic and Thermal Properties of Metals, Semiconductors and Related Devices",27432,9,1,0
+Supervised Reading,27454,3,1,1
+Professional Development III,27499,1,1,0
+SP Topics: Invention & Innovation for Materials Intensive Technologies Part 1,27501,4.5,1,0
+SP TOPICS: Invention and Innovation for Materials Intensive Technologies Part 2,27502,4.5,1,0
+Tissue Engineering,27520,12,0,1
+Materials Project I,27555,6,1,1
+Materials Project II,27556,6,1,1
+Special Topics: Kinetics of Metallurgical Reactions and Processes,27561,6,1,0
+Nanostructured Materials,27565,9,0,1
+Phase Transformations in Solids,27582,9,0,1
+Nanostructered Materials,27705,12,0,1
+Introduction to Molecular Biomaterials,27709,12,1,0
+Soft Materials,27718,12,1,0
+Materials for Energy Storage,27724,6,0,1
+Mechanical Behavior in Extreme Enviroments,27727,6,0,1
+Advanced Characterization and Microstructural Analysis,27750,12,0,1
+Materials Problems,27755,0,1,0
+Masters Project,27756,1,1,1
+Special Topics: Kinetics of Metallurgical Reactions and Processes,27761,6,1,0
+Electron Optical Methods Of Materials,27763,12,0,1
+Diffusion in Materials,27766,6,1,0
+"Electronic, Magnetic, and Optical Properties",27770,12,0,1
+Graduate Seminar,27774,0,1,1
+Thesis,27775,1,1,1
+Phase Transformations in Solids I,27782,12,0,1
+Defects in Materials,27788,6,1,0
+Structure of Materials,27796,6,1,0
+Bonding of Materials,27797,6,1,0
+Thermodynamics I,27798,6,1,0
+Thermodynamics II,27799,6,1,0
+Internship,27995,1,1,1
+Introduction to Military Leadership,30101,5,1,0
+Foundations of Leadership,30102,5,0,1
+Leadership Dynamics and Application,30201,5,1,0
+Applications in Leadership and Combat Power,30202,5,0,1
+Basic Leader Planning and Combat Operations,30301,5,1,0
+Advanced Leader Planning and Combat Operations,30302,5,0,1
+Progressive Leadership Theory and Applications,30401,5,1,0
+Transition to the Profession of Arms,30402,5,0,1
+Foundations of the United States Air Force,31101,3,1,0
+Foundations of the United States Air Force,31102,3,0,1
+Air Force Leadership Laboratory,31105,0,1,1
+Air Force Leadership Laboratory,31106,0,1,1
+Air Force Leadership Laboratory,31107,0,1,1
+Air Force Leadership Laboratory,31108,0,1,1
+The Evolution of Air and Space Power,31201,3,1,0
+The Evolution of Air and Space Power,31202,3,0,1
+Air Force Leadership Studies,31301,9,1,0
+Air Force Leadership Studies,31302,9,0,1
+National Security Affairs and Preparation for Active Duty,31401,9,1,0
+National Security Affairs and Preparation for Active Duty,31402,9,0,1
+Naval Laboratory,32100,3,1,1
+Introduction to Naval Science,32101,6,1,0
+Seapower and Maritime Affairs,32102,6,0,1
+Naval Makeup Lab,32103,3,0,1
+Naval Laboratory,32200,3,1,1
+Leadership & Management,32201,9,1,1
+Navigation,32212,9,0,1
+Naval Laboratory,32300,3,1,1
+Evolution Of Warfare,32310,9,0,1
+Naval Ship Systems I-Engineering,32311,9,1,0
+Naval Ship Systems II-Weapons,32312,9,0,1
+Naval Laboratory,32400,3,1,1
+Leadership and Ethics,32402,6,0,1
+Amphibious Warfare,32410,9,1,0
+Naval Operations and Seamanship,32411,9,1,0
+Study Abroad,33050,0,1,0
+Study Abroad,33051,0,0,1
+Basic Experimental Physics,33100,6,1,1
+First Year Seminar:,33101,3,1,0
+Experimental Physics,33104,9,1,1
+Physics I for Engineering Students,33106,12,1,1
+Physics II for Engineering Students,33107,12,1,1
+Physics I for Science Students,33111,12,1,1
+Physics II for Science Students,33112,12,1,1
+Physics of Musical Sound,33114,9,0,1
+Physics for Future Presidents,33115,9,1,0
+Science and Science Fiction,33120,9,0,1
+Introduction to Astronomy,33124,9,1,0
+Astronomy Lab,33126,3,1,0
+Matter and Interaction I,33131,12,1,0
+Matter and Interactions II,33132,12,0,1
+Physics Sophomore Colloquium I,33201,2,1,0
+Physics Sophomore Colloquium II,33202,2,0,1
+Physics III: Modern Essentials,33211,10,1,1
+Mini-Course in Special Relativity,33213,4,1,1
+"Stars, Galaxies and the Universe",33224,9,1,0
+Quantum Physics and Structure of Matter,33225,9,1,0
+Electronics I,33228,10,0,1
+Physical Analysis,33231,10,1,0
+Mathematical Methods of Physics,33232,10,0,1
+Quantum Physics,33234,10,0,1
+Introduction to Computational Physics,33241,9,1,0
+Physics Upperclass Colloquium I,33301,1,1,0
+Physics Upperclass Colloquium II,33302,1,0,1
+Physical Mechanics I,33331,10,1,0
+Physical Mechanics II,33332,10,0,1
+Intermediate Electricity and Magnetism I,33338,10,1,0
+Intermediate Electricity and Magnetism II,33339,10,0,1
+Modern Physics Laboratory,33340,10,0,1
+Thermal Physics I,33341,10,1,0
+Thermal Physics II,33342,10,0,1
+Undergraduate Research,33350,1,1,1
+Nanoscience and Nanotechnology,33355,9,1,0
+Introduction to BioPhysics,33441,10,1,0
+Introduction to Nuclear and Particle Physics,33444,9,0,1
+Adv Quantum Physics I,33445,9,1,0
+Advanced Quantum Physics II,33446,9,0,1
+Introduction to Solid State Physics,33448,9,0,1
+Senior Research,33451,0,1,1
+Advanced Computational Physics,33456,9,0,1
+Extragalactic Astrophysics and Cosmology,33466,9,0,1
+Astrophysics of Stars and the Galaxy,33467,9,1,0
+Supervised Reading,33499,1,1,1
+General Relativity,33650,9,1,0
+Introduction to String Theory:,33652,9,0,1
+Quantum Computation and Quantum Information Theory:,33658,10,0,1
+Quantum Mechanics I,33755,12,1,0
+Quantum Mechanics II,33756,12,0,1
+Quantum Computation and Quantum Information Theory:,33758,12,0,1
+Introduction to Mathematical Physics I,33759,12,1,0
+Classical Electrodynamics I,33761,12,1,0
+Classical Electrodynamics II,33762,12,0,1
+Statistical Mechanics,33765,12,0,1
+Biophysics: From Basic Concepts to Current Research,33767,12,0,1
+Quantum Mechanics III: Many Body and Relativistic Systems,33769,12,1,0
+Field Theory I,33770,12,1,0
+Field Theory II,33771,12,0,1
+Introduction to Research 1,33775,2,1,0
+Introduction to Research II,33776,6,0,1
+Introductory Astrophysics:,33777,12,0,1
+Introduction to Nuclear and Particle Physics,33779,12,1,0
+Nuclear and Particle Physics II,33780,12,0,1
+Solid State Physics,33783,12,1,0
+Special Topics in Condensed Matter: Topological Phenomena,33785,12,1,0
+Special Topics in Astrophysics,33788,12,1,0
+Special Topics in Mathematical Physics: Group Theory with Physics Applications,33791,12,0,0
+Colloquium,33794,1,1,1
+Graduate Seminar in Quantum Computation and Information:,33795,2,1,1
+Supervised Reading in Computational Physics,33889,1,1,1
+Supervised Reading Astrophysics,33892,1,1,1
+Supervised Reading in Nuclear Physics,33893,1,1,1
+Supervised Reading in Particle Physics,33894,1,1,1
+Supervised Reading in Condensed Matter Physics,33895,1,1,1
+Supervised Reading in Mathematical Physics,33896,1,1,1
+Supervised Reading in Classical Physics,33897,1,1,1
+Supervised Reading in Quantum Physics,33898,1,1,1
+Practicum in Physics,33996,1,1,1
+Graduate Laboratory,33997,1,1,1
+Thesis Research,33998,1,1,1
+Study Abroad,36050,0,1,0
+Study Abroad,36051,0,0,1
+Freshman Seminar:,36148,9,0,1
+Freshman Seminar:,36149,9,0,1
+Research Training: Statistics,36198,9,0,1
+Statistical Reasoning and Practice,36201,9,1,1
+Statistical Methods,36202,9,0,1
+Probability and Statistics for Business Applications,36207,9,1,0
+Regression Analysis,36208,9,0,1
+Probability Theory and Random Processes,36217,9,1,1
+Engineering Statistics and Quality Control,36220,9,1,1
+Introduction to Probability Theory,36225,9,1,0
+Introduction to Statistical Inference,36226,9,0,1
+Statistics for Lab Sciences,36247,9,0,1
+Independent Study,36295,0,1,1
+"Sampling, Survey and Society",36303,9,0,1
+Experimental Design for Behavioral and Social Sciences,36309,9,1,0
+Statistical Graphics and Visualization,36315,9,0,1
+Mathematical Statistics (Honors),36326,9,0,1
+Statistical Computing,36350,9,1,0
+Modern Regression,36401,9,1,0
+Advanced Methods for Data Analysis,36402,9,0,1
+Introduction to Probability Modeling,36410,9,0,1
+Special Topics:,36461,9,1,0
+Special Topics: Applied Multivariate Methods,36464,9,0,0
+Undergraduate Research,36490,9,0,1
+Data Matching Methods and their Uses,36491,6,1,0
+Independent Study,36495,0,1,1
+Practicum in Statistics,36497,1,0,1
+Advanced Undergraduate Research,36595,0,0,1
+Perspectives in Data Science I,36601,12,1,0
+Perspectives in Data Science II,36602,12,0,1
+Modern Regression,36607,9,1,0
+Advanced Data Analysis Methodology,36608,9,0,1
+Intro to Probability Modeling,36610,9,0,1
+Applied Linear Models,36617,12,1,0
+Topic in Data Analysis,36618,12,0,1
+Probability and Mathematical Statistics I,36625,12,1,0
+Special Topics:,36661,9,1,0
+Special Topics: Applied Multivariate Methods,36664,9,0,0
+Data Matching Methods and thier Uses,36691,6,1,0
+Independent Study,36695,0,1,1
+Statistical Immigration,36699,3,1,0
+Probability and Mathematical Statistics I,36700,12,1,0
+Statistical Machine Learning,36702,12,0,1
+Intermediate Statistics,36705,12,1,0
+Regression Analysis,36707,12,1,0
+Statistical Graphics and Visualization,36721,6,1,0
+Convex Optimization,36725,9,1,0
+Statistical Practice,36726,12,0,1
+Statistical Methods for Neuroscience and Psychology,36746,12,0,1
+Experimental Design for Behavioral and Social Sciences,36749,12,1,0
+Advanced Probability Overview,36752,12,0,1
+Advanced Statistical Theory I,36755,12,1,0
+Advanced Data Analysis I,36757,12,0,1
+Advanced Data Analysis II,36758,24,1,0
+Applications of Extreme Value Theory,36762,6,1,0
+Hierarchical Linear Models,36763,6,1,0
+Social Network Models,36780,6,0,1
+Graphical Models,36783,6,0,1
+Independent Study,36795,0,1,1
+Foundations of Statistics Seminar,36835,12,0,1
+Reading and Research,36995,1,1,1
+Statistics Departmental Seminar,36996,0,1,1
+Practicum in Statistics,36997,1,1,1
+Study Abroad,38050,0,1,0
+Study Abroad,38051,0,0,1
+Study Abroad,38060,0,1,0
+MCS Honors Research,38455,6,1,0
+Principles of Biotechnology,38710,12,0,1
+Study Abroad,39050,0,1,0
+Study Abroad,39051,0,0,1
+CIT Internship,39120,0,1,1
+Business for Engineers,39200,9,1,1
+Experiential Learning I,39210,0,1,1
+Experiential Learning II,39220,0,0,1
+CIT Undergraduate Projects,39250,0,1,1
+CIT Undergraduate Projects,39251,0,0,1
+Cit Co-Op,39390,0,1,1
+CIT Undergraduate Interdisciplinary Design Project,39447,3,1,0
+Honors Research Project,39500,1,1,1
+Integrated Product Development,39600,12,0,1
+Engineering Design Projects,39605,12,1,0
+Engineering Design Projects,39606,12,0,1
+Energy Conversion and Supply,39610,6,1,0
+Energy Demand and Utilization,39611,6,1,0
+Energy Policy and Economics,39612,6,0,1
+Energy Transport and Storage,39613,6,0,1
+Independent Study Interaction Design Studio,39646,1,0,1
+Special Topics in Design,39647,3,0,0
+Rapid Design and Prototyping  of Computer Science,39648,12,0,1
+"Colloids, Polymers and Surfaces Laboratory I",39801,3,1,0
+"Colloids, Polymers and Surfaces Laboratory II",39802,3,0,1
+"Colloids, Polymers and Surfaces (CPS) Lab III: Adv. Characterization Methods",39803,3,0,1
+CPS Seminar,39810,1,1,1
+Study Abroad,42050,0,1,0
+Study Abroad,42051,0,0,1
+Introduction to Biomedical Engineering,42101,12,1,1
+Sophomore BME Research Project,42200,3,1,1
+Professional Issues in Biomedical Engineering,42201,3,1,1
+Physiology,42202,9,1,1
+Biomedical Engineering Laboratory,42203,9,1,1
+Junior BME Research Project,42300,3,1,1
+Cellular and Molecular Biotechnology,42321,9,1,0
+Senior BME Research Project,42400,3,1,1
+Foundation of BME Design,42401,3,1,0
+BME Design Project,42402,9,0,1
+Engineering Biomaterials,42411,9,1,0
+Biomaterial/Host Interactions,42419,12,1,0
+Introduction to Biomedical Imaging and Image Analysis,42431,12,1,0
+Medical Devices,42444,9,1,1
+Rehabilitation Engineering,42447,9,1,0
+Engineering Biomaterials,42611,12,1,0
+Engineering Molecular Cell Biology,42620,12,1,0
+Biological Transport and Drug Delivery,42624,9,0,1
+Neural Data Analysis,42631,9,1,0
+Neural Signal Processing,42632,12,0,1
+Computational Bio-Modeling and Visulization,42640,12,0,1
+Bio Inspired Robotics,42641,12,1,0
+Microfluids,42643,12,0,1
+Cellular Biomechanics,42645,9,1,0
+Molecular Biomechanics,42646,9,0,1
+Introduction to Continuum Biomechanics,42647,12,0,1
+Surgery for Engineers,42660,12,0,1
+Special Topics (Mini):,42697,6,1,0
+Special Topics:,42698,9,1,0
+Special Topics:,42699,12,1,0
+Biomedical Engineering Seminar,42701,0,1,1
+Advanced Physiology,42702,12,0,1
+Bioimage Informatics,42731,12,0,1
+Wavelets and Multiresolution Techniques,42732,12,1,0
+Medical Image Analysis,42735,12,0,1
+Medical Devices,42744,12,1,1
+Rehabilitation Engineering,42747,12,1,0
+Graduate Surgery for Engineers,42760,3,0,1
+Practicum in Biomedical Engineering,42790,6,1,1
+Extramural Practicum,42792,3,0,1
+Current Readings in Biomedical Engineering,42798,1,1,1
+Directed Study,42799,3,1,1
+M.S. Research,42890,9,1,1
+M.S. Research Final Report,42899,0,1,1
+Ph.D. Thesis Research,42990,3,1,1
+Teaching Assistantship,42996,2,1,1
+Ph.D. Qualifying Examination,42997,0,1,1
+Ph.D. Proposal,42998,0,1,1
+Ph.D Thesis Defense,42999,0,1,1
+Spanish for Managers I,45690,12,1,0
+Mandarin for Managers I,45691,12,1,0
+Spanish Managers II,45695,12,0,1
+Mandarin for Managers II,45696,12,0,1
+German Language & Culture,45697,6,0,1
+China Language and Culture,45698,6,0,1
+Financial and Managerial Accounting I,45700,6,1,0
+Financial and Managerial Accounting II,45701,6,0,1
+Managerial Economics,45710,6,1,0
+Global Economics,45711,6,1,1
+Finance I,45720,6,1,0
+Marketing Management,45730,6,1,1
+Managing People and Teams,45740,6,1,0
+Managing Networks & Organizations,45741,6,1,1
+Ethics and Leadership,45745,3,0,1
+Accelerate Leadership Feedback,45747,0,1,0
+Accelerate Leadership Feedback,45748,0,1,0
+Leadership Immersion Workshop,45749,0,1,1
+Probability and Statistics,45750,6,1,0
+Optimization,45751,6,1,1
+Statistical Decision Making,45752,6,0,1
+Operations Management,45760,6,1,1
+Corporate Strategy,45770,6,1,0
+Management Presentations,45790,3,1,0
+Interpersonal Communications,45791,3,1,0
+Writing for Managers,45792,3,0,1
+Corporate Financial Reporting,45800,6,0,1
+Financial Statement Analysis,45801,6,1,0
+"Strategy, Performance Measurement, and Corporate Governance",45803,6,1,0
+Entrepreneurial high Growth Companies,45805,6,1,1
+Entrepreneurial Alternatives,45806,6,1,1
+Commercialization and Innovation: Strategy,45807,6,1,0
+"Money, Banking and Finacial Markets",45810,6,0,1
+Monetary Policy in the US and Abroad,45811,6,0,1
+Finance II,45820,6,1,1
+Applied Asset Management,45821,6,1,0
+Applied Corporate Finance,45822,6,1,1
+Options,45823,6,1,0
+Venture Capital Finance,45824,6,0,1
+International Finance,45825,6,0,1
+Real Estate,45826,6,0,1
+Private Equity Finance,45827,6,0,1
+Marketing Research,45830,6,0,1
+Pricing Strategy,45831,6,0,1
+Brand Strategy,45832,6,1,0
+New Product Management,45833,6,0,1
+Business to Business Marketing,45834,6,1,1
+Consumer Behavior,45836,6,0,1
+Negotiations,45840,6,1,1
+Team Conflict and Negotiation,45841,6,0,1
+Organizational Learning and Strategy,45842,6,1,0
+Organization Power and Influence,45843,6,0,1
+Cross Cultural Management and Ethics,45847,6,0,1
+Applications of Operations Research,45850,6,1,0
+Data Mining,45851,6,0,1
+Optimization Methods in Finance,45852,6,0,1
+Optimization Models for Operations,45854,6,0,1
+Demand Management & Price Optimization,45860,6,1,0
+Six Sigma Tools and Techniques,45861,6,0,1
+Supply Chain Management,45862,6,0,1
+Risk Management,45863,6,1,0
+Operations Strategy,45864,6,0,1
+Strategic Corporate Management,45870,6,0,1
+Trade & Investment Strategy,45871,6,1,0
+Technology Strategy,45872,6,0,1
+Government and Business,45875,6,1,0
+Contracts,45877,6,0,1
+Strategic IT,45880,6,1,0
+Modern Data Management,45881,6,1,0
+Digital Marketing and Social Media Strategy,45882,6,0,1
+Consulting and Conflict Resolution,45890,6,1,0
+Presenting Competitively,45891,6,0,1
+Executive Communication Skills,45892,6,0,1
+Communicating Change,45894,6,1,0
+Business Acting I,45895,6,1,1
+Business Acting II,45896,6,1,1
+Funding Early Stage Ventures,45905,6,0,1
+Commercialization and Innovation: Workshop,45907,6,1,0
+Marketing for Entrepreneurship,45908,6,0,1
+Designing and Leading a Business CAP-S,45909,12,0,1
+Capitalism,45911,6,0,1
+Business Forecasting with Time Series Models,45912,6,0,1
+Emerging Markets,45913,6,1,0
+Theory and Policy of Modern Finance,45920,6,1,0
+Corporate Restructuring,45921,6,0,1
+Financial Regulation,45923,6,1,0
+Fixed-Income Investments,45924,6,1,0
+Studies in Financial Engineering,45925,6,1,0
+Alpha Designing and Evaluating Quantiative Trading Strategies,45926,6,0,1
+Financial Internmediation,45927,6,0,1
+Energy Finance,45928,6,0,1
+Customer-Driven Strategies and Services,45932,6,1,0
+Marketing Communications and Buyer Behavior,45933,6,1,0
+Marketing with Electronic Social Media,45934,6,0,1
+Marketing Project,45937,12,0,1
+Marketing Project,45938,6,1,1
+Integrated Product Development Project,45939,12,0,1
+Evidence-Based Management,45941,6,1,0
+Organizational Change,45942,6,0,1
+Managing Intellectual Capital & Knowledge,45943,6,1,0
+Developing Star Performers,45944,6,0,1
+Evolving Toward High Impact Leadership,45946,3,1,0
+Operations Research Implementations,45950,6,1,0
+Business Networks,45951,6,1,0
+Business Analytics Capstone,45959,12,0,1
+Sustainable Operations,45960,6,1,0
+Simulation of Production and Service Systems,45962,6,1,0
+Real Options,45964,6,1,0
+Service Management:  Go-To-Marketing Strategy and Operations,45965,6,0,1
+Studies in Strategy,45970,6,0,1
+Personnel Strategy,45971,6,0,1
+Catastrophic Risk Analysis,45977,6,0,1
+Big Data,45980,6,0,1
+Technology Leadership Project,45984,12,0,1
+Financial Optimization,45988,6,1,0
+Management Game,45990,12,1,1
+Strategic Management of the Enterprise,45991,12,1,0
+German Study Abroad Capstone,45992,12,0,1
+China Study Abroad Capstone,45993,12,0,1
+Independent Study,45997,6,1,1
+Independent Study,45998,12,1,1
+US Practical Training,45999,3,1,1
+"Life Cycle, Taxation and Asset Management",46681,5,1,0
+Organizational Structure and Managing Change,46682,5,1,0
+Financial Engineering: Securitization and Structured Products,46683,5,1,0
+Managerial Economics (MSIN),46700,6,0,1
+Business Management(MSIN),46701,3,0,1
+Lausanne Semester,46721,0,1,1
+Business Fundamentals,46830,6,1,0
+Entrepreneurship Process Fundamentals,46831,6,1,0
+Marketing Research,46832,6,0,1
+Product & Brand Management,46833,6,0,1
+Management for Software Development for Technology Executives,46860,6,0,1
+Information Security and Privacy,46861,6,1,0
+Introduction to Human Computer Interaction for Technology Executives,46863,6,1,0
+Innovation Ecosystems,46865,6,1,0
+Mobile & Pervasive Computing Services,46866,6,0,1
+System Architecture for Managers,46867,6,0,1
+Advanced Information Security and Privacy,46869,6,1,0
+Mobile & Pervasive Computing Project,46870,6,0,1
+Financial Computing I,46901,6,1,0
+Financial Computing II,46902,6,1,0
+Financial Computing III,46903,6,0,1
+Financial Computing IV,46904,6,1,1
+Advanced Derivative Modeling,46915,6,1,0
+Probability,46921,6,1,0
+Statistical Inference,46923,6,1,0
+Statistical & Machine Learning Methodss for Financial Data,46926,6,0,1
+Financial Time Series Analysis,46929,6,0,1
+Simulation Methods for Option Pricing,46932,6,0,1
+Statistical Arbitage,46936,6,1,0
+Multi Period Asset Pricing,46941,6,1,0
+Stochastic Calculus for Finance I,46944,6,0,1
+Stochastic Calculus II,46945,6,0,1
+Numerical Methods,46950,6,1,1
+Risk Management I,46954,6,1,0
+Risk Management II,46955,6,1,0
+Fixed Income,46956,6,1,0
+Presentations for Computational Finance,46971,6,1,1
+MSCF Finance,46972,6,1,0
+MSCF Options,46973,6,1,0
+Financial Products and Markets,46974,6,0,1
+Macro for Computational Finance,46975,6,0,1
+Financial Optimization,46976,6,1,0
+MSCF Studies in Financial Engineering,46977,6,1,0
+Financial Economics for Comp Finance,46978,6,1,0
+MSCF Trading Competition,46980,0,1,0
+Issues in Taxation for Accounting & Finance,47711,6,1,0
+Seminar in Empirical Accounting,47715,6,0,1
+Accounting and Information Economics I,47718,6,1,0
+Accounting and Information Economics II,47719,6,0,1
+Empirical Methods in Corporate Finance & Accounting,47720,6,1,0
+Seminar in Finance I,47721,6,0,1
+Seminar In Finance II,47722,6,0,1
+PHD Seminar in Finance III,47723,6,1,0
+Utility-Free Theories of Decision Making,47740,6,0,1
+Analytical and Structural Marketing Models,47744,6,0,1
+Topics in Marketing:,47745,6,0,1
+Bayesian Statistics in Marketing,47747,6,0,1
+Human Judgement and Decision Making,47754,6,1,0
+Seminar in Manufacturing Management II,47762,6,0,1
+POM Seminar in Simulation Design and Analysis,47764,6,1,0
+Advanced Stochastic Analysis and Applications I,47774,6,1,0
+Advanced Stochastic Analysis and Applications II,47775,6,1,0
+Mathematics for Economists,47780,6,1,0
+Microeconomics I,47800,6,1,0
+Microeconomics II,47801,6,1,0
+Macroeconomics I,47802,6,1,0
+Dynamic Competitive Analysis,47803,6,0,1
+Computational Methods for Economics,47805,6,0,1
+Econometrics I,47811,6,1,0
+Econometrics II,47812,6,1,0
+Game Theory and Applications,47817,6,1,0
+Economics of Contracts,47818,6,1,0
+Integer Programming,47830,6,0,1
+Advanced Integer Programming,47831,6,0,1
+Non-Linear Programming,47832,6,0,1
+Linear Programming,47834,6,1,0
+Graph Theory,47835,6,1,0
+Networks and Matchings,47836,6,1,0
+Convex Analysis,47860,6,0,1
+Convex Polytopes,47861,6,1,0
+Constraint Programming,47862,6,1,0
+Seminar in Electricity Market Restructing,47881,6,1,0
+Seminar in Low-Carbon Electric Power,47882,6,0,1
+Seminar in Organizational Behavior (Micro),47890,6,1,0
+Special Topics in Organizational Behavior & Theory,47891,6,1,0
+Seminar in Organizational Behavior (Macro),47892,6,1,0
+Research Methods in Behavioral Sciences,47894,6,0,1
+Learning Processes in Organizations,47899,6,0,1
+Tepper PhD,47900,1,1,1
+Advanced Economics Analysis I (Structural Models),47901,6,0,1
+Advanced Economic Analysis II (Advanced Econometrics),47902,6,0,1
+Advanced Economic Analysis III,47903,6,0,1
+Doctoral Seminar in Information Systems II,47952,6,1,0
+Seminar in Information Systems III:,47953,6,1,0
+Communication Skills for the Academic Job Market,47991,6,0,1
+Independent Study,47996,3,1,1
+Curricular Practical Training,47998,3,1,1
+First Year Seminar: Architecture Edition I,48025,3,1,0
+First Year Seminar: Architecture Edition II,48026,3,0,1
+Study Abroad,48050,0,1,0
+Study Abroad,48051,0,0,1
+Spatial Concepts for Non-Architects I,48095,10,1,1
+Spatial Concepts for Non-Architects II,48096,9,0,1
+Architecture Design Studio: Foundation I,48100,12,1,0
+Architecture Design Studio: Foundation II,48105,12,0,1
+Building Physics,48116,9,1,0
+Digital Media I,48120,6,1,0
+Analog Drawing I,48121,6,1,0
+Digital Media II,48125,6,0,1
+Analog Media II,48126,6,0,1
+Architecture Design Studio: Composition,48200,18,1,0
+Architecture Design Studio: Elaboration II,48205,18,0,1
+Materials and Assembly,48215,9,0,1
+Historical Survey of World Architecture and Urbanism I,48240,9,0,1
+Survey of Architectual History II,48241,9,1,0
+Context,48250,9,1,0
+Computing for the Arts with Processing,48257,9,1,1
+Architecture Design Studio: Environment,48300,18,1,0
+Architecture Design Studio: Integration II,48305,18,0,1
+Environment I: Climate & Energy,48315,9,1,0
+Detailing Architecture,48328,9,0,1
+Teaching and Learning,48332,6,0,1
+History of Theory,48341,9,1,0
+Architectural History of Mexico & Guatemala,48348,9,1,0
+Postwar Modern Architecture and Theory,48350,9,0,1
+Human Factors in Architecture,48351,9,0,1
+Nano Course,48354,9,1,0
+Perspective,48355,9,1,0
+Color Drawing,48356,9,0,1
+"Yucatan on Site/Sight: Mayas, Missions Haciendas:",48361,6,0,1
+"Rediscovering Antiquity:Travelers, Archeologists & Architects in Mediterranean",48368,9,0,1
+American House and Housing,48371,9,1,0
+Istanbul Constantinople,48373,9,1,0
+Real Estate Design and Development,48380,6,0,1
+Issues of Practice,48381,6,0,1
+Ethics and Decision Making in Architecture,48383,6,0,1
+Computational Design Studio,48400,18,1,0
+Sustainable Design Studio,48401,18,1,0
+Urban Laboratory,48402,18,1,0
+Critical Practices Studios,48403,18,1,0
+Urban Design/Build Studio,48404,15,1,0
+Speculative Studio,48405,18,1,0
+Furniture Studio,48406,18,1,0
+Theater Architecture,48408,6,0,1
+Architecture Design Studio: Computational Design Studio,48410,18,0,1
+Architecture Design Studio: Sustainable Design Studio,48411,18,0,1
+Architecture Design Studio: Urban Laboratory,48412,18,1,1
+Architecture Design Studio: Critical Practice Studio,48413,18,0,1
+Architecture Design Studio: Urban Design Build Studio,48414,18,0,1
+Architecture Design Studio: Speculative Design Studio,48415,6,0,1
+City as Landscape: Geography as Method and Metaphor,48420,9,0,1
+Structual Framing Studies,48430,9,1,0
+Bio Logic Responsive Building Technology,48431,9,1,0
+History of Sustainable Architecture,48448,9,0,1
+Incompletion and the Embodied Experience in Architecture,48451,9,0,1
+Real Estate Design and Development,48452,6,1,0
+Urban Design Methods,48453,6,1,0
+Advanced Structures,48455,9,0,1
+Synthetic Flows,48468,9,0,1
+Exploring Pattern Through Lamination,48470,6,1,0
+"Hand and Machine Joinery, New Directions",48473,6,1,0
+Digital Tooling,48478,6,1,1
+Thesis Prep,48497,3,0,1
+Computational Design Studio,48500,18,1,0
+Sustainable Design Studio,48501,18,1,0
+Urban Laboratory,48502,18,1,0
+Critical Practice Studio,48503,18,1,0
+Urban Design/ Build Studio,48504,18,1,0
+Speculative Studio,48505,18,1,0
+Furniture Studio,48506,18,1,0
+Special Topics Architecture Design Studio,48508,18,1,0
+Thesis I,48509,18,1,0
+Architecture Design Studio: Computational Design Studio,48510,18,1,1
+architecture design studio: Sustainable design studio,48511,9,0,1
+Architecture Design Studio: Urban Laboratory,48512,18,0,1
+Architecture Design Studio: Critical Practice Studio,48513,18,0,1
+Architecture Design Studio: Urban Design Build Studio,48514,18,0,1
+architecture design studio: speculative studio,48515,18,0,1
+Architecture Design Studio: Thesis II,48519,18,0,1
+Robotics and Fabrication Affordance in Digital Design,48530,9,0,1
+Fabricating Customization,48531,9,1,0
+Architectural Theory Since 2000,48534,9,1,0
+Issues of Practice,48550,9,1,0
+Furniture Design & Construction,48564,9,0,1
+"Advanced CAD, BIM, and 3D Visualization",48568,9,1,0
+GIS/CAFM,48569,9,0,1
+Mapping Urbanism,48576,9,0,1
+Middle Eastern Cities: Case Studies from Two Centuries of Urban History,48579,9,0,1
+Architecture Lighting Design,48587,9,0,1
+Independent Study,48599,3,1,1
+Architecture Design Studio,48600,18,1,0
+Parametric Modeling,48624,9,1,0
+Fabricating Customization,48631,9,1,0
+Bio Logic Responsive Building Technology,48632,9,1,0
+Synthetic Flows,48686,9,0,1
+Practicum,48700,0,1,1
+Master's Project,48702,18,1,0
+Master's Project,48703,18,0,1
+Architecture Design Studio: The Urban Laboratory,48705,18,1,0
+Urban Design Studio,48706,18,0,1
+MUD Graduate Seminar,48707,3,1,0
+MUD Graduate Seminar,48712,3,0,1
+Building Controls and Diagnostics,48721,12,0,1
+Building Performance Modeling,48722,12,1,0
+Performance of Advanced Building Systems,48723,9,0,1
+Real Estate Design and Development,48725,9,1,0
+"Productivity, Health and the Quality of Buildings",48729,9,1,0
+Readings in Tangible Interaction,48730,12,1,0
+Sustainable Design Synthesis Prep,48731,12,1,1
+Sustainable Design Synthesis,48732,9,1,0
+MS Independent Study,48736,0,1,1
+Special Topics: Ecological Footprints,48738,6,1,0
+Making Things Interactive (Graduate),48739,9,1,0
+Making the Future:  Sustainable Materials & Equipment,48742,9,1,0
+Zero Energy Housing,48752,9,0,1
+Urban Design Methods,48753,9,1,0
+Computing for the Arts with Processing,48757,9,1,0
+Value Based Design Introduction,48759,6,1,0
+Special Topics in AECM: BIM,48764,9,0,0
+AEC Synthesis,48766,12,0,1
+Thesis/Project,48769,18,1,1
+Spatial Analysis in Infrastructure Planning,48781,12,0,1
+Shape and Computation,48789,9,1,0
+Graduate Research Seminar,48790,6,1,0
+Ph.D. Independent Study,48792,0,1,1
+Ph.D. Thesis,48793,36,1,1
+LEED Buildings and Green Design Concepts,48795,6,1,0
+PhD Dissertation Defense,48797,5,1,1
+Study Abroad,51050,0,1,1
+Study Abroad,51051,0,0,1
+Domestic Study,51052,36,1,0
+Design Studio I,51101,9,1,0
+Design Studio II,51102,9,0,1
+Design Workshop,51103,3,1,0
+Design Workshop II,51104,3,0,1
+Design Drawing I,51121,9,1,0
+Design Drawing II,51122,9,0,1
+Introduction to Photo Design,51132,4.5,0,1
+Photo Design II,51134,4.5,0,1
+Human Experience in Design,51171,9,1,0
+"Design Thinking, Places, Systems",51172,9,0,1
+CD Studio I: Communicating with Type,51201,9,1,0
+CD Studio II: Organizing Information,51202,9,0,1
+Communication Design Computer Lab,51203,3,1,0
+Generation of Form: Industrial Design I,51211,9,1,0
+Meaning of Form: ID Studio II,51212,9,0,1
+Decoding Place,51222,9,0,1
+CD: Web Design,51224,9,0,1
+Digital Photographic Imaging,51229,9,1,0
+Calligraphy I,51231,9,1,1
+Calligraphy II,51232,9,1,1
+How People Work,51241,9,1,0
+How Things Work: Mechanics and Electronics,51242,9,0,1
+Prototyping,51243,4.5,1,0
+Visual Communication Fundamentals,51246,4.5,0,1
+Digital Prototyping,51251,4.5,1,0
+Computing for the Arts with Processing,51257,9,1,1
+Communication Design Fundamentals,51261,9,1,1
+Communication Design Fundamentals,51262,9,0,1
+Industrial Design Fundamentals,51264,9,0,1
+Design History I,51271,9,1,0
+CD III: Voice of Type,51301,9,1,0
+CD Studio IV: Designing with Systems,51302,9,0,1
+Product Design ID III,51311,9,1,0
+Products in Systems: ID IV,51312,9,0,1
+Photographic Narrative,51321,9,1,0
+Advanced Digital Imaging,51322,4.5,0,1
+Basic 3D Prototyping,51324,4.5,0,1
+Introduction to Web Design,51327,9,1,0
+Advanced Web Design,51328,9,1,1
+Advanced Calligraphy I,51331,9,1,1
+Advanced Calligraphy II,51332,9,1,1
+"Photography, Community & Change",51334,9,0,1
+Mapping and Diagraming,51335,9,0,1
+How Things are Made,51341,9,1,0
+Advanced Digital Prototyping,51344,6,0,1
+Production Prototyping,51346,6,0,1
+Drawing from Nature,51347,9,1,0
+Visual Notation/Journaling,51349,9,1,0
+Experimental Sketching,51355,4.5,1,0
+Stuff That's Optional: People at Play,51357,9,1,0
+Prototyping Tools for Embodying UX Design,51359,9,1,0
+Meaning in Images,51375,9,1,0
+Semantics & Aesthetics,51376,9,0,1
+Design for Service,51385,9,1,0
+Sharing Economies,51388,9,0,1
+Morality Play: Laboratory for Interactive Media & Values Education,51391,9,0,1
+Junior Independent Study,51399,3,1,1
+Senior Design Lab,51401,12,1,0
+Senior Project I,51404,12,0,1
+Senior Project II,51406,12,0,1
+Basic Interaction Design,51421,9,1,0
+Interaction Design Studio,51422,9,0,1
+Pieces 2.0: Social Innovation: Desis Lab,51423,9,1,0
+Beginning Book Arts Lab,51425,6,1,0
+Beginning Book Arts Lab,51426,6,0,1
+Advanced Book Arts Workshop,51427,9,1,1
+"Time, Motion and Communication",51428,9,1,0
+Experimental Form,51434,9,0,1
+Foundation of BME Design,51441,3,1,0
+BME Design Project,51442,9,0,1
+Fundamentals of Joinery & Furniture Design,51451,9,1,0
+Furniture Design II,51452,9,0,1
+DeXign the Future: Human Centered Innovation for Exponential Times,51455,9,1,1
+Design Practicum,51470,3,1,1
+Design & Policy for Humanitarian Impact,51473,9,1,0
+Designed Fictions & Imagined Futures,51478,9,0,1
+Interactive Art & Computational Design,51482,10,0,1
+Senior Independent Study,51499,3,1,1
+Graduate Design Seminar I,51701,12,1,0
+Graduate Design Colloquium,51703,3,1,0
+Graduate Design Seminar II for Interaction Design,51704,12,0,1
+Graduate Design Studio Lab,51705,3,1,0
+Visual Processes,51707,6,1,0
+User Research Methods,51709,6,1,0
+Thesis Preparation,51710,3,0,1
+Graduate Design Studio I,51711,12,1,0
+Graduate Design Studio II,51712,12,0,1
+Design Practicum,51718,3,1,1
+Design Research,51720,5,0,1
+Design Research,51721,5,1,0
+Basic Interaction Design,51725,12,1,0
+Introduction to Web Design,51727,12,1,0
+"Time, Motion and Communication",51728,12,1,0
+Mapping and Diagramming,51731,12,0,1
+Research Methods for Human Centered Design,51744,9,0,1
+Graduate Prototyping,51747,12,1,0
+Computing for the Arts with Processing,51757,12,1,1
+Prototyping Tools for Embodying UX Design,51759,12,1,0
+Communication Design Fundamentals,51761,12,1,0
+Industrial Design Fundamentals Grad I: ID in Context,51765,6,1,0
+Industrial Design Fundamentals Grad II: ID in Practice,51767,6,1,0
+Design & Policy for Humanitarian Impact,51773,12,1,0
+Designing for Service,51785,12,1,0
+Sharing Economies,51788,12,0,1
+Morality Play: Laboratory for Interactive Media & Values Education,51791,12,0,1
+Designing & Leading a Business,51792,12,0,1
+Graduate Independent  Study,51799,3,1,1
+Design Thesis,51801,21,1,0
+Design Thesis II,51802,21,0,1
+Integrated Product Development,51814,12,0,1
+Pieces 2.0: Social Innovation: Desis Lab`,51823,12,1,0
+Basic 3D Prototyping,51824,6,0,1
+Advanced Web Design,51828,12,1,1
+Methodology of Visualization,51831,12,1,1
+Experimental Form,51834,12,0,1
+DeXign the Future: Human Centered Innovation for Exponential Times,51855,12,1,1
+Semantics & Aesthetics,51876,12,0,1
+Designed Fictions & Imagined Futures,51878,12,0,1
+Experiential Media Design,51880,12,1,0
+Interactive Art and Computational Design,51882,12,0,1
+Graduate Independent Study,51899,3,0,1
+Doctoral Thesis Preparation,51912,5,1,1
+BXA Freshman Interdisciplinary Seminar,52190,9,1,0
+Literacy Across Disciplines,52290,5,1,0
+Building BXA:  A Project Course,52291,5,1,0
+BXA Undergraduate Research Project:,52390,9,1,1
+BXA Junior Portfolio Review:,52391,0,0,1
+BXA Interdisciplinary Seminar:,52399,9,1,1
+BXA Capstone Project:,52400,9,1,1
+BXA Capstone Project I,52401,9,1,0
+BXA Capstone Project II:,52402,9,0,1
+BXA Junior Seminar:,52410,9,1,1
+BXA Internship:,52590,9,1,1
+ETC Cooperative Education,53600,36,1,1
+Production and Leadership,53604,12,1,1
+ETC Interdisciplinary Project II,53607,36,1,1
+Visual Story,53608,12,1,0
+Game Design,53609,12,1,1
+ETC Interdisciplinary Project III,53610,36,1,0
+Fundamentals of Audio Design,53615,12,1,1
+Current Issues in Entertainment Technology & Design,53619,12,1,1
+Designing Social Values in Board Games,53622,12,0,1
+Entrepreneurship in Entertainment Technology,53630,12,1,1
+ETC Elective Japan Location,53631,12,1,0
+Entertainment Technology Center Independent Study,53689,3,1,1
+ETC Fundamentals,53700,9,1,0
+Advanced Visual Story,53708,12,0,1
+Improvisational Acting,53711,9,1,0
+Improvisational Acting II,53712,6,0,1
+Improvisational Acting III,53713,6,0,1
+Special Projects II,53721,3,0,1
+Entertainment Design Studio,53723,12,1,1
+Entertainment Design Studio II,53724,12,1,0
+Fundamentals of Producing in the Entertainment Industry,53733,9,1,1
+Effective Brainstorming and Creative Problemsolving,53734,6,0,1
+Introduction to Maya,53788,12,0,1
+Building Virtual Worlds,53831,24,1,0
+Dramatic Structures of Interactive Stories,53871,12,0,1
+Why Typography Matters in New Media,53886,12,0,1
+ETC Practicum Training,53998,3,1,1
+Warmup,54011,1,1,0
+Warmup,54012,1,0,1
+Study Abroad,54050,0,1,0
+Study Abroad,54051,0,0,1
+Tepper Seminar Directing,54061,27,0,1
+Tepper Seminar Theatre Theory,54062,9,0,1
+Tepper Seminar Scene Study,54063,9,0,1
+Acting I,54101,10,1,0
+Acting I,54102,10,0,1
+Speech I,54103,6,1,0
+Speech I,54104,6,0,1
+Voice/Alexander I,54105,5,1,0
+Voice/Alexander I,54106,5,0,1
+Movement I,54107,4,1,0
+Movement I,54108,4,0,1
+Dramaturgy 1: Approaches to Text,54109,9,1,0
+Text,54110,2,1,0
+Singing Technique,54119,1,1,0
+Directing I: Sources,54121,9,1,0
+Directing I: Sources,54122,9,0,1
+Ballet I,54123,5,1,0
+Ballet I,54124,5,0,1
+Music Skills I,54125,2,1,0
+Music Skills II,54126,2,0,1
+Stagecraft,54151,15,1,0
+Stagecraft,54152,11,0,1
+Basic PTM,54157,6,1,0
+Basic PTM,54158,6,0,1
+Production Symposium I,54159,6,1,0
+Production Symposium I,54160,6,0,1
+Introduction to Costume Design,54162,6,0,1
+Production for Non Majors,54163,6,1,0
+Production for Non Majors,54164,6,0,1
+Introduction to Sound Design for Theatre,54166,6,0,1
+Studiocraft,54169,13,1,0
+Studiocraft,54170,8,0,1
+Basic Design,54171,6,1,0
+Basic Design,54172,6,0,1
+Conservatory Hour,54175,1,1,0
+Conservatory Hour,54176,1,0,1
+Foundations of Drama I,54177,6,1,0
+Foundations of Drama I,54178,6,0,1
+Dramaturgy 2: History and Practice,54184,9,0,1
+Introduction to Playwriting,54187,9,1,0
+Advanced Playwriting,54190,9,0,1
+Acting for Non-Majors,54191,9,1,0
+Acting for Non-Majors,54192,9,0,1
+Introduction to Screenwriting,54193,9,1,0
+Advanced Screenwriting,54196,9,0,1
+Dramaturgy Forum,54200,1,1,0
+Acting II,54201,12,1,0
+Acting II,54202,12,0,1
+Voice and Speech II,54203,5,1,0
+Voice and Speech II,54204,6,0,1
+Ballet II,54205,3,1,0
+Ballet II,54206,3,0,1
+Movement II,54207,3,1,0
+Movement II,54208,3,0,1
+Actor Dance II,54211,3,1,0
+Actor Dance II,54212,3,0,1
+Singing for Actors II,54213,3,1,0
+Singing for Actors II,54214,3,0,1
+Jazz II,54217,2,1,0
+Jazz II,54218,2,0,1
+Music Theatre Literature and Repertoire,54219,4,1,0
+Acting A Song,54220,4,0,1
+Directing II: Fundamentals,54221,6,1,0
+Directing II: Fundamentals,54222,9,0,1
+Tap II,54223,2,1,0
+Tap II,54224,2,0,1
+Olivier's Nose,54229,9,1,0
+Make-Up for Designers,54230,6,0,1
+Design for the Stage,54231,6,1,0
+Scenic Painting I,54238,6,0,1
+History of Architecture and Decor: Ancients to Gothic,54240,4,0,1
+Improvisation,54242,2,0,1
+History of Clothing,54245,4,1,0
+History of Clothing 2,54246,6,0,1
+Playwriting for Dramaturgs,54248,6,0,1
+Stagecraft II,54249,14,1,0
+Scenic Design: Fundamentals,54250,6,0,1
+Introduction to Lighting Design,54252,6,0,1
+New Play Collaboration,54254,9,0,1
+Dramaturgy 4: New Play Dramaturgy,54256,9,0,1
+Directing: Production II,54257,6,1,0
+Directing: Production II,54258,6,0,1
+Production Preparation II,54259,9,1,0
+Production Preparation II,54260,9,0,1
+Production Symposium II,54261,6,1,0
+Production Symposium II,54262,6,0,1
+Welding,54264,4,1,1
+Advanced Fabrication,54265,6,1,1
+Stage Management: Cue Lab,54266,3,1,0
+Conceptual Sound Design,54267,9,1,0
+Conceptual Sound Design,54268,9,0,1
+Studiocraft II,54269,3,1,0
+Technical Management,54271,6,1,0
+Scenic Fabrication and Installation,54272,6,0,1
+Technical Direction I,54273,6,1,0
+Costume Management,54274,3,1,0
+Foundations of Drama II,54281,6,1,0
+Foundations of Drama II,54282,6,0,1
+Mime and Pantomime,54283,2,1,0
+Fundamentals of Directing,54284,6,1,0
+Alexander Technique,54285,1.5,1,1
+Dramaturgy Production: Practical Observation 2,54298,1,0,1
+Dramaturgy Production: Practical Observation,54299,1,1,1
+Dramaturgy Research Hours,54300,1,0,1
+Acting III:,54301,5,1,0
+Acting III:,54302,5,0,1
+Dialects for the Stage,54303,6,1,0
+Dialects for the Stage,54304,6,0,1
+Voice/Alexander III,54305,5,1,0
+Voice/Alexander III,54306,5,0,1
+Movement III,54307,5,1,0
+Movement III,54308,5,0,1
+Accents for the Stage,54309,6,1,0
+Accents for the Stage,54310,6,0,1
+Rehearsal and Performance III,54311,16,1,0
+Rehearsal and Performance III,54312,16,0,1
+Ballet III,54313,3,1,0
+Ballet III,54314,3,0,1
+Jazz III,54315,2,1,0
+Jazz III,54316,2,0,1
+Singing for Actors III,54317,2,1,0
+Singing for Actors III,54318,2,0,1
+Cabaret,54319,6,1,0
+Directing III: Forms and Formats,54322,9,1,0
+Tap III,54323,2,1,0
+Tap III,54324,2,0,1
+Actor Dance III,54325,2,1,0
+Actor Dance III,54326,2,0,1
+Junior Auditioning,54327,2,1,1
+Introduction to Stage Management,54330,6,0,1
+Scenic Design: Explorations,54331,9,1,0
+Scenic Design: Boot Camp,54332,9,0,1
+Production Resource Management,54334,6,0,1
+Scenic Painting 2,54337,4,1,0
+Stage Management Seminar,54339,3,1,0
+Stage Management Seminar,54340,3,0,1
+Fundamentals of Costume Design,54341,9,1,0
+Costume Design for TV and Film,54342,9,0,1
+Automated Lighting Technology,54349,6,1,0
+Theatrical Lighting Design,54351,9,1,0
+Theatrical and Opera Lighting Design,54352,4,0,1
+30 Hour OSHA,54355,6,0,1
+Directing: Production III,54357,12,1,0
+Stage Management: History of Management,54360,6,0,1
+Production Preparation III,54361,9,1,0
+Production Preparation III,54362,9,0,1
+Dramaturgy 5: Devised and Documentary Theatre,54363,9,1,0
+Machine Design I,54365,9,0,1
+Physics of Stage Machinery,54366,9,1,0
+Lighting Design Skills,54367,2,1,0
+Production Electrics,54368,4,0,1
+Theatre for the Ear,54372,6,1,0
+Entertainment Rigging,54376,3,0,1
+Technical Direction II,54378,9,0,1
+Scenic Design Studio: Drafting,54379,4,1,0
+Music Reading for Drama Technicians,54380,3,1,0
+"Special Topics in Drama: History, Literature and Criticism",54381,6,1,0
+Scenic Design Studio: Digital Drawing,54383,4,1,0
+Adaptation for the Stage,54385,9,0,1
+Scenic Stagecraft: 3D Model Making,54386,4,0,1
+Dramaturgy : Production I,54387,1,1,0
+Dramaturgy: Production I,54388,1,0,1
+Composition for Theatrical Sound Design 1,54389,6,1,0
+Composition for Theatrical Sound Design 2,54390,6,0,1
+Media Design Skills,54391,3,1,1
+Scenic Stagecraft: 2D Drawing and Rendering,54392,4,0,1
+My True Voice,54393,6,1,0
+Internship,54395,6,1,0
+Internship,54396,2,0,1
+Special Topics in Sound Design,54397,9,1,0
+Special Topics in Sound Design,54398,9,0,0
+Decoding Media,54399,6,1,0
+Staging Media,54400,6,0,1
+Camera Lab,54401,3,1,0
+Camera Lab,54402,3,0,1
+Voice Over Acting,54403,3,1,0
+Future Stages for Actors,54405,6,0,1
+Movement IV,54407,4,1,0
+Theatre Lab for Undergraduates,54409,4,1,0
+Theatre Lab for Undergraduates,54410,4,0,1
+Rehearsal and Performance IV,54411,16,1,0
+Rehearsal and Performance IV,54412,16,0,1
+Showcase,54413,4,1,0
+Showcase,54414,9,0,1
+Broadway Dance Styles,54415,5,1,0
+Broadway Styles,54416,4,0,1
+Voice & Speech IV,54419,3,1,0
+Directing IV,54422,6,0,1
+Staging Media Lab,54425,3,0,1
+Scenography,54431,6,1,0
+Scenic Design: Modern Classical,54432,9,0,1
+Acting IV,54437,5,1,0
+Acting IV,54438,3,0,1
+Costume Design for Dance,54441,5,1,0
+Costume Design for the Classics,54442,5,0,1
+Professional Preparation,54445,3,1,0
+Professional Preparation,54446,3,0,1
+Figure Drawing II,54447,4,1,0
+Figure Drawing I,54448,3,0,1
+Painting for the Theatrical Designer,54450,6,0,1
+Architectural Lighting Design,54452,9,0,1
+Production Management Workshop I,54453,3,1,0
+Advanced Topics in Stage Management,54454,3,0,1
+Production Data Manipulation,54455,6,1,0
+Production Management Workshop,54456,3,0,1
+Directing: Production IV,54457,12,1,0
+Directing: Production IV,54458,10,0,1
+Future Stages for Undergrad Designers,54460,9,0,1
+Production Preparation IV,54461,9,1,0
+Production Preparation IV,54462,9,0,1
+Dramaturgy Research Hours,54463,3,1,0
+PTM Professional Practice,54464,3,1,0
+Costume Design for Music,54467,5,0,1
+Theater Management,54468,6,0,1
+Dance Lighting Design,54469,2,1,0
+Drawing for Theatrical Designers,54473,6,1,0
+Technical Direction III,54477,6,1,0
+Television Lighting Design,54478,1,1,0
+Television Lighting Design,54479,2,0,1
+Technical Direction IV,54480,6,0,1
+Dramaturgy: Production II,54487,1,1,0
+Dramaturgy: Production II,54488,1,0,1
+Dramaturgy: Internship,54489,9,1,0
+Concert Lighting Design,54491,9,1,0
+Business of Acting,54493,4,1,0
+Business of Acting,54494,4,0,1
+Internship,54495,9,1,0
+Internship,54496,9,0,1
+Expanded Theater,54498,10,1,0
+Voice Lab,54500,5,1,1
+Ear Training,54505,1,1,1
+Advanced System Design,54509,9,1,1
+Costumes in Practice,54510,6,1,0
+Millinery I,54511,9,1,0
+Grad Directing Thinktank,54515,1,1,1
+Costumes in Practice,54516,6,0,1
+Director's Colloquium,54517,1,1,0
+Director's Colloquium,54518,1,0,1
+Acting for the Camera,54519,6,1,0
+Acting for the Camera,54520,6,0,1
+Dance Lighting Design,54524,3,0,1
+Automated Lighting Workshop,54527,3,1,1
+Costume Crafts: Distressing Techniques,54533,4,1,0
+Seminar: Design and Construction of Themed Environments,54550,1,0,1
+Found Performance: Theater from Found Materials,54584,6,0,1
+Dramaturgy Capstone Thesis,54585,9,1,0
+Dramaturgy Production III,54587,1,1,0
+Dramaturgy Production III,54588,1,0,1
+Couture Techniques,54591,6,1,0
+Stanley Kubrick and his Films,54595,6,0,1
+Independent Study in Performance,54601,2,1,1
+Independent Study in MT Literature and Repertoire,54602,2,1,1
+Independent Study in Sound Design,54603,2,1,1
+Independent Study Lighting Design,54604,2,1,1
+Independent Study in Scenic Design,54605,2,1,1
+Independent Study in Costume Design,54606,2,1,1
+Independent Study in Production Technology & Management,54607,2,1,1
+Independent Study in Directing,54608,2,1,1
+Independent Study in Dramaturgy,54609,1,1,1
+Independent Study in History,54610,2,1,1
+Independent Study in Theory,54611,2,1,1
+Independent Study in Research,54612,2,1,1
+Independent Study in Dramatic Writing,54613,2,1,1
+Independent Study in Scenography,54614,2,1,1
+Independent Study in Video Design,54616,2,1,1
+Production Audio,54666,6,0,1
+Graduate Introduction to Playwriting,54700,9,1,0
+Graduate Introduction to Screenwriting,54701,9,1,0
+Music Reading for Drama Technicians,54702,3,1,0
+Applied Internship for Fall,54703,8,1,0
+Applied Internship,54704,8,0,1
+Graduate Advanced Fabrication,54705,6,1,1
+Graduate Advanced Screenwriting,54707,9,0,1
+Graduate Advanced Playwriting,54708,9,0,1
+Theatre Lab I,54709,9,1,0
+Theatre Lab II,54710,9,0,1
+Painting for the Theatrical Designer,54712,6,0,1
+Dramaturgy for Grad Playwrights,54713,3,1,0
+Camera Lab,54717,3,1,0
+Graduate Camera Lab,54718,6,0,1
+Graduate Directing: Text to Stage,54721,3,1,0
+Graduate Dance Lighting Design,54724,3,0,1
+Graduate Physics of Stage Machinery,54726,9,1,0
+Graduate Scenic Design: Explorations,54731,9,1,0
+Scenic Design: Boot Camp,54732,9,0,1
+Future Stages for Grad Designers I,54736,6,0,1
+Graduate Scenic Painting I,54738,6,0,1
+Graduate History of Architecture and Decor: Ancients to Gothic,54740,4,0,1
+Graduate Fundamentals of Costume Design,54741,9,1,0
+Graduate Costume Design for TV and Film,54742,9,0,1
+Graduate History of Clothing,54745,4,1,0
+Graduate History of Clothing 2,54746,6,0,1
+Introduction to Graduate Production,54749,3,1,0
+Graduate Theatrical Lighting Design,54751,9,1,0
+Graduate Theatrical and Opera Lighting Design,54752,4,0,1
+Theatre for the Ear,54756,6,1,0
+Graduate Directing: New Works,54757,10,1,0
+Graduate Directing: New Works,54758,10,0,1
+Graduate Stage Management: History of Management,54760,6,0,1
+Production Preparation Grad I,54761,9,1,0
+Production Preparation Grad I,54762,9,0,1
+Grad Stage Management Seminar,54764,3,0,1
+Graduate Introduction to Sound Design for Theatre,54766,6,0,1
+Graduate Lighting Design Skills,54767,2,1,0
+Automated Lighting Technology,54771,6,1,0
+Grad Theater Management,54775,6,0,1
+Grad Entertainment Rigging,54776,3,0,1
+Graduate Scenic Fabrication and Installation,54777,6,0,1
+Graduate Television Lighting Design,54778,2,1,1
+Graduate Stage Management I,54781,3,1,0
+Graduate Directing: Future Stages I,54784,9,0,1
+Colloquium,54785,9,1,0
+Colloquium,54786,9,0,1
+Graduate Screenwriting I,54787,15,1,0
+Grad Screenwriting II,54788,15,0,1
+Grad Production Resource Management,54790,6,0,1
+Playwriting I,54791,15,1,0
+Playwriting II,54792,15,0,1
+Graduate Professional Preparation,54799,3,1,0
+Graduate Professional Preparation,54800,3,0,1
+Applied Internship for Fall,54803,8,1,0
+Applied Internship,54804,8,0,1
+Graduate Advanced System Design,54805,9,1,0
+Theatre Lab III,54809,9,1,0
+Theatre Lab IV,54810,9,0,1
+Graduate Drawing for Theatrical Designers,54811,6,1,0
+Draping for the Costume Artisan II,54813,6,0,1
+Draping 1,54814,9,1,0
+Stage Management: Cue Lab,54816,3,1,0
+Graduate Figure Drawing II,54819,4,1,0
+Graduate Figure Drawing I,54820,3,0,1
+Graduate Directing: Future Stages II,54822,9,0,1
+Specialty Draping,54825,4,1,0
+Grad Costume Management,54826,3,1,0
+Graduate Make-Up for Designers,54830,6,0,1
+Graduate Scenography,54831,6,1,0
+Scenic Design: Modern Classical,54832,9,0,1
+Costume Crafts: Distressing Techniques,54833,4,1,0
+Future Stages for Grad Designers II,54836,6,0,1
+Graduate Scenic Painting 2,54837,4,1,0
+Graduate Stage Management Seminar,54839,3,1,0
+Graduate Costume Design for Dance,54841,5,1,0
+Graduate Costume Design for the Classics,54842,5,0,1
+Graduate Scenic Stagecraft: 3D Model Making,54846,4,0,1
+Graduate 30 Hour OSHA,54847,6,0,1
+Flat Patterning for the Costume Artisan,54848,6,1,0
+Tailoring II,54849,9,0,1
+Graduate Architectural Lighting Design,54852,9,0,1
+Graduate Directing: Directors' Series Second Year,54857,10,1,0
+Graduate Directing: Directors' Series Second Year,54858,10,0,1
+Graduate Production Management Workshop I,54859,3,1,0
+Costume Crafts: Mask Making,54860,3,0,1
+Production Preparation Grad II,54861,9,1,0
+Production Preparation Grad II,54862,9,0,1
+Graduate Welding,54863,4,1,0
+Graduate Welding,54864,4,0,1
+Graduate Machine Design I,54865,9,0,1
+Graduate Conceptual Sound Design,54867,9,1,0
+Graduate Conceptual Sound Design,54868,9,0,1
+Graduate Production Management Workshop,54870,3,0,1
+Graduate Scenic Stagecraft: 2D Drawing and Rendering,54872,4,0,1
+Graduate Technical Direction,54873,6,1,0
+Graduate Technical Direction II,54874,6,0,1
+Graduate Seminar in Media,54875,6,1,0
+Graduate Scenic Design Studio: Drafting,54879,4,1,0
+School of Drama Collaboration Project,54880,6,0,1
+Grad Media Design Skills,54881,3,1,1
+Graduate Scenic Design Studio: Digital Drawing,54883,4,1,0
+Graduate Screenwriting III,54887,15,1,0
+Grad Screenwriting IV,54888,15,0,1
+Graduate Composition for Theatrical Sound Design 1,54889,6,1,0
+PTM Thesis,54890,3,0,1
+Playwriting III,54891,15,1,0
+Playwriting IV,54892,15,0,1
+Dramatic Writing Thesis,54893,9,1,0
+Dramatic Writing Thesis,54894,9,0,1
+Internship,54895,9,1,0
+Graduate Composition for Theatrical Sound Design 2,54898,6,0,1
+Graduate Staging Media,54900,6,0,1
+Graduate Staging Media Lab,54901,3,0,1
+Applied Internship for Fall,54903,8,1,0
+Applied Internship,54904,8,0,1
+Graduate Millinery I,54913,9,1,0
+Graduate Directing: Future Stages III,54922,9,0,1
+Graduate Technical Direction IV,54926,6,0,1
+Grad Technical Direction III,54933,6,1,0
+Future Stages for Grad Designers III,54936,6,0,1
+Graduate Advanced Topics in Stage Management,54944,3,0,1
+Scenery Thesis,54947,9,1,0
+Scenic Design Thesis,54948,9,0,1
+Directing Thesis,54949,9,1,0
+Graduate Concert Lighting Design,54951,9,1,0
+Graduate Dance Lighting Design,54952,2,1,0
+Lighting Thesis,54953,9,1,0
+Lighting Design Thesis,54954,9,0,1
+Graduate Production Data Manipulation,54955,6,1,0
+Graduate Directing: Directors Series Third Year Thesis Production,54957,15,1,0
+Graduate Directing: Directors Series Third Year Thesis Production,54958,15,0,1
+Production Preparation Grad III,54961,9,1,0
+Production Preparation Grad III,54962,9,0,1
+Production Technology and Management Thesis,54969,9,1,0
+PTM Thesis,54970,18,0,1
+Graduate PTM Professional Practice,54972,3,1,0
+Costume Thesis,54987,9,1,0
+Costume Design Thesis,54988,9,0,1
+Costume Production Thesis,54990,9,0,1
+Sound Design Thesis,54993,9,1,0
+Sound Design Thesis,54994,9,0,1
+Internship,54995,9,1,0
+Internship,54996,9,0,1
+Graduate Special Topics in Sound Design,54997,9,1,0
+Graduate Special Topics in Sound Design,54998,9,0,0
+Vocal Master Class I,57008,0,1,1
+Vocal Master Class II,57009,0,1,1
+Voice Studio Performance Class,57010,0,1,1
+Piano Studio Performance Class,57011,0,1,1
+Violin Studio Performance Class,57015,0,1,1
+Viola Studio Performance Class,57016,0,1,1
+Double Bass Studio Performance Class,57018,0,1,1
+Flute Studio Performance Class,57020,0,1,1
+Oboe Studio Performance Class,57021,0,1,1
+Clarinet Studio Performance Class,57022,0,1,1
+Bassoon Studio Performance Class,57023,0,1,1
+Percussion Studio Performance Class,57030,0,1,1
+Composition Studio Class,57031,0,1,1
+Study Abroad,57050,0,1,0
+Study Abroad,57051,0,0,1
+Convocation,57100,1,1,1
+Introduction to Music Technology,57101,6,1,1
+Finale,57102,6,0,1
+Elective Studio (Beginning Piano Class),57103,3,1,0
+Elective Studio (Beginning Piano),57104,3,0,1
+Elective Studio (Jazz Piano I Class),57105,3,1,0
+Elective Studio (Jazz Piano I Class),57106,3,0,1
+Elective Studio (Jazz Piano II Class),57107,3,1,0
+Elective Studio  (Jazz Piano II Class),57108,3,0,1
+Elective Studio (Guitar Class),57109,3,1,1
+Elective Studio (Voice Class),57110,3,1,1
+Movement and Dance I,57111,3,1,0
+Movement and Dance II,57112,3,0,1
+Choral Ensemble,57117,6,1,1
+Instrumental Ensemble,57118,6,1,1
+Elective Studio (Voice),57120,3,1,1
+Elective Studio (Piano),57121,3,1,1
+Elective Studio (Organ),57122,3,1,1
+Elective Studio (Harp),57123,3,1,1
+Elective Studio (Violin),57125,3,1,1
+Elective Studio (Viola),57126,3,1,1
+Elective Studio (Cello),57127,3,1,1
+Elective Studio (Double Bass),57128,3,1,1
+Elective Studio (Guitar),57129,3,1,1
+Elective Studio (Flute),57130,3,1,1
+Elective Studio (Oboe),57131,3,1,1
+Elective Studio (Clarinet),57132,3,1,1
+Elective Studio (Bassoon),57133,3,1,1
+Elective Studio (Saxophone),57134,3,1,1
+Elective Studio (Horn),57135,3,1,1
+Elective Studio (Trumpet),57136,3,1,1
+Elective Studio (Trombone),57137,3,1,1
+Elective Studio (Euphonium),57138,3,0,1
+Elective Studio (Tuba),57139,3,1,1
+Elective Studio (Percussion),57140,3,1,1
+Elective Studio (Composition),57141,3,1,1
+Elective Studio (Bagpipes),57142,3,1,1
+Elective Studio (Alexander Technique I),57143,3,1,1
+Elective Studio (Jazz Improv),57144,3,1,1
+Elective Studio (Alexander Technique II),57145,3,1,1
+Elective Studio (Electronic and Computer Music),57146,3,1,0
+Basic Harmony I,57149,9,1,0
+Basic Harmony II,57150,9,0,1
+Counterpoint in Theory and Application,57151,6,1,0
+Harmony I,57152,9,1,0
+Harmony II,57153,9,0,1
+Eurhythmics I,57161,3,1,0
+Eurhythmics II,57162,3,0,1
+Eurhythmics III,57163,3,1,0
+Eurhythmics IV,57164,3,0,1
+Introduction to Music Technology (self-paced),57171,6,1,1
+Survey of Western Music History,57173,9,1,0
+Basic Solfege I,57180,3,1,0
+Solfege I,57181,3,1,0
+Solfege II,57182,3,0,1
+Solfege III,57183,3,1,0
+Solfege IV,57184,3,0,1
+Advanced Solfege I,57185,3,1,0
+Advanced Solfege II,57186,3,0,1
+Repertoire and Listening for Musicians,57188,1,1,0
+Introduction to Repertoire and Listening for Musicians,57189,3,1,0
+Repertoire and Listening for Musicians I,57190,3,0,1
+Keyboard Studies,57191,3,1,1
+Collaborative Piano Skills I,57193,3,1,0
+Collaborative Piano Skills II,57194,3,0,1
+English for Music Students,57196,0,1,0
+English for Music Students,57197,0,0,1
+Secondary Studio,57207,3,1,0
+Secondary Studio,57208,3,0,1
+The Beatles,57209,9,1,0
+Movement and Dance III,57211,3,1,0
+Movement and Dance IV,57212,3,0,1
+English Diction,57220,3,1,0
+Italian Diction,57221,3,1,0
+French Diction,57222,3,1,0
+German Diction,57223,3,1,0
+Chamber Music (String Quartet),57226,3,1,1
+Jazz Orchestra,57227,3,1,1
+Chamber Music,57228,3,1,1
+Chamber Music,57229,3,1,1
+Baroque Ensemble,57230,3,1,1
+Chamber Ensemble,57231,3,1,1
+Chamber Music Guitar,57232,3,1,1
+Sonatas,57233,3,1,1
+Performance for Composers,57234,3,1,0
+Chamber Music,57235,3,1,1
+Performance for Composers,57236,3,0,1
+Acting I,57240,6,1,0
+Acting II,57241,6,0,1
+Orchestration I,57257,6,1,0
+20th-21st Century Techniques,57258,6,0,1
+Orchestration II,57271,6,0,1
+Piano Pedagogy I,57273,6,1,0
+Piano Pedagogy II,57274,6,0,1
+Piano Pedagogy III,57275,6,1,0
+Piano Pedagogy IV,57276,6,0,1
+Music History I,57283,9,0,1
+Music History II,57284,9,1,0
+Music History III,57285,9,0,1
+Repertoire and Listening for Musicians II,57289,3,1,0
+Repertoire and Listening for Musicians III,57290,3,0,1
+Keyboard Studies Test (Degree),57293,0,1,1
+Beginning Piano Test,57294,0,1,1
+Keyboard Studies (Studio),57295,3,1,1
+Keyboard Studies (Studio),57296,3,1,1
+Keyboard Studies (Studio),57297,3,1,1
+Keyboard Studies (Studio),57298,3,1,1
+Bagpipe and Drum Band,57300,3,1,1
+Bagpipe History,57301,3,1,1
+Bagpipe Maintenance,57304,3,0,1
+World Music,57306,6,1,0
+Bagpipe Theory,57307,3,1,1
+Topics in Movement and Dance,57313,1.5,1,1
+Topics in Movement and Dance,57314,1.5,1,1
+Beginning Piano for Minors,57329,3,1,0
+Beginning Piano for Minors,57330,3,0,1
+Principles of Education,57331,9,1,0
+Introduction to Conducting,57332,6,1,0
+Band and Choral Arranging,57333,6,0,1
+Fundamentals of Marching Band,57334,3,1,0
+Instrumental/Choral Conducting,57336,6,0,1
+Sound Recording,57337,6,1,1
+Sound Editing and Mastering,57338,6,1,1
+Acting III,57339,6,1,0
+Acting IV,57340,6,0,1
+"Interdisciplinary Studies in Listening, Culture, and Technology",57343,9,1,0
+Electronic and Computer Music,57347,6,1,1
+Supervised Theory Teaching,57349,6,1,1
+Dalcroze Piano Improvisation,57350,3,1,1
+Dalcroze Piano Improvisation,57351,3,1,1
+Dalcroze Piano Improvisation,57353,3,1,0
+Secondary Guided Teaching,57355,3,0,1
+Elementary Guided Teaching,57356,3,1,0
+Sound Recording for Music Majors,57357,6,0,1
+Career Strategies for Musicians,57359,3,1,0
+Brass Methods,57360,3,1,0
+Percussion Methods,57361,3,1,0
+Woodwind Methods,57362,3,0,1
+String Methods,57363,3,0,1
+Conducting Practicum,57364,3,1,1
+Supervised Recording Teaching,57367,6,1,1
+Supervised History Teaching,57368,6,1,1
+Supervised Solfege Teaching,57369,6,1,1
+Stage Direction,57370,3,0,1
+Music in the Urban School,57374,9,0,1
+Music in the Elementary School,57375,6,1,0
+Music in the Secondary School,57376,6,0,1
+Collaborative Piano I,57381,3,1,1
+Collaborative Piano II,57382,3,1,1
+Collaborative Piano III,57383,3,1,1
+Collaborative Piano IV,57384,3,1,1
+Collaborative Piano V,57385,3,1,1
+Collaborative Piano VI,57386,3,1,1
+Professional Essentials for the Percussionist,57387,3,1,1
+Outreach Performance,57390,0,1,1
+Keyboard Studies (Music Ed),57391,3,1,1
+Keyboard Studies (Music Ed),57392,3,1,1
+Keyboard Studies Test (Music Ed),57393,0,1,1
+Guitar Test (Music Ed),57394,0,1,1
+Music-Cinema-Culture,57399,9,1,0
+Form and Analysis,57408,6,0,1
+Ensemble Elective,57410,3,1,1
+"Globalization of Classical Music: USA, Turkey, Japan",57416,3,1,0
+Major Vocal Performance Ensemble,57417,6,1,1
+Major Instrumental Ensemble,57418,6,1,1
+Major Choral Ensemble,57419,6,1,1
+Jazz Vocal Ensemble,57420,3,1,1
+Repertoire Orchestra,57423,3,1,1
+Percussion Ensemble,57424,3,1,1
+Advanced Seminar in Film Musicology,57427,9,0,1
+Theatre Orchestra,57428,3,1,1
+Beginning Piano for Children,57429,6,1,1
+Music of Iran:,57430,9,1,0
+Italian Literature and Repertoire,57431,3,0,1
+French Literature and Repertoire,57432,3,0,1
+Musical Theatre Literature and Repertoire,57433,3,1,0
+Musical Theatre Literature and Repertoire,57434,3,0,1
+German Literature and Repertoire,57435,3,0,1
+English/Contemporary Literature and Repertoire,57436,3,0,1
+Literature and Repertoire,57437,3,1,1
+Multitrack Recording,57438,9,0,1
+Analysis of 19th Century Music,57441,9,0,1
+Analytical Techniques,57442,9,1,0
+Renaissance Counterpoint,57446,6,1,0
+Brass Pedagogy,57448,3,1,1
+Beginning Piano for Children,57449,6,1,1
+Outreach,57453,9,0,1
+Communication and Marketing,57456,6,0,1
+Stagecraft II,57457,3,1,0
+Business of Music,57458,6,1,0
+Score Reading/Keyboard Harmony:,57459,6,0,1
+Eurhythmics for Non-Majors,57463,6,1,0
+Eurhythmics Applications for Performing and Teaching,57465,6,1,0
+Production: Crew,57467,3,1,0
+Production: Crew,57468,3,0,1
+Production: Performance,57471,6,1,0
+Production: Performance,57472,6,0,1
+Music of the Spirit,57477,6,0,1
+Beginning Piano for Children,57479,6,1,1
+History of Black American Music,57480,6,1,1
+Advanced Solfege III,57487,3,1,0
+Advanced Solfege IV,57488,3,0,1
+Minor Studio,57496,4,1,1
+Minor Studio,57497,4,1,1
+Minor Studio,57498,4,1,1
+Minor Studio,57499,4,1,1
+Major Studio (Voice),57500,9,1,1
+Major Studio (Piano),57501,9,1,1
+Major Studio (Organ),57502,9,1,1
+Major Studio (Harp),57503,9,1,1
+Major Studio (Violin),57505,9,1,1
+Major Studio (Viola),57506,9,1,1
+Major Studio (Cello),57507,9,1,1
+Major Studio (Double Bass),57508,9,1,1
+Major Studio (Guitar),57509,9,1,1
+Major Studio (Flute),57510,9,1,1
+Major Studio (Oboe),57511,9,1,1
+Major Studio (Clarinet),57512,9,1,1
+Major Studio (Bassoon),57513,9,1,1
+Major Studio (Saxophone),57514,9,1,1
+Major Studio (Horn),57515,9,1,1
+Major Studio (Trumpet),57516,9,1,1
+Major Studio (Trombone),57517,9,1,1
+Major Studio (Euphonium/Baritone),57518,9,1,1
+Major Studio (Tuba),57519,9,1,1
+Major Studio (Percussion),57520,9,1,1
+Major Studio (Composition),57521,9,1,1
+Major Studio (Bagpipe),57522,9,1,1
+Vocal Coaching,57523,0,1,1
+Music and Technology Seminar,57570,1,1,1
+Music and Technology Project,57571,12,1,1
+Music and Technology Project,57572,12,1,1
+Sophomore Recital,57596,0,1,1
+Senior Project,57597,0,1,1
+Junior Recital,57598,0,1,1
+Senior Recital,57599,0,1,1
+Graduate Forum,57600,0,1,1
+Practice Teaching (Elementary),57603,6,1,1
+Practice Teaching (Secondary),57604,6,1,1
+Theory and Analysis for Graduate Students,57605,6,1,0
+Music History for Graduate Students 1,57606,9,1,0
+Vocal Methods,57607,3,0,1
+Observation,57608,3,1,1
+Music History for Graduate Students II,57609,9,0,1
+Internship,57610,3,1,1
+Independent Study in History,57611,3,1,1
+Independent Study in Theory,57612,3,1,1
+Independent Study in Research,57613,3,1,1
+Independent Study in Performance,57614,3,1,1
+Independent Study in Electronic and Computer Music,57615,3,1,1
+Independent Study in Literature and Repertoire,57616,3,1,1
+Independent Study in Sound Recording,57617,3,1,1
+Independent Study in Conducting,57618,3,1,1
+Independent Study in Opera,57619,3,1,1
+Independent Study in Solfege,57620,3,1,1
+Independent Study in Eurhythmics,57621,3,1,1
+Independent Study for Competitions,57622,3,1,1
+Independent Study in Diction,57623,3,1,1
+Independent Study in Theater Composition,57624,3,1,1
+Independent Study in Public Performance,57626,3,1,1
+PPST: Reading,57630,0,1,1
+PPST: Writing,57631,0,1,1
+PPST: Mathematics,57632,0,1,1
+PSST: Total Comprehensive,57633,0,1,1
+Fundamental Subjects: Content Knowledge,57634,0,1,1
+Music: Content Knowledge,57635,0,1,1
+Dalcroze Research Paper,57641,3,1,0
+Dalcroze Research Paper,57642,3,0,1
+Piano Maintenance I,57661,6,1,0
+Piano Maintenance II,57662,6,1,1
+History of the Piano,57665,3,1,1
+Acoustics of the Piano,57666,3,1,0
+Practicum,57690,9,1,0
+Dalcroze Pedagogy/Practice Teaching,57691,3,1,0
+Dalcroze Pedagogy/Practice Teaching,57692,3,0,1
+Elective Recital,57694,0,0,1
+BXA Studio,57696,9,1,1
+BXA Studio,57697,9,1,1
+BXA Studio,57698,9,1,1
+BXA Studio,57699,9,1,1
+Major Studio (Voice),57700,9,1,1
+Major Studio (Piano),57701,9,1,1
+Major Studio (Organ),57702,9,1,1
+Major Studio (Harp),57703,9,1,1
+Major Studio (Violin),57705,9,1,1
+Major Studio (Viola),57706,9,1,1
+Major Studio (Cello),57707,9,1,1
+Major Studio (Double Bass),57708,9,1,1
+Major Studio (Guitar),57709,9,1,1
+Major Studio (Flute),57710,9,1,1
+Major Studio (Oboe),57711,9,1,1
+Major Studio (Clarinet),57712,9,1,1
+Major Studio (Bassoon),57713,9,1,1
+Major Studio (Saxophone),57714,9,1,1
+Major Studio (Horn),57715,9,1,1
+Major Studio (Trumpet),57716,9,1,1
+Major Studio (Trombone),57717,9,1,1
+Major Studio (Euphonium/Baritone),57718,9,1,1
+Major Studio (Tuba),57719,9,1,1
+Major Studio (Percussion),57720,9,1,1
+Major Studio (Composition),57721,9,1,1
+Major Studio (Conducting),57722,9,1,1
+Major Studio (Bagpipe),57723,9,1,1
+Major Studio (Collaborative Piano),57724,6,1,1
+Beginning Piano for Children,57729,6,1,1
+Conducting Laboratory,57731,6,1,1
+Chamber Music Literature II,57736,6,1,0
+Literature and Repertoire,57737,3,1,1
+Opera Literature,57740,6,1,0
+Sonatas/Songs I,57741,3,1,0
+Sonatas/Songs II,57742,3,0,1
+Chamber Music Coaching,57745,3,0,1
+Opera Coaching,57746,3,0,1
+Brass Pedagogy,57748,3,1,1
+Beginning Piano for Children,57749,6,1,1
+Dalcroze Piano Improvisation,57750,3,1,1
+Dalcroze Piano Improvisation,57751,3,1,1
+Dalcroze Piano Improvisation,57752,3,1,0
+Outreach,57753,3,1,1
+Communication and Marketing,57756,6,0,1
+Stagecraft II,57757,9,1,0
+Business of Music,57758,6,1,0
+Eurhythmics I,57761,3,1,0
+Eurhythmics II,57762,3,0,1
+Eurhythmics III,57763,3,1,0
+Eurhythmics IV,57764,3,0,1
+Giuseppe Verdi: Man and Music,57766,9,1,0
+IPA Proficiency Test,57776,0,1,0
+Performance Proficiency Test,57777,0,1,0
+Solfege Proficiency Test,57778,0,1,0
+Beginning Piano for Children,57779,6,1,1
+Black American Music Seminar,57780,6,1,1
+Collaborative Piano I,57781,3,1,1
+Collaborative Piano II,57782,3,1,1
+Collaborative Piano III,57783,3,1,1
+Collaborative Piano IV,57784,3,1,1
+Collaborative Piano V,57785,3,1,1
+Collaborative Piano VI,57786,3,1,1
+History Proficiency I Test,57787,0,1,1
+History Proficiency II Test,57788,0,1,1
+Theory Proficiency Test,57789,0,1,1
+Outreach Performance,57790,0,1,1
+Keyboard Studies (Graduate),57791,3,1,1
+Keyboard Studies (Graduate),57792,3,1,1
+Comprehensive Review (Analysis),57793,0,1,1
+Comprehensive Review (Notes),57794,0,1,1
+Comprehensive Review (Analysis Paper),57795,0,1,1
+Graduate Composition Project,57796,0,1,1
+Graduate Conducting Project,57797,0,1,1
+Graduate Recital,57798,0,1,1
+Artist Diploma Recital,57799,0,0,1
+Comprehensive Review (Music Ed),57800,0,1,1
+Introduction to Music Technology,57801,6,1,1
+Finale,57802,6,0,1
+Vocal Methods,57807,3,0,1
+Observation,57808,3,1,1
+Ensemble Elective,57810,3,1,1
+Eurhythmics for Non-Majors,57815,6,1,0
+Major Vocal Performance Ensemble,57817,6,1,1
+Major Instrumental Ensemble,57818,6,1,1
+Major Choral Ensemble,57819,6,1,1
+Percussion Ensemble,57824,3,1,1
+Jazz Orchestra,57827,3,1,1
+Theatre Orchestra,57828,3,1,1
+Principles of Education,57831,9,1,0
+Band and Choral Arranging,57833,6,0,1
+Fundamentals of Marching Band,57834,3,1,0
+"Interdisciplinary Studies in Listening, Culture, and Technology",57843,9,1,0
+Messiaen and His Contemporaries,57845,9,0,1
+Bach,57846,9,0,1
+Electronic and Computer Music,57847,6,1,1
+Secondary Guided Teaching,57855,3,0,1
+Elementary Guided Teaching,57856,3,1,0
+Dalcroze Eurhythmics Workshop,57857,3,1,1
+Dalcroze Eurhythmics Workshop,57858,3,1,1
+Dalcroze Eurhythmics Workshop,57859,3,1,1
+Brass Methods,57860,3,1,0
+Percussion Methods,57861,3,1,0
+Woodwind Methods,57862,3,0,1
+String Methods,57863,3,0,1
+Eurhythmics for Graduate Music Students,57865,6,1,0
+Stage Direction,57870,3,0,1
+Introduction to Music Technology (self-paced),57871,6,1,1
+Creative Orchestration,57872,6,1,0
+Music in the Urban School,57874,9,0,1
+Music in the Elementary School,57875,6,1,0
+Music in the Secondary School,57876,6,0,1
+Dalcroze Eurhythmics Workshop,57878,3,1,1
+Dalcroze Eurhythmics Workshop,57879,3,1,1
+Dalcroze Eurhythmics Workshop,57880,3,1,1
+Literature and Repertoire: Piano III,57883,6,1,0
+Literature and Repertoire: Piano IV,57884,6,0,1
+Professional Essestials for the Percussionist,57887,3,1,1
+Instrumental/Choral Conducting,57888,6,0,1
+Practice Teaching (Elementary),57889,6,1,1
+Practice Teaching (Secondary),57890,6,1,1
+Dalcroze Pedagogy/Practice Teaching,57891,3,1,0
+Dalcroze Pedagogy/Practice Teaching,57892,3,0,1
+Introduction to Conducting,57893,6,1,0
+Graduate Recital,57898,0,1,1
+Bagpipe and Drum Band,57900,3,1,1
+Music Research Methods,57901,3,1,0
+Secondary Studio,57907,3,1,0
+Secondary Studio,57908,3,0,1
+Opera Since Wagner,57912,9,1,0
+"Globalization of Classical Music USA  Turkey, Japan",57916,9,1,0
+Repertoire Orchestra,57923,3,1,1
+The Symphonies of Mahler,57925,9,1,0
+Chamber Music (String Quartet),57926,3,1,1
+Advanced Seminar in Film Musicology,57927,9,0,1
+Chamber Music,57928,3,1,1
+Chamber Music,57929,3,1,1
+Baroque Ensemble,57930,3,1,1
+Chamber Ensemble,57931,3,1,1
+Chamber Music Guitar,57932,6,1,1
+Sonatas,57933,3,1,1
+Advanced Analytical Techniques,57934,9,1,1
+Chamber Music,57935,3,1,1
+Dalcroze Eurhythmics Workshop,57938,3,1,1
+Dalcroze Eurhythmics Workshop,57939,3,1,1
+Dalcroze  Eurhythmics Workshop,57940,3,1,1
+Dalcroze Research Paper,57941,3,1,0
+Dalcroze Research Paper,57942,3,0,1
+Sound Recording,57947,6,1,1
+Sound Editing and Mastering,57948,6,1,1
+Multitrack Recording,57949,9,0,1
+Live Recording Laboratory,57950,6,1,0
+Live Recording Laboratory,57951,6,0,1
+Studio Recording Laboratory,57952,6,1,0
+Studio Recording Laboratory,57953,6,0,1
+Shaping Time in Performance,57954,9,0,1
+Dalcroze Eurhythmics Workshop,57957,3,1,1
+Dalcroze Eurhythmics Workshop,57958,3,1,1
+Dalcroze Eurhythmics Workshop,57959,3,1,1
+Practicum (Percussion/Piano),57963,1.5,1,1
+Repertoire Analysis,57965,6,1,1
+Sound Recording for Music Majors,57967,6,0,1
+Score Reading Keyboard Harmony:,57969,6,0,1
+Music and Technology Seminar,57970,1,1,1
+Music and Technology Performance/Thesis,57971,1,1,1
+Piano Pedagogy I,57973,6,1,0
+Piano Pedagogy II,57974,6,0,1
+Piano Pedagogy III,57975,6,1,0
+Piano Pedagogy IV,57976,6,0,1
+Seminar in Music Education,57980,9,0,1
+Lecture Recital/Thesis/Compositon,57983,3,0,1
+Computer Technology in Music Education,57985,9,1,0
+Advanced Music Studies Studio,57986,3,1,1
+Advanced Music Studies Recital,57989,0,1,1
+Advanced Music Studies Project,57990,0,1,1
+Artist Diploma Recital,57991,0,1,0
+Artist Diploma Recital,57992,0,0,1
+Artist Diploma Recital,57993,0,1,0
+Artist Diploma Recital,57994,0,0,1
+Artist Diploma Studio,57996,36,1,0
+Artist Diploma Studio,57997,3,0,1
+Artist Diploma Studio,57998,36,1,0
+Artist Diploma Studio,57999,3,0,1
+Study Abroad,60050,0,1,0
+Study Abroad,60051,0,0,1
+Concept Studio I,60101,10,1,0
+Contemporary Issues Forum,60104,6,1,0
+Adventures in Arts Time,60109,9,0,1
+Electronic Media Studio I,60110,10,0,1
+3-D Media Studio I:,60130,5,1,0
+3D Media Studio II:,60131,5,0,1
+Black and White Photography I,60141,10,1,1
+Digital Photography I,60142,10,1,1
+2D Media Studio: Drawing,60150,10,1,0
+Drawing for Non-Majors,60157,10,1,1
+2D Media Studio: Imaging,60160,10,0,1
+Sophomore Review,60200,0,1,1
+Concept Studio II,60201,10,1,0
+Concept Studio III,60202,10,0,1
+Concept Studio: EcoArt,60203,10,1,0
+Modern Visual Culture 1789-1960,60205,9,1,0
+Contemporary Visual Culture 1960 - Present,60206,9,0,1
+Electronic Media Studio II,60210,10,1,0
+Black and White Photography II,60241,10,1,1
+Portrait Photography,60245,10,1,0
+2D Media Studio: Painting,60250,10,1,0
+2D Media Studio: Print Media,60251,10,1,0
+Computing for the Arts with Processing,60257,9,1,1
+Photography and Reality,60298,10,0,1
+Art and Biology,60358,9,0,1
+Trajectories in Photography: Prehistory to 1945,60361,9,1,0
+An Aesthetics of Hip Hop Seminar,60370,9,0,1
+Large Format Photography: The Antiquarian Avant-Garde,60376,10,1,0
+Special Topics:,60387,9,0,0
+Special Topics:,60390,9,0,0
+Special Topics:,60391,9,1,0
+Inner Geographies,60392,9,0,1
+Social History of Animation,60398,9,0,1
+Art History/Theory Independent Study,60399,9,1,1
+Senior Review,60400,0,1,1
+Senior Studio,60401,20,1,0
+Senior Studio,60402,20,0,1
+"BHA, BSA, and BCSA Senior Studio",60403,10,1,0
+"BHA, BSA, and BCSA Senior Studio",60404,10,0,1
+"Sound Material, Sound Art",60407,10,0,1
+Interactive Art and Computational Design,60412,10,0,1
+Advanced ETB: Animation Art and Technology,60414,12,0,1
+Advanced ETB: Animation,60415,10,1,0
+Advanced ETB: Documentary Storytelling,60416,10,0,1
+Advanced CP/ETB: Special Topic::,60424,10,1,0
+Advanced ETB: 2D Animation,60426,10,0,1
+Advanced ETB: Special Topics:,60427,10,1,0
+Advanced SIS: Open Sculpture,60430,10,0,1
+Advanced SIS: Installation,60431,10,1,0
+Advanced SIS: Special Topic:,60432,10,0,0
+Advanced SIS: Hybrid Instrument Building,60439,10,1,0
+Advanced SIS: Special Topic::,60440,10,1,0
+Advanced CP/SIS: Special Topic::,60441,10,0,0
+Advanced CP: Temporary Art in Public Space:,60448,10,1,0
+Advanced DP3: Painting,60453,10,1,0
+Advanced DP3: Printstallation,60467,10,0,1
+Advanced DP3: Special Topics:,60469,10,0,0
+Advanced DP3/Mutable Landscape,60472,10,1,0
+Advanced DP3 Special Topic:,60473,10,1,0
+Advanced DP3: Special Topic::,60474,10,1,0
+Advanced CP/DP3: Print Media,60475,10,1,0
+Advanced CP: Special Topic:,60480,10,0,0
+Inner Geographies,60492,10,0,1
+Studio Independent Study,60499,5,1,1
+Internship,60590,1,1,1
+Exchange Independent Study,60599,10,1,1
+M.F.A. Academic Seminar,60701,12,1,1
+M.F.A. Studio,60703,12,1,1
+M.F.A. Project,60705,36,1,1
+MFA Contextual Practice,60706,6,1,1
+M.F.A. Writing Seminar,60711,4.5,1,1
+Machining for Non-Machinists,60750,4.5,1,0
+M.F.A. Integrative Seminar,60791,12,1,1
+Pittsburgh Filmakers,62010,9,1,1
+Study Abroad,62050,0,1,0
+Study Abroad,62051,0,0,1
+Modern Dance Workshop,62102,6,1,0
+Modern Dance Workshop,62103,6,0,1
+Passport to the Arts,62110,9,1,1
+Black and White Photography I,62141,10,1,1
+Digital Photography I,62142,10,1,1
+Drawing for Non-Majors,62157,10,1,0
+Mutable Landscape:,62165,10,1,0
+BXA Freshman Interdisciplinary Seminar,62190,9,1,0
+Black and White Photography II,62241,10,1,1
+Portrait Photography,62245,10,1,0
+Introduction to Hot Glass I,62247,3,1,1
+Beginner Beadmaking,62250,3,1,1
+Marble Madness,62252,3,0,1
+Fused Glass Jewelry,62253,3,0,1
+"Bends, Seals and Sculpting",62254,3,0,1
+Imagery in Glass,62255,3,1,0
+Introduction to Coldworking,62256,3,1,1
+Networking,62257,3,1,1
+Raising Cane,62258,3,1,0
+Compresions & Stringers,62259,3,0,1
+Cold Cuts and Lamination,62261,3,0,1
+Working Deep,62263,3,0,1
+Literacy across Disciplines,62290,5,1,0
+Building BXA: A Project Course,62291,5,1,0
+Photography and Reality,62298,10,0,1
+Music-Cinema-Culture,62306,9,1,0
+Photographic Narrative,62326,9,1,0
+"Photography, Community & Change",62334,9,0,1
+Mosaic Exploration,62344,3,1,1
+Hot Glass II,62347,3,1,1
+Interdisciplinary Independent Study,62348,3,1,1
+Art and Biology,62358,9,0,1
+Photographers and Photography Since World War II,62360,9,0,1
+Trajectories in Photography: Prehistory to 1945,62361,9,1,0
+Meaning in Images,62374,9,1,0
+Large Format Photography: The Antiquarian Avant-Garde,62375,10,1,0
+Interdisciplinary Independent Study: Topics in Photography,62398,5,1,1
+BXA Interdisciplinary Seminar,62399,9,1,0
+BXA Capstone Project,62401,9,1,0
+BXA Junior Seminar:,62410,9,1,0
+Aesthetics and Critical Judgement,62420,6,1,0
+Advanced Seminar in Film Musicology,62427,9,0,1
+Hot Glass III,62446,3,1,1
+Hot Glass III Open Projects,62447,3,1,1
+Advanced Color and Cane,62449,3,1,0
+Flame I,62450,3,1,1
+Flame II- Blowing Boro,62452,3,0,1
+Introduction Fusing and Slumping,62453,3,1,1
+Kiln Casting,62455,3,1,1
+Fused and Slumped Glass-Phase II,62456,3,1,1
+Fusing Special Projects,62457,3,0,1
+Stained Glass,62459,3,1,1
+Advanced Fusing Techniques,62463,3,1,0
+Hot Glass IV,62467,3,1,1
+Growing Theatre Community Outreach,62483,6,1,0
+Growing Theatre Community Outreach,62484,6,0,1
+Galleries & Auction Houses: Economics of the Art Market,62714,6,1,0
+Interactive Art and Computational Design,62726,10,0,1
+Managing Cultural Heritage: Identity and Sustainability,62736,6,0,1
+Center for Arts in Society Internship,64590,3,1,0
+Humanities Scholar I,65101,9,1,0
+Humanities Scholar II,65102,9,0,1
+Humanities Scholars III,65201,9,1,0
+Humanities Scholar IV,65202,9,0,1
+Humanities Scholars Senior Research Seminar,65402,9,0,1
+QSSS Prosemimar 1,65411,3,1,0
+QSSS Prosemimar 2,65412,3,0,1
+Study Abroad,66050,0,1,1
+Study Abroad,66051,0,0,1
+Film Festival,66204,3,0,1
+Legal Topics: Introduction to Intellectual Property Law,66221,9,1,0
+Elective Seminar: American Political Journalism,66230,9,0,1
+Independent Study,66307,6,0,1
+Internship,66320,3,1,1
+CMUWSP Internship Seminar,66321,15,0,1
+CMUWSP Policy Forum,66322,6,0,1
+Core Seminar: Congress,66323,12,0,1
+Core Seminar: Washington Media,66324,12,0,1
+Core Seminar: General Research,66325,12,0,1
+Core Seminar: The Presidency and Executive Branch,66326,12,0,1
+International Policy and The Global System of the 21st Century,66327,12,0,1
+"Elective Seminar: Lobbying, Money and Influence in Washington",66328,12,0,1
+Elective Seminar: Green Governance,66329,12,0,1
+Elective Seminar: Spies! The Politics of Intelligence,66331,12,0,1
+Elective Seminar: The Theater of Politics,66332,12,0,1
+Elective Seminar: U.S. Foreign Relations with Asia,66333,12,0,1
+Elective Seminar: Campaigns and Elections,66334,12,0,1
+Elective Seminar: Politics of the Middle East,66335,12,0,1
+Research Design for the Social Sciences,66336,12,0,1
+H&SS Senior Honors Thesis I,66501,9,1,1
+H&SS Senior Honors Thesis II,66502,9,1,1
+Study Abroad,67050,0,1,0
+Study Abroad,67051,0,0,1
+Information Systems Freshman Workshop,67100,1,1,0
+Concepts of Information Systems,67101,6,0,1
+CONCEPTS OF INFORMATION SYSTEMS,67102,9,1,0
+Fundamentals of Web Design,67103,3,0,1
+Introduction to Business Systems Programming,67211,6,1,1
+The Information Systems Milieux,67250,9,1,0
+Visualizing Complex Information,67260,6,1,0
+Application Design and Development,67272,9,0,1
+Special Topics: Information System Security,67280,9,1,0
+Networks and Telecommunications,67301,6,0,1
+Special Topics: Management of Computer and Information Systems,67306,6,0,0
+Database Design and Implementation,67311,9,1,0
+Special Topics: Strategic Information Management Planning,67312,9,1,0
+Interaction Design for the Web,67315,9,0,1
+Human Computer Interface Design and Testing,67316,9,0,1
+Global Technology Consulting Groundwork,67319,3,0,1
+Enterprise Systems: Concepts and Practice,67323,9,0,1
+Web Application Security,67327,6,1,0
+Mobile to Cloud: Developing Distributed Applications,67328,9,1,0
+Contemporary Themes in Global Systems,67329,9,0,1
+Technology Consulting in the Global Community,67331,3,1,0
+Organizational Intelligence in the Information Age,67344,9,1,0
+Electronic Business,67352,9,1,0
+Big Data Analytics,67362,6,0,1
+Fundamentals of System Development I,67371,9,1,1
+Software Development Project,67373,12,0,1
+Independent Study in Information Systems,67390,1,1,1
+Information Systems Applications,67475,12,1,0
+Advanced Projects in Information Systems,67495,3,1,1
+Information Systems Internship,67505,1,1,1
+Fitness Instructor Training,69001,3,1,1
+Advanced Basketball Skills for Women,69002,3,1,0
+Play CMU,69003,3,1,1
+Badminton,69004,3,1,0
+Racquetball,69101,3,1,1
+Weight Training,69102,3,1,1
+Personal Fitness,69110,3,0,1
+Fitness Fusion,69112,3,1,1
+Beginning Karate,69113,3,1,1
+Intermediate Karate,69114,3,1,1
+Rape Agression Defense Systems (RAD),69129,3,1,1
+Beginning Tennis,69130,3,1,1
+Volleyball,69131,3,1,1
+Advanced Tennis,69132,3,1,0
+Beginning Golf,69134,3,1,1
+Soccer Skills,69135,3,0,1
+Basketball Skills,69136,3,1,1
+Ultimate Frisbee,69137,3,1,0
+Outdoor Soccer,69138,3,1,0
+Indoor Soccer Skills,69139,3,0,1
+Squash,69140,3,1,1
+Beginning Soccer,69141,3,0,1
+Floor Hockey/Dodgeball,69143,3,0,1
+Diamond Sports,69144,3,0,1
+Sports Officiating,69145,3,1,0
+Team Handball,69146,3,1,0
+Beginning Swimming,69150,3,1,0
+Introduction to Yoga,69151,3,1,1
+Lifeguard Training,69153,3,0,1
+Cardio Fitness/Sculpt,69155,3,1,1
+First Aid/CPR,69156,3,1,0
+Swimming Stroke Improvement,69157,3,1,0
+Water Fitness,69159,2,1,1
+Swim-Fit,69160,3,1,1
+Cycling Core,69165,3,1,1
+Bike Outdoors,69167,2,0,1
+African-Caribbean Dance,69175,2,1,1
+Non-Majors Jazz,69176,3,1,1
+Emergency Medical Responder,69194,6,1,0
+Emergency Medical Technician,69195,6,0,1
+Study Abroad,70050,0,1,0
+Study Abroad,70051,0,0,1
+Global Business,70100,9,1,0
+Introduction to Business Management,70101,9,1,1
+Introduction to Accounting,70122,9,1,1
+Graphic Media Management,70160,9,1,1
+Publishing Management in the Information Age,70194,9,0,1
+Professional and Service Projects,70201,9,1,1
+Probability and Statistics for Business Applications,70207,9,1,0
+Regression Analysis,70208,9,0,1
+Organizational Behavior,70311,9,1,1
+Negotiation and Conflict Resolution,70321,9,1,1
+"Business, Society and Ethics",70332,9,1,1
+Information Technology for Finance,70339,9,0,1
+Business Communications,70340,9,1,1
+Managing Across Cultures,70342,9,0,1
+Interpersonal Communication,70343,9,1,0
+Business Presentations,70345,9,1,1
+Business Acting,70350,9,1,1
+Business Law,70364,9,1,1
+International Trade and International Law,70365,9,1,1
+Intellectual Property and E-Commerce,70366,6,0,1
+Operations Management,70371,9,1,1
+Energy Systems,70376,9,1,0
+Marketing I,70381,9,1,1
+Consumer Behavior,70385,9,0,1
+Finance,70391,9,1,1
+Funding Entrepreneurial Ventures,70395,9,1,0
+Introduction to Entrepreneurial Finance,70397,6,0,1
+International Finance,70398,9,0,1
+Management Game,70401,12,1,1
+Marketing Innovation and Entrepreneurship,70413,9,1,0
+Technology Based Entrepreneurship for CIT,70414,9,1,0
+Introduction to Entrepreneurship,70415,9,1,1
+New Venture Creation,70416,9,0,1
+Topics in Entrepreneurship,70417,9,1,0
+Financing Entrepreneurship Ventures,70418,9,1,0
+Entrepreneurship Practicum: Apprentice,70419,9,1,1
+Entrepreneurship for Scientists,70420,9,1,0
+Entrepreneurship for Computer Scientists,70421,9,1,0
+Managerial Accounting,70422,9,0,1
+Technology-Based Entrepreneurship,70423,9,0,1
+Corporate Financial Reporting,70424,9,1,1
+Entrepreneurship in Creative Industries,70425,9,0,1
+Financial Statement Analysis,70428,9,1,1
+International Management,70430,9,1,1
+Organizational Learning and Strategic Management,70437,9,0,1
+Commercialization and Innovation,70438,9,0,1
+Corporate Strategy,70440,9,1,1
+Principles of Game Theory for Business,70442,6,1,0
+Digital Marketing and Social Media Strategy,70443,9,0,1
+CEO Perspective,70448,9,0,1
+"Social, Economic and Information Networks",70449,9,0,1
+Management Information Systems,70451,9,1,1
+Business Technology Consulting,70453,9,0,1
+Modern Data Management,70455,9,0,1
+Mathematical Models for Consulting,70460,9,1,1
+Supply Chain Management,70471,9,1,1
+Quality Management and Productivity,70474,9,0,1
+Service Operations Management,70476,9,0,1
+International Marketing,70480,9,1,1
+Marketing Research,70481,9,0,1
+Advertising and Marketing Communications,70483,9,1,0
+Product and Brand Management,70485,9,1,1
+Interactive Marketing,70488,6,0,1
+Investment  Analysis,70492,9,1,1
+Corporate Finance,70495,9,0,1
+Entrepreneurial Finance: Valuation & Deal,70496,6,0,1
+Derivative Securities,70497,9,1,1
+Internship,70499,1,1,1
+Honors Thesis I,70500,3,1,0
+Honor Thesis II,70501,3,0,1
+Independent Study in Management,70502,3,1,1
+Independent Study in Marketing,70503,3,1,1
+Independent Study in Organizational Behavior,70504,3,1,1
+Independent Study in Finance,70505,3,1,1
+Independent Study Management Information Systems,70506,3,1,1
+Independent Study in Business Communications,70507,3,1,1
+Independent Study in International Management,70508,3,1,1
+Independent Study in Entrepreneurship,70509,3,1,1
+Interactive Media Design Management,70637,9,0,1
+Color Reproduction and Management,70641,9,1,0
+Publishing on the World Wide Web,70643,9,1,1
+Independent Study: Graphic Communications Management,70650,3,1,1
+Study Abroad,73050,0,1,0
+Study Abroad,73051,0,0,1
+Principles of Economics,73100,9,1,1
+Freshman Seminar,73101,9,1,1
+Internship I,73111,1,1,0
+Internship II,73112,3,1,0
+Environmental Economics,73148,9,0,1
+Intermediate Microeconomics,73230,9,1,1
+Intermediate Macroeconomics,73240,9,1,1
+Advanced Microeconomic Theory,73252,6,1,1
+Advanced Macroeconomic Theory,73253,6,1,1
+Independent Study,73255,9,1,0
+Writing for Economists,73270,9,1,1
+Economics Elective Transfer Credits,73302,9,1,0
+Upper Level Economics Elective Transfer Credit,73303,9,1,0
+Upper Level Economics Elective Transfer Credit,73304,9,1,0
+Upper Level Economics Elective Transfer Credit,73305,9,1,0
+Evolution of Economic Ideas and Analysis,73310,9,1,0
+Market Design,73315,9,0,1
+Health Economics,73328,12,1,0
+Political Economy of Inequality and Redistribution,73331,9,1,0
+Game Theory for Economists,73347,9,1,0
+Behavioral Economics:,73348,9,0,1
+Public Economics,73352,9,1,0
+Benefit-Cost Analysis,73359,9,1,0
+Econometrics,73363,9,1,1
+"Firms, Market Structures, and Strategy",73365,9,1,0
+International Money and Finance,73372,9,0,1
+History of Money and Monetary Policy,73375,9,0,1
+Development Economics,73394,9,1,0
+Independent Study in Economics,73395,1,0,1
+Study Abroad Upper Level Economics Elective,73401,9,1,1
+Study Aboard Upper Level Economics Elective,73402,9,1,1
+Study Aboard Upper Level Economics Elective,73403,9,1,1
+Study Aboard Upper Level Economics Elective,73404,9,1,1
+Fundamentals of Statistical Modeling,73407,9,0,1
+Law and Economics:,73408,9,0,1
+Emerging Markets,73421,9,1,0
+Environmental Policy and Economics,73433,9,0,1
+Auctions and Markets,73440,9,1,0
+Economics Colloquium,73450,1,1,1
+Global Electronic Markets: Economics and the Internet,73469,9,1,0
+"The Economics of Ideas: Growth, Innovation and Intellectual Property",73474,9,0,1
+Advanced Independent Study in Economics,73495,1,1,1
+Senior Project,73497,9,1,0
+Internship,73499,3,0,1
+Tepper College Honors Thesis I,73500,3,1,0
+Tepper College Honors Thesis II,73501,3,0,1
+Study Abroad,76050,0,1,1
+Study Abroad,76051,0,0,1
+Reading and Writing in an Academic Context:,76100,9,1,1
+Interpretation and Argument:,76101,9,1,1
+Freshman Seminar:,76143,9,0,1
+Research Training: English,76198,9,0,1
+Asian American Literature,76202,9,0,1
+Introduction to Creative Writing,76206,9,1,0
+Studies in Classical Literature: Books You Should Have Read By Now,76221,9,0,1
+Studies in Literary Genre: Zombie Fiction:,76223,9,0,1
+Topics in Rhetoric:,76225,9,0,1
+Introduction to Film Studies,76239,9,1,0
+Introduction to Gender Studies,76241,9,1,0
+American Woman Writers,76242,9,0,1
+Shakespeare: Histories and Tragedies,76245,9,0,1
+Shakespeare: Comedies and Romances,76247,9,1,0
+Literature and Sciences,76252,9,1,0
+Survey of Forms: Fiction,76260,9,1,1
+Survey of Forms: Nonfiction,76262,9,1,0
+Survey of Forms: Poetry,76265,9,1,1
+Survey of Forms: Screenwriting,76269,9,1,1
+Writing for the Professions,76270,9,1,1
+Introduction to Professional and Technical Writing,76271,9,1,1
+Language in Design,76272,9,1,0
+Presenting a Public Self,76273,9,1,0
+Interpretive Practices,76294,9,1,0
+Russia's Demons,76297,9,1,0
+Professional Seminar,76300,3,1,0
+Internship,76301,3,1,1
+Global Communication Center Practicum,76302,9,1,0
+Independent Study in Creative Writing,76303,3,1,1
+Independent Study in Rhetoric,76304,3,1,1
+Independent Study in Professional/Technical Writing,76305,3,1,1
+Editing and Publishing,76306,3,1,1
+Advanced Editing and Publishing,76307,3,1,1
+Creative Writing Internship in Publishing,76308,3,1,0
+Communicating in the Global Marketplace,76318,9,0,1
+Environmental Rhetoric,76319,9,1,0
+Topics in Rhetoric:,76324,9,1,0
+Special Topics in Literary and Cultural Studies: Writing and Arguing Cases,76327,9,0,0
+Performance:,76328,9,0,1
+19th Century Literary and Cultural Studies:,76334,9,1,0
+Global Literature: Intro to Ethnic American Studies,76337,9,0,1
+Film in the Digital Age:,76339,9,1,1
+Topics in Rhetoric: American English,76340,9,0,1
+Advanced Gender Studies,76341,9,1,0
+Renaissance Studies,76346,9,0,1
+American Literary and Cultural Studies: Comtemporary Fiction,76347,9,0,1
+Lost Generation,76349,9,0,1
+"Interdisciplinary Studies in Listening, Culture, and Technology",76352,9,1,0
+South Asian Literature,76354,9,0,1
+"Leadership, Dialogue, and Change",76355,9,1,0
+Rhetoric and Narrative,76358,9,0,1
+Planning and Testing Documents,76359,9,1,0
+Literary Journalism Workshop,76360,9,0,1
+Reading in Forms: Nonfiction:,76362,9,0,1
+Readings in Forms: Fictions,76364,9,1,1
+Beginning Poetry Workshop,76365,9,1,1
+Genre Studies:,76367,9,1,0
+Independent Study in Literary and Cultural Studies,76370,3,1,1
+Topics in Journalism:,76372,9,1,0
+Topics in Rhetoric: Argument,76373,9,1,1
+Magazine Writing,76375,9,1,0
+Major Works of Modern Poetry:,76376,9,1,0
+Literacy: Educational Theory and Community Practice,76378,9,0,1
+Research for Writers: Writing and Arguing Cases,76380,9,0,1
+Language & Culture,76386,9,1,1
+Rhetorical Grammar,76389,9,0,1
+Style,76390,9,1,1
+Document Design,76391,12,1,0
+Rhetoric and Public Policy,76392,9,0,1
+Rhetoric Corpus Analysis,76393,9,0,1
+Research in English,76394,9,0,1
+Science Writing,76395,9,0,1
+Non-Profit Advocacy:,76396,9,1,0
+Literary Culture of Russia,76400,6,1,0
+New Methods in American Studies,76404,9,0,1
+History of German Film,76409,9,0,1
+18th Century Literary and Cultural Studies:,76412,9,1,0
+"Dissenters and Believers: Romanticism, Radicalism, and Religiosity, 1789-1830:",76414,9,1,1
+History of American Novel,76417,9,1,0
+Media in a Digital Age,76419,9,0,1
+Process of Reading and Writing,76420,9,0,1
+Rise of the American University,76426,9,0,1
+Visual/Verbal Communication,76428,9,1,0
+Digial Literary and Cultural Studies: Six Degrees of Francis Bacon:,76429,9,1,0
+20th Century American  Literary and Cultural Studies:,76434,9,0,1
+Advanced Seminar in Film and Media Studies:,76439,9,1,0
+Chaucer,76441,9,0,1
+Rhetoric and the Nation,76442,9,0,1
+Contemporary British and American Literary and Cultural Studies:,76443,9,0,1
+Postcolonial Theory,76453,9,0,1
+Literary and Cultural Studies:,76454,9,0,1
+Beginning Fiction Workshop,76460,9,1,1
+Special Projects: Screenwriting & Fiction Workshop,76461,9,1,0
+Advanced Fiction Workshop,76462,9,0,1
+Creative Nonfiction Workshop:,76464,9,1,0
+Advanced Poetry Workshop,76465,9,1,1
+Transnational Poety and Performance,76467,9,1,0
+Research Outside the Book,76468,9,1,0
+Advanced Screenwriting Workshop,76469,9,0,1
+Advanced Journalism,76472,9,0,1
+Software Documentation,76474,9,0,1
+Topics in Rhetoric:,76475,9,1,0
+Rhetoric of Science,76476,9,1,0
+"Marketing, Public Relations, and Corporate Communications",76479,9,0,1
+Writing for Multimedia,76481,12,1,0
+Web Design,76487,9,1,1
+Web Design Lab,76488,3,1,1
+Discourse and Identity,76490,9,0,1
+Healthcare Communications,76494,9,0,1
+Ethos/Pathos,76495,9,1,0
+Culture: Interdiciplinary Approaches,76497,9,1,0
+Senior Project,76511,9,1,1
+Professional Seminar,76700,3,1,0
+MAPW Spring Internship,76701,9,0,1
+Global Communication Center Tutoring Practicum,76702,3,1,0
+Independent Study in Creative Writing,76703,3,1,0
+Professional Internship,76705,0,1,1
+Editing and Publishing,76706,9,1,1
+Independent Study in Professional Writing,76707,3,1,1
+Professional Writing Project,76708,3,0,1
+Investigative Journalism Project,76709,5,0,1
+Professional Writing Elective,76710,9,1,0
+Communicating in the Global Marketplace,76718,9,0,1
+Environmental Rhetoric,76719,9,1,0
+Organizational Communication,76720,9,1,0
+Special Topics: Writing and Arguing Cases,76727,9,0,0
+Topics in Rhetoric,76740,9,0,1
+"Interdisciplinary Studies in Listening, Culture, and Technology",76752,12,1,0
+"Leadership, Dialogue, and Change",76755,9,1,0
+Rhetoric and Narrative,76758,9,0,1
+Planning and Testing Documents,76759,9,1,0
+Literary Journalism Workshop,76760,9,0,1
+Topics in Journalism:,76772,9,1,0
+Topics in Rhetoric: Argument,76773,9,1,1
+Software Documentation,76774,9,0,1
+Magazine Writing,76775,9,1,0
+Literacy: Educational Theory and Community Practice,76778,9,0,1
+"Marketing, Public Relations and Corporate Communications",76779,9,0,1
+Graduate Design Seminar II: Topics in Communication Design,76780,9,0,1
+Writing for Multimedia,76781,12,1,0
+Language and Culture,76786,9,1,1
+Narrative & Argument,76787,9,1,0
+Rhetorical Grammar,76789,9,1,0
+Style,76790,9,1,0
+Document Design,76791,12,1,1
+Rhetoric and Public Policy,76792,9,0,1
+Rhetoric Corpus Analysis,76793,9,0,1
+Healthcare Communications,76794,9,0,1
+Science Writing,76795,9,0,1
+Non-Profit Advocacy::,76796,9,1,0
+Directed Study in Rhetoric,76800,3,1,1
+Directed Study in Literary and Cultural Studies,76801,3,1,1
+Directed Study II,76802,3,0,1
+New Methods in American Studies,76804,9,0,1
+18th Century Literary and Cultural Studies:,76812,12,1,0
+"Dissenters and Believers: Romanticism, Radicalism, and Religiosity, 1789-1830:",76814,12,1,1
+History of the American Novel,76817,12,1,0
+Media in a Digital Age,76819,9,0,1
+Process of Reading and Writing,76820,9,0,1
+Visual/Verbal Communication,76828,9,1,0
+Digital Literary and Cultural Studies: Six Degrees of Francis Bacon:,76829,12,1,0
+20th Century Literary and Cultural Studies:,76834,12,0,1
+Film and Media Studies:,76839,12,1,0
+Chaucer,76841,12,0,1
+Rhetoric and the Nation,76842,9,0,1
+Shakespeare and Critical Theory,76843,12,0,1
+Literary and Cultural Studies I,76852,12,1,0
+Postcolonial Studies,76853,12,0,1
+Transnational Performance,76867,12,1,0
+Research Outside the Book,76868,12,1,0
+The Rise of Modern Criticism,76869,12,0,1
+Professional and Technical Writing,76870,9,1,0
+Advanced Journalism,76872,9,0,1
+Topics in Rhetoric:,76875,9,1,0
+Rhetoric of Science,76876,12,1,0
+History of Rhetoric,76882,9,0,1
+Discourse Analysis,76884,9,1,0
+Web Design,76887,9,1,1
+Web Design Lab,76888,3,1,1
+Discourse and Identity,76890,9,0,1
+Ethos/Pathos,76895,9,1,0
+Culture: Interdisciplinary Approaches,76897,12,1,0
+Independent Study in Rhetoric,76900,3,1,1
+Independent Study in Literary and Cultural Studies,76901,3,1,1
+Teaching Writing Practicum I,76902,0,1,0
+Teaching Writing Practicum II,76903,3,0,1
+ESL Practicum I,76904,0,1,0
+Readings in Literature,76910,3,1,1
+Directed Reading,76911,12,1,1
+PHD/R Pre-Dessertation Prospectus,76921,5,1,1
+PHD/R Dissertation Writing,76922,5,1,1
+PHD/LCS Dissertation Prospectus,76924,5,1,1
+PHD/LCS Dissertation Writing,76925,5,1,1
+Study Abroad,79050,0,1,0
+Study Abroad,79051,0,0,1
+Global Histories:,79104,9,1,1
+Freshman Seminar:Feast&Famine: Food Supplies and Food Crises in Past & Present,79157,9,1,0
+Freshman Seminar: Abraham Lincoln at 200: From 1809 to 2009,79170,9,0,1
+Freshman Seminar: The Politics of Science and Technology in a Cold War Era,79176,9,0,1
+Making Sense of Stories,79197,9,1,0
+Research Training History,79198,9,1,1
+Introduction to Historical Research,79200,12,1,1
+Socialism in 20th Century Eastern Europe,79203,9,0,1
+20th Century Europe,79205,9,0,1
+"China and Its Neighbors: Minorities, Conquerors and Tribute Bearers",79212,9,0,1
+Development and Democracy in Latin America,79221,9,1,0
+Between Revolutions: The Development of Modern Latin America,79222,9,0,1
+Introduction to African History: Earliest Times to 1780,79226,9,0,1
+"Origins of the Arab-Israeli Conflict, 1880-1948",79229,9,1,0
+Arab-Israeli Conflict and Peace Process since 1948,79230,9,0,1
+Political History of the Modern Middle East,79234,9,1,0
+Caribbean Cultures,79235,9,1,0
+Introduction to African Studies,79236,9,0,1
+Topics in Contemporary History: The Politics of the Arab Spring,79238,9,0,1
+The Development of American Culture,79240,9,1,0
+African American History: Reconstruction to the Present,79242,9,0,1
+Women in American History,79244,9,1,0
+The Civil War Era: 1848-1877,79247,9,1,0
+U.S. History 1877-1945,79248,9,1,0
+20th Century U.S.,79249,9,0,1
+"India/America: Democracy, Diversity, Development",79251,9,1,0
+Recent U.S. History 1945-Present,79252,9,1,0
+The Jewish Diaspora in Latin America,79254,9,1,0
+Irish History,79255,9,1,1
+Russian History: From the First to the Last Tsar,79265,9,1,0
+Russian  History: From Communism to Capitalism,79266,9,0,1
+Russian Studies Topics:,79271,6,1,0
+"Iberian Encounters: Muslims, Christians and Jews in Spain",79272,9,0,1
+Introduction to Global Studies,79275,9,0,1
+"Comparative Study of Nationalism Case Studies: USA, Arabia, South Africa",79279,9,0,1
+Introduction to Religion,79281,9,1,0
+Islam in the United States,79285,9,1,0
+"Bananas, Baseball, and Borders: Latin America and the United States",79288,9,0,1
+Animal Planet: An Environmental History of People and Animals,79289,9,0,1
+"China Inside Out: Going Global, 19th to 21st Centuries",79292,9,1,0
+Inward Odyssey,79293,9,0,1
+Islam on the Main Street in the West since the 18th Century::,79294,9,0,1
+Race Relations in the Atlantic World,79295,9,1,0
+Dilemmas and Controversies in Anthropology,79297,9,1,0
+Mobile Phones & Social Media in Development & Human Rights: A Critical Appraisal,79298,6,0,1
+Trafficking Persons: Children in a Global Context,79299,9,1,0
+History of American Public Policy,79300,9,1,0
+Jewish American Experience,79301,9,0,1
+"Drone Warfare: Ethics, Law, Politics, History, and Strategy",79302,6,0,1
+20th Century China Through Film,79309,9,1,0
+Introduction to Anthropology,79311,9,0,1
+The Politics and Culture of Memory,79314,9,1,0
+Hawai`i: America's Pacific Island State,79315,9,0,1
+Trajectories in Photography: Prehistory to 1945,79316,9,1,0
+Sustainable Social Change: History and Practice,79318,9,0,1
+"Women, Politics, and Protest",79320,9,0,1
+The Rise of the Modern Nation State,79321,9,1,0
+"Family Gender and Sexuality in European History, 500-1800",79323,9,1,0
+Photographers and Photography Since World War II,79328,9,0,1
+Health and the Environment in US History,79329,9,1,0
+Body Politics: Women and Health in America,79331,9,1,0
+Medical Anthropology,79332,9,0,1
+Drug Use and Drug Policy,79335,9,0,1
+Juvenile Delinquency and Film (1920-1950),79339,6,1,0
+"Juvenile Delinquency and Film: From ""Blackboard Jungle"" to ""The Wire""",79340,6,0,1
+History of American Urban Life,79343,9,0,1
+The Holocaust in Historical Perspective,79349,9,0,1
+Early Christianity,79350,9,0,1
+"Energy & Climate: History, Science, Technology, and Policy in the US 1776-2076",79354,9,0,1
+World Citizenship,79355,9,0,1
+The Faust Legend at Home and Abroad,79356,9,0,1
+History of Black American Music,79357,6,1,0
+"Sustainable Innovations: Ideas, Policies & Technologies to Make a Better Planet",79359,9,1,0
+"Law and Disorder in Early Modern Europe, 1400-1800",79362,9,0,1
+"Economy, the State, and Education: 1714-2014",79367,9,0,1
+Disastrous Encounters,79369,9,0,1
+American Environmental History: Critical Issues,79374,9,1,0
+"Food, Culture, and Power: A History of Eating",79377,9,1,0
+Islam and the Integration of Society,79378,9,1,0
+Ethnographic Methods,79380,9,0,1
+Epidemic Disease and Public Health,79383,9,0,1
+Stalin and Stalinism,79389,9,0,1
+Urban Revitalization,79394,9,0,1
+The Arts in Pittsburgh,79395,9,1,0
+Music and Society in 19th and 20th Century Europe and the U.S.,79396,9,0,1
+Documenting the 1967 Arab-Israeli War,79398,9,0,1
+Advanced Seminar in Global Studies,79400,12,1,1
+Historical Research Seminar,79420,12,1,0
+History of German Film,79424,9,0,1
+Russia's Demons,79427,9,1,0
+"Ethics, History, and Public Policy Project Course",79449,12,1,0
+Undergraduate Research Fellow,79450,9,0,1
+Language Enrichment,79490,3,1,1
+Independent Study,79491,3,1,1
+Independent Study,79492,3,1,1
+Senior Thesis I,79503,9,1,1
+Senior Thesis II,79504,9,0,1
+Undergraduate Internship,79505,3,1,0
+Global Studies Internship,79506,9,1,1
+Method and Theory in Historical Studies,79700,12,1,0
+Graduate Research Seminar I,79701,12,0,1
+Graduate Research Seminar II,79702,12,1,0
+Transnational Proseminar,79703,12,1,0
+Seminar in Instruction,79705,6,0,1
+Transnational Feminism,79723,12,0,1
+"Memory, History and the Archives",79740,12,1,0
+Readings,79800,3,1,1
+Supplementary Readings,79803,3,1,1
+History Prospectus,79892,5,1,1
+History Dissertation,79893,5,1,1
+Study Abroad,80050,0,1,0
+Study Abroad,80051,0,0,1
+Introduction to Philosophy,80100,9,1,1
+Freshman Seminar:,80105,9,1,0
+Freshman Seminar: Science Fiction And Philosophy,80106,9,0,1
+Nature of Mathematical Reasoning,80110,9,0,1
+Introduction to Ethics,80130,9,1,0
+Introduction to Political Philosophy,80135,9,0,1
+"Social Structure, Public Policy  & Ethics",80136,9,0,1
+Nature of Reason,80150,9,0,1
+Nature of Language,80180,9,1,1
+Research Training,80198,9,1,0
+Critical Thinking,80208,9,1,1
+Logic and Proofs,80210,9,1,1
+Logic and Mathematical Inquiry,80211,9,1,0
+Philosophy of Science,80220,9,0,1
+Revolutions in Science,80226,9,1,0
+Ethical Theory,80230,9,0,1
+Political Philosophy,80235,9,1,0
+Ethics of Leadership,80243,9,1,0
+Environmental Ethics,80244,9,1,0
+Medical Ethics,80245,9,0,1
+Moral Psychology,80246,9,0,1
+Modern Philosophy,80251,9,0,1
+Continental Philosophy,80253,9,1,0
+Analytic Philosophy,80254,9,0,1
+Nietzsche,80257,9,0,1
+Hume,80258,9,1,0
+Philosophy and Psychology,80271,9,1,0
+Philosophy of Religion,80276,9,0,1
+Linguistic Analysis,80280,9,0,1
+Phonetics and Phonology,80282,9,1,0
+Rational Choice,80305,9,1,0
+Formal Logic,80310,9,1,0
+Undecidability and Incompleteness,80311,9,0,1
+Logic and Artificial Intelligence,80314,9,0,1
+"Causation, Law, and Social Policy",80321,9,0,1
+Philosophy of Biology,80323,9,1,0
+Deliberative Democracy: Theory and Practice,80335,9,0,1
+Philosophy of Language,80380,9,0,1
+Meaning in Language,80381,9,1,0
+Language in Use,80383,9,0,1
+Morality Play: Laboratory for Interactive Media and Values Education,80391,12,0,1
+Game Theory,80405,9,0,1
+Proof Theory,80411,9,0,1
+Global Justice,80447,9,1,0
+EHPP Project Course,80449,12,1,0
+Independent Study,80495,3,1,1
+Philosophy Senior Honors Thesis I,80501,9,1,0
+Philosophy Senior Honors Thesis II,80502,9,0,1
+Thesis Seminar,80511,9,0,1
+Seminar on the Foundations of Statistics,80515,9,0,1
+Seminar on Causation,80516,9,1,0
+Seminar on Formal Epistemology,80521,9,1,0
+Seminar on Ethical Theory,80530,9,1,1
+Senior Thesis,80595,3,1,1
+Philosophy Core Seminar,80600,6,1,0
+Philosophy Core Seminar II,80602,6,0,1
+Rational Choice,80605,9,1,0
+Formal Logic,80610,12,1,0
+Undecidability and Incompleteness,80611,12,0,1
+Logic and Artificial Intelligence,80614,6,0,1
+Introduction to Formal Methods,80616,6,1,0
+Formal Methods Seminar,80617,6,0,1
+Topics in Logic I,80618,6,0,1
+Topics in Logic II,80619,6,0,1
+Philosophy of Biology,80623,12,1,0
+Seminar: Deliberative Democracy: Theory & Practice,80635,9,0,1
+Philosophy of Language,80680,12,0,1
+Meaning in Language,80681,5,1,0
+Language in Use,80683,12,0,1
+Morality Play: Laboratory for Interactive Media and Values Eduction,80691,12,0,1
+Honors Thesis,80695,6,1,1
+Game Theory,80705,12,0,1
+Proof Theory,80711,9,0,1
+Global Justice,80747,9,1,0
+Thesis Seminar,80811,12,0,1
+Seminar on the Foundations of Statistics,80815,9,0,1
+Seminar on Causation,80816,9,1,0
+Seminar on Formal Epistemology,80821,9,1,0
+Seminar on Ethical Theory,80830,9,1,1
+MS Thesis Project,80895,5,0,1
+Internship,80900,9,0,1
+Dissertation Research II,80989,5,1,1
+Directed Reading,80990,3,1,1
+Masters Research,80991,5,1,1
+Directed Reading,80992,3,1,1
+PH.D. Thesis,80993,5,1,1
+Directed Research,80994,5,1,1
+Seminar Supplement,80995,1,1,1
+Seminar Supplement,80997,3,0,1
+Philosophy Colloquium,80999,1,1,1
+Study Abroad,82050,0,1,0
+Study Abroad,82051,0,0,1
+Elementary French I,82101,12,1,1
+Elementary French II,82102,12,1,1
+Elementary French I Online,82103,12,1,1
+Elementary French II Online,82104,12,1,1
+Elementary Arabic I,82111,12,1,0
+Elementary Arabic II,82112,12,0,1
+Arabic for Global Exchange Online,82114,6,1,1
+Elementary German I,82121,12,1,1
+Elementary German II,82122,12,1,1
+Directed Language Study: Elementary German I or II,82123,12,1,1
+Elementary Chinese I,82131,12,1,0
+Elementary Chinese II,82132,12,0,1
+Elementary Chinese Online I,82133,12,1,0
+Elementary Chinese Online II,82134,12,0,1
+Intensive Elementary Chinese,82135,12,1,0
+Chinese Calligraphy Culture and Skills,82137,9,1,0
+Elementary Spanish I,82141,12,1,1
+Elementary Spanish II,82142,12,1,1
+Elementary Spanish I Online,82143,12,1,0
+Elementary Italian I,82161,12,1,0
+Elementary Italian II,82162,12,0,1
+Directed Language Study: Elementary Italian I or II,82163,12,1,1
+Elementary Japanese I,82171,12,1,1
+Elementary Japanese II,82172,12,0,1
+Freshman Seminar: Introduction to Russian Culture,82186,9,0,1
+Freshman Seminar: The Uses and Abuses of Haiti,82188,9,0,1
+Elementary Russian I,82191,12,1,0
+Elementary Russian II,82192,12,0,1
+Research Training: Modern Language,82198,3,1,1
+Intermediate French I,82201,9,1,1
+Intermediate French II,82202,9,1,1
+Intermediate Arabic I,82211,9,1,0
+Intermediate Arabic II,82212,9,0,1
+Introduction Modern Arabic Literature and Culture,82215,9,1,1
+Intermediate German I,82221,9,1,1
+Intermediate German II,82222,9,0,1
+Intermediate Chinese I,82231,12,1,0
+Intermediate Chinese II,82232,12,0,1
+Intensive Intermediate Chinese,82235,12,0,1
+Intermediate Spanish I,82241,9,1,1
+Intermediate Spanish II,82242,9,1,1
+"The Hispanic World: History, Culture and Globalization",82247,9,1,1
+Korean Culture Through Film,82253,9,0,1
+Intermediate Italian I,82261,9,1,0
+Intermediate Italian II,82262,9,0,1
+Intermediate Japanese I,82271,12,1,0
+Intermediate Japanese II,82272,12,0,1
+Introduction to Japanese Language and Culture,82273,9,1,1
+Japanese Literature in Translation,82278,9,1,1
+Learning About Language Learning,82280,9,1,0
+Tutoring for Community Outreach,82281,3,1,1
+Community Service Learning,82282,3,0,1
+Intermediate Russian,82291,9,1,0
+Intermediate Russian II,82292,9,0,1
+French Culture,82303,9,1,1
+The Francophone World,82304,9,1,1
+French in its Social Contexts,82305,9,1,1
+Arabic Language and Culture I,82311,9,1,0
+Arabic Language and Culture II,82312,9,0,1
+Readings in Islamic History,82313,9,1,0
+Business Arabic,82314,9,0,1
+"Contemporary Society in German, Austria and Switzerland",82320,9,1,0
+"Germany, Austria and Switzerland in the 20th Century",82323,9,0,1
+The Emergence of the German Speaking World,82327,9,1,0
+Advanced Chinese I,82331,9,1,0
+Advanced Chinese II,82332,9,0,1
+Introduction to Chinese Language and Culture,82333,9,1,1
+Readings in Chinese,82335,9,0,1
+Mandarin Chinese for Oral Communication I,82337,9,1,0
+Business Language and Culture in China I,82339,9,1,0
+Business Language & Cultures in China II,82340,9,0,1
+Spain: Language and Culture,82342,9,1,1
+Latin America: Language and Culture,82343,9,1,1
+U.S. Latinos: Language and Culture,82344,9,1,1
+Introduction to Hispanic Literary and Cultural Studies,82345,9,1,1
+Introduction to Italian Culture,82361,9,1,0
+Italian Language and Culture II,82362,9,0,1
+Advanced Japanese I,82371,9,1,0
+Advanced Japanese II,82372,9,0,1
+Structure of the Japanese Language,82373,9,1,0
+Technical Japanese,82374,9,0,1
+Second Language Acquisition: Theories and Research,82383,9,1,0
+Language Across the University,82385,3,0,1
+Independent Study in Language and Culture-Advanced Level,82389,3,1,1
+The Faust Legend at Home and Abroad,82396,9,0,1
+Russia's Demons,82397,9,1,0
+Special Topics Russian,82399,3,1,0
+Russian Studies Topics:,82400,6,1,0
+Topics in French and Francophone Studies:,82415,9,1,0
+Topics in French and Francophone Studies,82416,9,0,1
+Topics in German Literature and Culture:,82425,9,1,0
+Nazi and Resistance Culture,82427,9,0,1
+History of German Film,82428,9,0,1
+Studies in Chinese Traditions:,82434,9,0,1
+Studies in Chinese Literature & Culture:,82440,9,1,1
+Studies in Peninsular Literature and Culture,82441,9,0,1
+Modern Arabic Literature,82447,9,0,1
+Studies in Latin American Literature and Culture:,82451,9,1,0
+Topics in Hispanic Studies:,82455,9,0,1
+Topics in Japanese Studies:,82473,9,1,0
+Topics of Japanese Studies:,82474,9,0,1
+Service Learning in the Community,82489,9,1,1
+Topics in Applied Second Language Acquisiton:,82495,9,0,1
+Special Topics: French,82501,3,1,0
+Special Topics: French,82502,3,0,0
+Undergraduate Internship,82505,1,1,0
+Hispanic Studies Internship,82506,3,1,0
+Special Topics: German:,82521,3,1,0
+Special Topics: German,82522,3,0,0
+Special Topics Chinese,82531,3,1,0
+Special Topics Chinese,82532,3,0,0
+Special Topics: Hispanic Studies,82541,3,1,0
+Special Topics: Hispanic Studies,82542,3,0,0
+Special Topics: Italian,82561,3,1,0
+Special Topics: Italian,82562,3,0,0
+Special Topics: Japanese,82571,3,1,0
+Special Topics: Japanese,82572,3,0,0
+Senior Seminar in Modern Languages,82580,3,0,1
+Topics in Second Language Acquisition:,82585,9,0,1
+Russian Studies Thesis,82599,3,1,1
+Topics in Applied Second Language Acquistion:,82732,9,0,1
+The Structure of Spanish - Graduate Level,82744,9,0,1
+Graduate Research Seminar,82780,3,1,1
+Second Language Acquisition: Theories and Research,82783,9,1,0
+Guided Research,82789,3,1,1
+Teaching Methodologies for the Foreign Language Classroom,82793,9,1,0
+Research Methods in Second Language Acquisition,82881,9,0,1
+Topics in Second Language Acquisition:,82888,9,1,1
+Learning About Language Learning,82889,9,1,0
+Research Team Apprenticeship,82892,9,1,1
+Teaching in Modern Language and Cultures I,82893,3,1,0
+Teaching in Modern Languages and Culture II,82894,9,0,1
+Language Education Planning and Policy,82895,9,0,1
+Second Language Acquisition Dissertation Research,82989,3,1,1
+Study Abroad,85050,0,1,0
+Study Abroad,85051,0,0,1
+Introduction to Psychology,85102,9,1,0
+Hot Scientific Psychology Issues in the Popular Press                 s,85116,9,1,0
+Freshman Seminar: How Children Learn Mathematics,85121,9,0,1
+Freshman Seminar: What is Scientific Thinking and How Can It Be Taught?,85122,9,1,0
+Understanding Memory and Memory Illusions,85131,0,0,1
+Research Training: Psychology,85198,9,1,1
+Cognitive Psychology,85211,9,1,1
+Human Information Processing and Artifical Intelligence,85213,9,1,0
+Biological Foundations of Behavior,85219,9,1,0
+Principles of Child Development,85221,9,1,1
+Social Psychology,85241,9,1,1
+Personality,85251,9,1,1
+Abnormal Psychology,85261,9,1,1
+Introduction to Clinical Psychology,85281,9,1,1
+Research Methods in Cognitive Psychology,85310,9,1,1
+Cognitive Neuroscience Research Methods,85314,9,0,1
+Research Methods in Developmental Psychology,85320,9,1,1
+Research Methods in Social Psychology,85340,9,1,1
+Psychology of Prejudice,85350,9,0,1
+Evolutionary Psychology,85352,9,0,1
+Pro-Social Behavior,85358,9,0,1
+Perception,85370,9,1,0
+Crosscultural Psychology,85375,9,1,0
+Attitudes and Persuasion,85377,9,1,0
+In Search of Mind: The History of Psychology,85380,9,0,1
+Auditory Perception: Sense of Sound,85385,9,0,1
+Human Memory,85390,9,1,0
+Human Expertise,85392,9,1,0
+Advanced Topics in the Biological Foundations of Behavior:,85393,9,0,1
+"Film, Philosophy, and  Cognitive Science:",85394,9,0,1
+Applications of Cognitive Science,85395,9,0,1
+Autism: Psychological and Neuroscience Perspectives,85406,9,1,0
+Visual Cognition,85408,9,1,0
+Introduction to Parallel Distributed Processing,85419,9,0,1
+Language and Thought:,85421,9,0,1
+Cognitive Development,85423,9,1,0
+Learning in Humans and Machines:,85426,9,0,1
+Cognitive Brain Imaging:,85429,9,0,1
+Scientific Research in Education,85436,9,0,1
+"Educational Goals, Instruction, and Assessment",85438,9,1,0
+Health Psychology,85442,9,1,0
+Social Factors and Well-Being,85443,9,0,1
+Relationships,85444,9,1,0
+Psychology of Gender,85446,9,1,0
+Internship in Clinical Psychology,85480,6,1,1
+Seminar in Intervention,85481,9,1,0
+Internship in Psychology,85482,3,1,1
+Practicum in Child Development,85484,9,1,1
+"Stress, Coping and Well-Being",85501,9,0,1
+Readings In Psychology,85505,3,1,0
+Readings in Psychology,85506,1,0,1
+Research in Psychology,85507,3,1,0
+Research in Psychology,85508,1,0,1
+Professional Development in Clinical Psychology and Related Fields,85510,3,1,0
+Senior Thesis,85601,9,1,0
+Senior Thesis,85602,9,1,1
+"Stress, Coping and Well-Being",85701,9,0,1
+Graduate Core Course: Social:,85705,9,0,1
+Visual Cognition,85708,9,1,0
+Graduate Core Course: Developmental,85710,9,1,0
+Research Presentation,85716,9,0,1
+Introduction to Parallel Distributed Processing,85719,9,0,1
+Cognitive Development,85723,9,1,0
+Cognitive Brain Imaging:,85729,9,0,1
+Scientific Research in Education,85736,9,0,1
+"Educational Goals, Instruction, and Assessment",85738,9,1,0
+Health Psychology,85742,9,1,0
+Social Factors and Well-Being,85743,9,0,1
+Relationships,85744,9,1,0
+Psychology of Gender,85746,9,1,0
+Research Methods for the Learning Sciences,85748,12,0,1
+Pro-Social Behavior,85758,9,0,1
+Cognitive Neuroscience,85765,9,1,0
+Perception,85770,9,1,0
+Crosscultural Psychology,85775,9,1,0
+Attitudes and Persuasion,85777,9,1,0
+In Search of Mind: The History of Psychology,85780,9,0,1
+Graduate Reading and Research,85781,0,1,1
+Auditory Perception: Sense of Sound,85785,9,0,1
+Human Memory,85790,9,1,0
+Human Expertise,85792,9,1,0
+Advanced Topics in the Biological Foundations of Behavior:,85793,9,0,1
+Teaching Practicum,85794,9,1,1
+Applications of Cognitive Science,85795,9,0,1
+Autism: Psychological and Neuroscience Perspectives,85806,9,1,0
+Topics in Psychology,85811,5,1,1
+Psychology of Prejudice,85850,9,0,1
+Evolutionary Psychology,85852,9,0,1
+Thesis Research,85881,0,1,1
+Dissertation Research,85981,0,1,1
+"Freshman Seminar: Consciousness: Normal, Disordered and Absent",86110,9,1,0
+Fresh Seminar: Immortui Cerebrum: The neuroanatomy of zombie minds,86111,9,1,0
+Computational Perception,86375,9,1,0
+"Film, Philosophy and Cognitive Science",86450,9,0,1
+Neural Data Analysis,86631,9,1,0
+Computational Perception,86675,12,1,0
+Reading and Research in Computational Neuroscience,86700,3,1,1
+PhD Thesis Research,86800,6,1,1
+Study Abroad,88050,0,1,0
+Study Abroad,88051,0,0,1
+Washington Semester,88061,36,0,1
+Decision Processes in American Political Institutions,88104,9,1,0
+SDS Freshman Seminar: Human Rights and Global Politics,88111,9,1,0
+"Reason, Passion and Cognition",88120,9,0,1
+Freshman Seminar: Introduction to Game Theory & Strategy,88122,9,1,0
+Freshman Seminar: Democracies and War,88124,9,0,1
+Topics in Law: 1st Amendment,88181,9,1,0
+Topics of Law: The Bill of Rights,88184,9,0,1
+Research Training: Social and Decision Sciences,88198,6,1,1
+Comparative Politics,88205,9,0,1
+Comparative Political Systems,88210,9,1,0
+Policy Analysis I,88220,9,1,0
+Policy Analysis II,88221,9,0,1
+Decision Analysis and Decision Support Systems,88223,9,0,1
+Empirical Research Methods,88251,9,1,0
+Empirical Research for Social Science and Policy,88252,9,0,1
+Organizations,88260,9,0,1
+Behavioral Decision Making,88302,9,1,0
+Judicial Politics & Behavior,88309,9,1,0
+Domestic Politics and International Affairs,88320,9,0,1
+Theories of International Relations,88326,9,1,0
+Perspectives on Industrial Research and Development,88345,9,1,0
+Social Brains: Neural Bases of Social Perception and Cognition,88355,9,0,1
+"Comparative Foreign Policy: China, Russia, and the US",88357,9,1,0
+Globalization,88359,9,1,0
+Behavioral Economics,88360,9,1,0
+Behavioral Economics and Public Policy,88365,9,0,1
+Behavior Economics in the Wild,88367,9,0,1
+"Entrepreneurship, Regulation and Technological Change",88371,9,0,1
+Conflict and Conflict Resolution in International Relations,88384,9,1,0
+Social Norms and Economics,88387,9,1,0
+Psychological Models of Decision Making,88388,9,1,0
+Terrorism and Insurgency,88389,9,0,1
+Technology and Economic Growth,88391,9,1,0
+Legislative Decision-Making: U.S. Congress,88393,9,0,1
+Independent Study,88398,1,1,1
+Undergraduate Research,88399,1,1,1
+Modeling Complex Social Systems,88402,9,0,1
+Economics of Networks and Information,88404,9,0,1
+Risk Perception and Communication,88405,9,0,1
+The Rise of the Asian Economies,88411,9,1,0
+"Energy and Climate: History, Science, Technology, & Policy in the US 1776-2076",88413,9,0,1
+International and Subnational Security,88414,9,1,0
+Negotiation:,88419,9,1,0
+"Emotion: Physiology, Neurobiology, Expression, and Decision Making",88421,9,1,0
+International Policy Decision Modeling Workshop,88432,9,0,1
+The Shale Gas Revolution: Public Policy Challenges,88433,12,1,0
+Analysis of Uncertain Social Systems,88435,9,0,1
+Decision Science in Intergroup Conflict,88442,9,1,0
+IRP Capstone Policy Forum,88450,3,1,0
+Policy Analysis Senior Project,88451,12,0,1
+Policy Analysis Senior Project,88452,12,1,0
+Advanced Undergraduate Research,88499,1,1,1
+Undergraduate Internship,88505,1,1,1
+Behavioral Decision Making,88602,12,1,0
+Risk Perception and Communication,88605,12,0,1
+Modeling Complex Social Systems,88612,12,0,1
+Negotiation,88619,12,1,0
+Decision Analysis and Decision Support Systems,88623,12,0,1
+Analysis of Uncertain Social Systems,88635,12,0,1
+Perspectives on Industrial Research and Development,88645,12,1,0
+Behavioral Economics and Public Policy,88665,12,0,1
+Behavioral Economics in the Wild,88667,12,0,1
+Technology and Economic Growth,88691,12,1,0
+Topics in Judgment and Decision Making,88719,6,1,0
+"Emotion: Physiology, Neurobiology, Expression & Decision Making",88721,12,1,0
+Economics of Technological Change,88743,12,1,0
+Perspectives on Industrial Research and Development,88749,12,1,0
+Globalization,88759,12,1,0
+Dynamic Models for Firm Decision Making and Industrial Competition,88762,12,0,1
+Experimental Economics,88767,12,1,0
+?Us versus Them?: The Psychology of Group Processes and Intergroup Relations,88775,12,0,1
+Social Norms and Economics,88787,12,1,0
+"Entrepreneurship, Growth and Industrial Change",88791,12,0,1
+Graduate Independent Study,88898,0,1,1
+Graduate Research Seminar I,88900,6,1,0
+Graduate Research Seminar II,88901,6,0,1
+Outside Research,88905,1,1,1
+Pre-Dissertation,88940,0,0,1
+Dissertation,88950,5,1,1
+Dissertation,88951,36,1,1
+Graduate Reading and Research,88998,0,0,1
+Consortium Study,90699,1,1,0
+Heinz School Review,90700,1,1,1
+Practicum,90701,1,1,1
+Women and Public Policy,90703,6,0,1
+Policy Analysis I,90705,12,1,1
+Healthcare Ethics,90708,6,0,1
+Applied Economic Analysis,90710,12,1,1
+Empirical Methods for Public Policy and Management,90711,12,1,1
+Policy and Politics an International Perspective,90713,12,0,1
+Policy and Politics in American Institutions,90714,12,0,1
+Strategic Presentation Skills,90718,6,1,1
+Physical Technical Systems I,90719,12,1,0
+Physical Technical Systems II,90720,12,0,1
+Healthcare Management,90721,6,0,1
+Management Science I: Optimization & Multicriteria Methods,90722,6,0,1
+Financial Analysis,90724,12,0,1
+Money and Politics,90726,6,1,0
+Introduction to Database Management,90728,6,1,0
+Methods of Policy Analysis,90730,12,1,0
+Management Methods,90731,12,1,0
+Urban Development,90733,6,0,1
+Urban Policy,90734,6,0,1
+Public Finance,90736,12,1,1
+Budget Management Control System,90737,12,1,0
+Systems Synthesis I,90739,12,1,1
+Systems Synthesis,90740,12,1,1
+Seminar in Criminal Justice,90742,12,0,1
+Urban and Regional Economic Development,90743,12,1,0
+Accounting and Control in Not for Profit Organizations,90744,6,0,1
+Urban Economics,90746,12,0,1
+Cost Benefit Analysis,90747,6,1,1
+Real Estate Development,90748,6,0,1
+The Rise of East Asian Economies,90752,12,1,0
+Intermediate Management Science I,90755,6,0,1
+Technology and Economic Growth,90756,12,1,0
+International Policy Decision Modeling Workshop,90759,12,0,1
+Management Science II,90760,6,0,1
+Macroeconomics,90762,12,1,0
+Human Rights Conflicts & Development,90763,6,1,0
+"Cities, Techonology and the Environment",90765,6,0,1
+Welfare Policy,90767,12,0,1
+Energy and the Environment,90768,12,1,0
+Operations Research,90772,6,0,1
+Public Expenditure Analysis,90774,12,0,1
+Intermediate Management Science II,90775,6,0,1
+Media and Public Policy Making,90778,6,1,0
+The Shale Gas Revolution: Public Policy Challenges,90779,12,1,0
+Multi Media,90782,12,1,1
+Shaping the Policy Narrative,90783,6,1,0
+Intermediate Empirical Methods for Public Policy Management,90786,12,1,0
+Sustainable Community Development,90789,12,0,1
+Law and Economics,90791,12,1,0
+Applied Demography,90792,12,0,1
+Labor Economic Policy,90795,6,1,0
+Human Resources Policy and Modeling,90796,12,1,0
+Environmental Policy & Planning,90798,12,1,0
+Desktop Publishing,90801,6,1,1
+Risk Analysis,90805,12,0,1
+Energy Policy,90808,6,0,1
+Population and Policy,90810,12,1,0
+Foundation of Social Innovation and Enterprise,90811,6,1,0
+Introduction to Migration Policy,90816,6,1,0
+Health Care Quality & Performance Improvement,90818,6,1,0
+Health Care Information Security,90820,12,1,0
+Immigration Policy Analysis,90822,6,0,1
+Program Evaluation,90823,12,1,1
+Cost Benefit Analysis,90824,12,0,1
+Innovation Management in Practice,90825,3,1,1
+Education Policy Analysis,90826,6,0,1
+Economics of Development,90827,12,0,1
+Introduction to Financial Management of Health Care,90830,6,0,1
+Advanced Financial Management of Health Care,90831,6,0,1
+Health Law,90832,12,0,1
+Population Health,90833,6,0,1
+Health Care Geographical Information Systems,90834,12,0,1
+Health Systems,90836,6,1,0
+Global Health Policy,90839,6,1,0
+Legislative Policy Making,90840,6,0,1
+Public Policy Implementation,90842,6,0,1
+Public Leadership,90844,12,0,1
+Social Innovation Incubator,90845,12,0,1
+Policy Practicum: Restoring the American Dream & its Political Platform,90846,6,1,0
+Micro Finance Development,90858,6,0,1
+Policy in a Global Economy,90860,6,1,0
+Health Policy,90861,6,1,0
+Health Policy II,90863,6,0,1
+Large Scale Data Analysis for Public Policy,90866,6,0,1
+Special Topics: New Technology Commercialization:  Public Policy Strategies,90869,12,0,0
+Special Topics: Principles & Practices of R&D Management,90874,6,1,0
+Health Care Marketing,90877,6,1,0
+Policy Analysis Capstone,90878,12,1,0
+Managerial and Engineering Economics,90879,12,0,1
+The Strategy and Management of Technological Innovation,90880,12,0,1
+Systems: Project Planning,90884,3,1,0
+Washington Seminar,90888,3,1,0
+Policy Topics I: Federal Budget Policy,90894,6,1,1
+Policy Topics: Information Security Policy,90895,6,0,1
+Policy Topics: International Development Policy,90896,6,0,1
+Advanced Placement,90898,1,1,1
+Bio Technology Apprenticeship,90899,6,1,1
+Internship,90900,0,1,1
+Ph.D. Seminar I,90901,12,1,0
+Ph.D. Seminar II,90902,12,0,1
+Research Seminar in Machine Learning and Policy,90904,6,0,1
+Statistical Theory for Social and Policy Analysis,90905,12,1,0
+Introduction to Econometric Theory,90906,12,0,1
+Econometric Theory and Methods,90907,12,1,0
+Ph.D. Microeconomics,90908,12,1,0
+"Incentives, Organizations, Labor Markets",90909,6,1,0
+Demography,90912,12,0,1
+Organizations Theory,90917,12,1,0
+Ph.D. Seminar III,90918,12,1,0
+Ph.D. Readings and Research,90920,5,1,0
+Special Topics in Machine Learning & Policy,90921,6,0,0
+Ph.D. Readings and Research,90925,1,1,1
+Seminar in Criminal Justice,90926,12,0,1
+LARC Graduate Seminar,90931,9,1,1
+Independent Study,90932,1,1,1
+Policy Seminar,90933,12,1,1
+Independent Study,90934,1,1,1
+Independent Study,90935,6,1,1
+Independent Study,90936,1,1,1
+Independent Study,90937,1,1,1
+Independent Study,90938,1,1,1
+Independent Study,90939,1,1,1
+Independent Study,90940,1,1,1
+Independent Study,90941,6,1,1
+Independent Study,90942,1,1,1
+Independent Study,90943,1,1,1
+Independent Study,90944,1,1,1
+Independent Study,90945,1,1,1
+Independent Study,90946,1,1,1
+Independent Study,90947,1,1,1
+Independent Study,90948,1,1,1
+Independent Study,90949,1,1,1
+Independent Study,90950,1,1,1
+Independent Study,90951,1,1,1
+Independent Study,90952,1,1,1
+Independent Study,90953,1,1,1
+Independent Study,90954,1,1,1
+Independent Study,90955,1,1,1
+Independent Study,90956,1,1,1
+Independent Study,90957,1,1,1
+Independent Study,90958,1,1,1
+Independent Study,90959,1,1,1
+Independent Study,90960,1,1,1
+Independent Study,90961,1,1,1
+Independent Study,90962,1,1,1
+Independent Study,90963,1,1,1
+Independent Study,90964,1,1,1
+Independent Study,90965,1,1,1
+Independent Study,90966,1,1,1
+Independent Study,90967,1,1,1
+Independent Study,90968,1,1,1
+Independent Study,90969,1,1,1
+Independent Study,90970,1,1,1
+Independent Study,90971,1,1,1
+Independent Study,90972,1,1,1
+Independent Study,90973,1,1,1
+Independent Study,90974,1,1,1
+Independent Study,90975,1,1,1
+Independent Study,90976,1,1,1
+Independent Study,90977,1,1,1
+Independent Study,90978,1,1,1
+Independent Study,90979,1,1,1
+Policy Seminar,90980,0,1,1
+Convocation,90981,0,1,0
+Career Seminar,90982,0,1,1
+Political Issues Seminar,90983,0,0,1
+Decision Systems Seminar,90984,0,0,1
+Applied Microeconomics Seminar,90985,0,1,1
+Career Services Workshop,90986,0,1,1
+Quantitative Methods,91600,0,1,0
+Strategic Presentation Skills,91718,6,1,0
+MPM Capstone,91739,12,0,1
+Organizational Management,91800,12,1,1
+Data Analysis for Managers,91801,12,1,1
+Information Systems for Managers,91802,12,1,1
+Economic Principles of Policy Analysis,91803,12,0,1
+Financial Analysis for Managers,91804,12,0,1
+Strategic Human Resource Management,91807,6,0,1
+Organizational Change,91809,6,0,1
+Labor Relations,91814,6,0,1
+Strategic Planning,91820,12,1,1
+Human Resource Management,91822,12,0,1
+Legal Issues in Human Resources Management,91824,12,0,1
+Ethical Issues in Management,91828,6,1,0
+Power and Influence,91843,6,1,1
+Managing Quality Improvement,91844,12,0,1
+Financial Management,91855,12,1,0
+Spreadsheet Modeling Analysis,91858,6,1,0
+Conflict Resolution,91869,6,1,0
+Managing Professional Development in School Environment,91887,6,0,1
+Current Issues in K-12 Leadership II,91888,6,0,1
+Internship,91889,0,1,1
+Advanced Placement,91898,1,0,1
+Change Management,92800,6,1,0
+Evidence-Based Management,92814,6,0,1
+Project Management,92821,6,1,0
+Executive Leadership,92871,6,1,1
+Operations Management,92872,6,1,0
+Lean for Healthcare Quality,92873,6,1,0
+Business Plan Development III,92878,12,1,0
+Digital Transformation                   e,92879,6,0,1
+Statistical Process Control,92881,6,1,0
+Health Finance,92882,6,1,0
+Business Plan Development I,92883,6,0,1
+Negotiation and Conflict Resolution,92886,6,0,1
+Health Economics,92889,6,1,0
+Strategic Health Care Marketing,92890,6,0,1
+Health Policy,92891,6,1,1
+Infrastructure Management,92892,6,1,1
+"Managing Mergers, Alliances and Divestitures",92893,12,0,1
+Health Law,92894,6,1,1
+Introduction to Information Technology,92896,6,1,1
+Health Care Quality,92897,6,1,1
+Business Plan Development II,92898,6,0,1
+Advanced Health Policy,92980,6,0,1
+Creative Enterprises: Structures and Governance,93701,6,1,0
+Creative Enterprises:  Management Systems and Practices,93702,6,1,0
+Cultural Economics,93710,12,1,0
+Entrepreneurship in Creative Enterprises,93711,6,0,1
+Human Resource Management in Creative Enterprises,93716,6,1,0
+Technology Planning and Implementation for Creative Enterprises,93731,6,0,1
+Database Theory and Practice for Creative Enterprises,93732,6,1,0
+Creative Enterprises: For-Profit Systems and Structures,93751,6,0,1
+Stanley Kubrick and his Films,93766,6,0,1
+The Films of the Coen Brothers,93769,6,1,0
+Arts Education,93804,6,0,1
+Museum Operations,93807,6,0,1
+Exhibitions Management,93808,6,1,0
+Public Art,93809,6,0,1
+Performing Arts Organizations: Business Models and Management Issues,93811,6,1,0
+Planing & Managing Performing Arts,93812,6,0,1
+Arts Facilities Management,93813,6,1,0
+Galleries and Auction Houses: Economics of the Art Market,93814,6,1,0
+Audience Engagement,93815,6,0,1
+Arts Marketing and Public Relations,93821,6,0,1
+Fund Raising Fundamentals for Arts Managers,93826,6,0,1
+Sponsorships and Grants: Strategies and Practices,93827,6,0,1
+Advanced Topics in Fundraising,93828,6,1,0
+Law and the Arts,93831,12,1,0
+Aesthetic Critical Judgement,93835,6,1,0
+Managing Cultural Heritage: Identity and Sustainability,93836,6,0,1
+Cultural Policy Seminar,93845,6,1,0
+Cultural Policy & Advocacy in the US,93846,6,0,1
+"Film Economics, Marketing & Distribution",93851,12,1,0
+Production Management,93852,6,1,0
+Digital Content & Delivery,93853,6,0,1
+Film Acquistion,93854,3,0,1
+Intellectural Property,93855,6,0,1
+Business Development,93856,6,1,0
+Business of Gaming,93857,4,0,1
+Market Research in the Entertainment Industry,93858,3,1,0
+Music Supervision,93859,6,0,1
+Script/Story Analysis,93861,6,1,0
+Multi Platform Prod & Mktg,93863,3,1,0
+Future of Industry,93865,3,1,0
+Creative Producing,93866,6,0,1
+Entertainment Ethics,93868,3,1,0
+Television Economics,93869,6,1,0
+Film/Television Business and Legal Affairs,93871,9,0,1
+Film Exhibition,93873,3,0,1
+Television Marketing and Advertsing,93876,6,1,0
+Navigating the Practical Realities of the Film Industry,93879,3,1,0
+Practicum I,93887,1,1,0
+Practicum II,93888,1,0,1
+Capstone Management Project I,93889,3,1,0
+Capstone Management Project II,93890,9,0,1
+Study Abroad,94050,1,0,1
+Organizational Design & Implementation,94700,6,1,1
+Business English,94701,6,1,1
+Professional Writing,94702,6,1,1
+Health Economics,94705,12,1,0
+Healthcare Information Systems,94706,12,0,1
+Principles o f Marketing,94707,6,1,0
+Strategic Presentation Skills,94718,6,1,1
+Capstone Project,94739,24,1,0
+Advanced Standing,94799,9,0,1
+Negotiation,94800,6,1,1
+Acting for Management,94801,6,1,1
+Geographic Information Systems,94802,12,1,1
+Consulting Communication,94803,6,1,0
+Transformational Leadership,94804,6,1,0
+Privacy in the Digital Age,94806,6,1,1
+Management Consulting,94808,12,1,1
+Introduction to Supply Chain Management and Systems,94810,6,1,1
+Strategy Development,94811,6,1,1
+Technology and International Development,94812,6,1,0
+Project Management,94813,6,1,1
+Evidence-Based Management,94814,6,1,0
+Negotiation: International Focus,94817,12,1,0
+China Today,94820,3,1,0
+Brazil Today,94822,3,0,1
+Measurement & Analysis Social Media Initiatives,94823,12,1,1
+Creating Results-Oriented Programs,94824,6,1,0
+SAS for Public Policy,94827,6,0,1
+Survey Design,94828,6,0,1
+Analysis of Survey Data,94830,6,0,1
+Design & Policy for Humanitarian Impact,94831,12,1,0
+Business Intelligence & Data Mining SAS,94832,6,1,1
+Decision Analysis and Multicriteria Decision Making,94833,6,1,0
+Applied Econometics I,94834,6,1,0
+Applied Econometrics II,94835,6,1,0
+Performance Management,94837,6,0,1
+Introduction to Raster GIS,94838,6,0,1
+Lean Entrepreneurship,94840,6,1,1
+Programming R for Analytics,94842,6,1,0
+Research Seminar in Arts Management and Technology,94843,6,1,1
+Muslims in a Global Context: Southeast Asia:,94844,3,1,0
+Smart Cities: Growth and Intelligent Transportation Systems,94845,6,1,1
+"Coaching, Training & Employee Development",94846,6,0,1
+"The Global Financial System: Growth, Crisis & Opportunity",94847,12,0,1
+Mobile Phones & Social Media in Development & Human Rights: A Critial Appraisal,94848,6,0,1
+Muslims in a Global Context: Central Asia,94849,3,0,1
+Apprenticeship,94899,0,1,1
+Distributed Systems,95702,12,1,1
+Database Management,95703,12,1,1
+Advanced Database Management,95704,12,1,1
+Telecommunications Management,95705,12,1,1
+Object Oriented Analysis and Design,95706,6,1,1
+Economic Analysis,95710,6,1,1
+Object Oriented Programming in JAVA,95712,12,1,1
+Intermediate Java II,95713,6,1,0
+Financial Accounting,95715,6,1,1
+Principles of Finance,95716,6,1,1
+Professional Speaking,95718,6,1,1
+Information Systems Project,95720,0,1,1
+Information Systems Research Practicum,95721,24,1,1
+Digital Transformation,95722,6,1,1
+Basics of Financial Statement Literacy,95725,6,0,1
+Fundamentals of Finance,95726,6,0,1
+Electronic Commerce Technologies,95729,6,1,0
+E-Business Technology and Management,95730,12,1,0
+Interactive Marketing,95732,6,0,1
+Internet Technologies,95733,6,1,1
+E-business Management: A Strategic Perspective,95741,6,0,1
+Introduction to Information Security Management,95752,12,1,1
+Internet Security,95753,6,1,1
+Information Security Risk Analysis,95756,6,0,1
+Information Security Policy & Management,95757,6,0,1
+Decision Making Under Uncertainty,95760,6,1,1
+Cybersecurity in Critical Infrastructure,95761,6,0,1
+Information Security Project,95765,36,1,1
+Defensive Hacking: Tactical & Strategic,95768,12,0,1
+Network Security Analysis,95769,12,1,1
+Data Structures and Algorithms,95771,12,1,1
+Data Structures for Application Programmers,95772,6,1,0
+Business Process Modeling,95774,6,1,1
+IT Business Leadership,95775,6,1,0
+Global eBusiness Strategies,95782,12,1,0
+Data Mining,95791,6,1,1
+Tech Startup: Tools and Techniques,95794,6,1,0
+Statistics for IT Managers,95796,6,1,1
+Data Warehousing,95797,6,1,1
+Linux and Open Source,95799,6,1,1
+Business Communications,95805,6,1,0
+Object-Oriented Programming (Java),95807,12,0,1
+IT Project Management,95808,6,1,1
+Introduction to the ITIL Framework,95812,6,0,1
+Intermediate Database Management,95813,6,1,0
+"Privacy, Policy Law & Technology",95818,12,1,0
+Strategic Management and Implementation,95820,6,0,1
+Product Management in IT,95821,6,0,1
+IT Consulting,95822,12,0,1
+Policies of Wireless Systems and the Internet,95824,12,1,0
+Corporate Finance,95825,6,0,1
+Introduction to Security and Policy,95830,12,0,1
+Enterprise Architectures,95831,6,1,1
+Global IT Management and Sourcing,95833,12,1,0
+Global IT Sourcing,95837,6,1,0
+Information Assurance Policy,95841,12,1,0
+Service Oriented Architectures,95843,6,1,1
+Analytics and Business Intelligence,95852,6,0,1
+Network Situational Awareness,95855,12,1,0
+Innovation & Technology,95859,6,1,0
+Text Analytics,95865,6,1,1
+Advanced Business Analytics,95866,6,0,1
+Enterprise Innovation,95867,12,0,1
+Exploring and Visualizing Data,95868,6,0,1
+Hadoop and MapReduce,95869,6,1,0
+Managing Analytics Projects,95870,6,1,0
+Mobile Application Development,95871,12,1,0
+The Art & Science of Business Analytics,95872,6,0,1
+Internship,95900,0,1,1
+Independent Study,95901,1,1,1
+Independent Study,95902,1,1,1
+Independent Study,95903,1,1,1
+Independent Study,95904,1,1,1
+Independent Study,95905,1,1,1
+Independent Study,95906,6,1,1
+Independent Study,95907,1,1,1
+Independent Study,95908,1,1,1
+Independent Study,95909,1,1,1
+Independent Study,95910,1,1,1
+Independent Study,95911,1,1,1
+Independent Study,95912,1,1,1
+Independent Study,95913,1,1,1
+Independent Study,95914,1,1,1
+Independent Study,95915,1,1,1
+Independent Study,95916,1,1,1
+Independent Study,95917,1,1,1
+Independent Study,95918,1,1,1
+Independent Study,95919,1,1,1
+Independent Study,95920,1,1,1
+Independent Study,95921,1,1,1
+Independent Study,95922,1,1,1
+Independent Study,95923,1,1,1
+Independent Study,95924,1,1,1
+Independent Study,95925,1,1,1
+Independent Study,95926,1,1,1
+Independent Study,95927,1,1,1
+Independent Study,95928,1,1,1
+Independent Study,95929,1,1,1
+Independent Study,95930,1,1,1
+Independent Study,95931,1,1,1
+Foundations of Software Engineering I,96700,24,1,0
+Requirements Engineering,96702,12,1,0
+Metrics for Software Engineers,96703,12,0,1
+Architecture and Design,96705,12,1,0
+Avoiding Software Project Failures,96709,12,0,1
+Software Engineering Practicum,96710,24,0,1
+Java for Smart Phone Development,96714,12,1,1
+Statistical Discovery and Learning,96733,12,1,0
+Special Topics: Service Oriented Computing,96736,12,0,0
+Elements of Software Management,96780,12,1,0
+Metrics for Software Managers,96781,12,1,1
+Process and Project Mangement,96782,12,0,1
+Managing Software Professionals,96783,12,0,1
+Software Product Definition,96788,12,1,0
+Requirements Analysis,96789,12,1,0
+Software Product Strategy,96790,12,0,1
+The Business of Software,96791,12,0,1
+Organizational Behavior for High Tech Knowledge Industry,96808,12,0,1
+Enterprise Innovation,96809,24,0,1
+Low-Power System-on-Chip Architecture,96810,12,1,0
+Connected Embedded Systems Architecture,96811,12,0,1
+Innovation and Entrepreneurship,96815,6,1,0
+Innovation and Entrepreneurship II,96820,6,1,0
+Introduction to Software Engineering,96821,12,1,0
+The Mobile Ecosystem,96822,6,0,1
+Mobile Hardware for SW Engineers,96825,12,1,0
+Directed Research,96826,12,0,1
+Improvisation for Engineers,96827,3,0,1
+Special Topics: Mobile Security,96835,12,1,0
+Wireless Network Security,96836,12,0,1
+Craft of Software Development,96838,12,0,1
+Special Topics in Signal Processing: Advance Speech Lab:,96839,12,0,0
+Special Topics in Systems and Control:,96840,12,1,0
+Special Topic in Signal Processing::,96842,12,0,0
+Independent Study,96843,12,0,1
+Student Taught Courses (StuCo): Teaching Practicum,98000,3,1,1
+Student Taught Courses (StuCo): Fun with Robots,98012,3,1,1
+Student Taught Courses (StuCo): Introduction to Anime,98038,3,1,1
+Student Taught Courses (StuCo): Introduction to Professional Baking,98089,3,1,1
+Student Taught Courses (StuCo): Sneakerology 101,98094,3,0,1
+Student Taught Courses (StuCo): Game Design in Processing,98127,3,1,0
+Student Taught Courses (StuCo): Fundamentals of Improv Comedy,98128,3,1,1
+Student Taught Course (StuCo): Crocheting at Carnegie Mellon,98149,3,1,0
+Student Taught Course (StuCo):Scottish Highland Dance,98151,3,0,1
+"StuCo: Latin Dance: Salsa, Bachata, Merengue",98164,3,1,0
+StuCo: Game Criticism,98166,3,1,1
+StuCo: How to be Happy (and other Life Lessons),98168,3,0,1
+StuCo: How to Get a Job,98171,3,1,1
+StuCo: Modern Version Control with Git,98174,3,1,1
+StuCo: Introduction to GO: The Ancient Board Game,98179,3,1,0
+StuCo: Introduction to Biblical Hebrew,98180,3,0,1
+StuCo: Science and Magic,98181,3,0,1
+StuCo: Introduction to Pool,98182,3,1,0
+StuCo: Genre Craft: Science Fiction and Fantasy,98184,3,1,0
+Student Taught Courses (StuCo): Diabolo: Chinese Yo-Yo,98185,3,0,1
+Student Taught Courses (StuCo): Roller Coasters: Background and Design,98186,3,1,1
+Student Taught Course (StuCo): Zombie Survival 101,98187,3,1,1
+Student Taught Courses (StuCo): Beyonce Dance Moves,98189,3,1,1
+Student Taught Courses (StuCo): Wumbology: The Study of Wumbo,98190,3,1,0
+Student Taught Courses (StuCo):How to Solve the Rubik's Cube & Other Puzzles,98194,3,1,0
+Student Taught Courses (StuCo): Knitting: My Heart is in the Stitch,98198,3,1,1
+Student Taught Courses (StuCo): Biblical Hebrew II,98199,3,1,0
+Student Taught Courses (StuCo): Filmography,98201,3,1,1
+Student Taught Courses (StuCo): Introduction to Minecraft,98205,3,1,1
+Student Taught Courses (StuCo): Experience Entertainment,98206,3,1,1
+Student Taught Courses (StuCo): The Message: A History of Hip Hop,98208,3,1,1
+"Student Taught Courses (StuCo):WMDs, War & Warming World: Modeling",98209,3,0,1
+Student Taught Courses (StuCo): Bellydance: How to Look Great in Sequins,98210,3,1,0
+Student Taught Courses (StuCo): Competitive Computer Security,98212,3,1,0
+Student Taught Courses (StuCo): Django Unchained: Practical Web Programming,98215,3,1,0
+Student Taught Courses (StuCo): A Biography of Zero,98216,3,1,1
+Student Taught Courses (StuCo): Bhangra 101,98217,3,1,1
+Student Taught Courses (StuCo): Great Applicable Ideas in Engineering,98219,3,1,0
+Student Taught Courses (StuCo): Introduction to Esperanto,98220,3,1,0
+Student Taught Courses (StuCo): Vegan Baking,98221,3,1,0
+Student Taught Courses (StuCo): Introduction to IOS Development,98222,3,1,1
+Student Taught Courses (StuCo): History of Classic Rock,98223,3,1,1
+Student Taught Courses (StuCo): Beekeeping 101,98225,3,1,1
+Student Taught Courses (StuCo):Directorology: Make the Movies You Like to Watch,98226,3,1,0
+Student Taught Courses (StuCo): Interactive Fiction,98228,3,0,1
+Student Taught Courses (StuCo): Public Speaking for Leaders,98229,3,1,1
+Student Taught Courses (StuCo): Order of the White Lotus,98230,3,1,1
+Student Taught Courses (StuCo): Becoming a Fiction Writer,98231,3,1,0
+Student Taught Courses (StuCo): Game Development on the Web,98232,3,1,0
+"Student Taught Courses (StuCo): Miyazaki: Anime Legend, His Life and Work",98233,3,1,1
+Student Taught Courses (StuCo): An Interactive Study of Italian Rapier,98234,3,0,1
+Student Taught Courses (StuCo): Bitcoin and Cryptocurrencies,98235,3,0,1
+Student Taught Courses (StuCo): Exploring Dinosaurs from Evolution to Extinction,98236,3,0,1
+Student Taught Courses (StuCo): How to Get More Out of Life: Manage Your Energy,98237,3,0,1
+Student Taught Courses (StuCo): Japanese Media: Study of Modern Visual Culture,98238,3,0,1
+Student Taught Courses (StuCo): League of Legends,98239,3,0,1
+Student Taught Courses (StuCo): Media Portrayal of Mental Illness,98240,3,0,1
+Student Taught Courses (StuCo): Mock Trial - The StuCo,98241,3,0,1
+Student Taught Courses (StuCo): Non-Principal Programming Languages,98242,3,0,1
+Student Taught Courses (StuCo): Pirates and the Age of Sail,98243,3,0,1
+Student Taught Courses (StuCo): Sign Language Through Pop Music,98244,3,0,1
+Student Taught Course (StuCo): Strike the Earth: Art & Science of Dwarf Fortress,98245,3,0,1
+Student Taught Courses (StuCo): Teach Me How to DJ - DJing 101,98246,3,0,1
+"Student Taught Courses (StuCo): Yer a Wizard, Scotty: A Harry Potter Analysis",98247,3,0,1
+Computing @ Carnegie Mellon,99101,3,1,1
+Computing @ Carnegie Mellon,99102,3,1,1
+Carnegie Skills Workshop,99104,3,1,0
+"Privilege, Responsibility, and Community",99151,6,1,1
+Thrive@CMU,99152,1,1,0
+"Managing Stress, Restoring Harmony",99190,6,1,0
+Personal Nutrition,99193,6,0,1
+Visioning,99208,3,1,0
+Environment Today: Food and the Environment:,99234,1,0,1
+"Materials, Energy and Environment",99238,9,1,0
+Revolutions of Circularity,99241,9,1,0
+Meaning Across the Millennia,99242,9,0,1
+"Energy: Science, Society and Communication",99245,6,0,1
+Seminar for Peer Tutors,99250,4.5,0,1
+Seminar for Supplemental Instruction,99251,4.5,0,1
+Seminar for Academic Counseling,99252,4.5,0,1
+China Today,99332,3,1,0
+Brazil Today,99333,3,0,1
+Muslims in a Global Context: Southeast Asia:,99337,3,1,0
+Muslims in a Global Context: Central Asia:,99338,3,0,1
+Interdisciplinary Undergraduate Research,99400,3,1,1
+Directed Study,99405,3,1,1
+Directed Study in Education,99406,3,1,1
+Internship,99410,3,1,1
+Language and Culture for Teaching,99452,3,1,1
+"Tutoring, Teaching and Leading through Education",99461,9,0,1
+Senior Preparation Seminar,99530,6,1,0
+Environment Today: Food and the Environment,99734,1,0,1
+"Tutoring, Teaching and Leading through Education",99761,12,0,1
