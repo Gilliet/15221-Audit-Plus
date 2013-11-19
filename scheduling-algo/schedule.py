@@ -1,3 +1,5 @@
+from createCourseDictionary import *
+
 
 """ degree requirements for CS -- in Conjunctive Normal Form """
 CS = [[15128], [15122], [15150], [15210], [15213], [15251], [15451], [15221],   # CS CORE
@@ -12,24 +14,6 @@ CS = [[15128], [15122], [15150], [15210], [15213], [15251], [15451], [15221],   
       [76101], [-15005], [-15006], [-15007],  # humanities categories
       [-15008], [-15009], [-15010]]        # humanit
 
-
-        
-        
-courseNums  = {}  # (keys = course numbers, values = course objects)
-courseNames = {}  # (keys = course names,   values = course objects)
-
-class Course:
-    def __init__(self, name, number, units, prereqs, coreqs, fall=True, spring=True):
-        self.name = name
-        self.number = number
-        self.units = units
-        self.prereqs = prereqs
-        self.coreqs = coreqs
-        self.fall = fall
-        self.spring = spring
-
-        courseNums[number] = self
-        courseNames[name] = self
 
 """ prereqs are represnted in Disjunctive Normal Form -- a list of 
 """

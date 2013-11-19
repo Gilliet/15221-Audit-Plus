@@ -1,4 +1,4 @@
-""" get course catalog information without using scrappy """
+""" get course catalog information without using scrapy """
 import urllib2
 import re
 
