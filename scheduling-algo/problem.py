@@ -188,7 +188,8 @@ class scheduleProblem(Problem):
 
         # schedules must have prereqs satisfied
         classes_taken = sum(state[1].values(), [])
-        schedules = filter(lambda x: coreqsSatisfied(x, classes_taken), schedules)
+        schedules = filter(lambda x: coreqsSatisfied(x, classes_taken), 
+                           schedules)
 
         # schedules should not satisfy the same requirement twice
         schedules = filter(lambda x: noMultipleReqs(x, reqs), schedules)
@@ -215,13 +216,4 @@ class scheduleProblem(Problem):
     def goal_test(self, state):
         (reqs, sems, season) = state
         return not reqs
-
-
-sems = dict()
-sems[0] = [15112, 15128]
-init = (CS, sems, "fall")
-a = scheduleProblem(init)
-global initialState
-initialState = a.initial
-
 

@@ -10,8 +10,13 @@ if len(sys.argv) < 2:
     print "   usage:  python gen_sample_schedues.py <iters>"
     exit(1)
 
-a = scheduleProblem(initialState)
-print initialState
+sems = dict()
+sems[0] = [15112, 15128]
+init = (CS, sems, "fall")
+
+a = scheduleProblem(init)
+print "init:", init
+print "a.initial:", a.initial
 
 schedules = []
 for i in range(int(sys.argv[1])):

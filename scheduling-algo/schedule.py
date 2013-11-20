@@ -17,6 +17,8 @@ CS = [[15128], [15122], [15150], [15210], [15213], [15251], [15451], [15221],   
 
 """ prereqs are represnted in Disjunctive Normal Form -- a list of 
 """
+
+
 # CS core
 Course("Mathematical Foundations for Computer Science", 15151, 12, [], [], 0, 0)
 Course("Fundamentals of Programming and Computer Science", 15112, 12, [], [], 1, 1)
