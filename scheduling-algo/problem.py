@@ -63,7 +63,8 @@ def coreqsSatisfied(semester, courses_taken):
     """
 
     for courseNum in semester:
-        coreqs = courseNums.get(courseNum, nodata).coreqs# in disjunctive normal form
+        coreqs = courseNums.get(courseNum, nodata).coreqs
+        # in disjunctive normal form
         if not coreqs: continue
 
 
@@ -164,7 +165,6 @@ classes = []      # disjunctive normal form
 """
 class scheduleProblem(Problem):
     def __init__(self, initialState):
-        print initialState
         (reqs, sems, season) = initialState
         classes = sum(sems.values(), [])
         new_reqs = removeReqs(classes, reqs)
